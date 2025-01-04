@@ -1,0 +1,112 @@
+[
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_ginnosuke_name_20250103_221237.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"銀の介\\nわしの小さい頃は、よく素手で虫や魚をつかまえてたもんじゃ\",\n    \"translation\": \"Gin no Suke\\nWhen I was young, I often caught insects and fish with my bare hands\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 85
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_hiroshi_name_20250103_222447.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"ひろし\\nおい、顔出すなよ\\nリモートワーク中だからな\",\n    \"translation\": \"Hiroshi\\nHey, don't show your face\\nBecause I'm in the middle of remote work\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 76
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_kazuko_name_20250103_221244.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"カズコ\\nこんにちは、しんのすけさん！\\n最近、派手なキッチンカーを\\n見かけませんか？\",\n    \"translation\": \"Kazuko: Hello Mr. Shinnosuke! Have you seen any flashy food trucks around lately?\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 88
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_kazuko_name_20250103_221247.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"カズコ\\n...いや、別になんでもないんです！\\nなにかご用ですか？\",\n    \"translation\": \"Kazuko\\n...No, it's nothing really!\\nDo you need something?\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 71
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_misae_name_20250103_222359.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"みさえ\\nしんちゃん、でかけるときは\\n声かけてから行くのよ～\",\n    \"translation\": \"Misae:\\nShin-chan, when you go out,\\nlet me know before you leave~\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 78
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_tsuru_name_20250103_222412.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"しんちゃん\\n畑、がんばってっか？\",\n    \"translation\": \"Shin-chan\\nAre you working hard in the field?\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 54
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_tsuru_name_20250103_222417.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"つる\\nはたけ あいじょう\\n畑はな、愛情をかければかけるほど\\nやさい つく\\nんめぇー野菜を作ってくれんだ～\",\n    \"translation\": \"Tsuru:\\nThe field... the more love you give it,\\nThe more delicious vegetables it will grow for you~\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 108
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_tsuru_name_20250103_222422.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"つる\\nばあちゃんが見てやっから\\n野菜の収穫がんばってみるか？\",\n    \"translation\": \"Tsuru\\nGrandma will watch over you\\nWant to try your best at harvesting vegetables?\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 79
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_tsuru_name_20250103_222432.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"まずは、トマトに、なす、玉ねぎと長ねぎ収穫してみろ\",\n    \"translation\": \"First, let's try harvesting tomatoes, eggplants, onions, and long green onions\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 77
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_tsuru_name_20250103_222434.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"つる: ちゃ〜んと育ったか しっかり見てやっから ばあちゃんのとこ持ってこい\",\n    \"translation\": \"Tsuru: Did it grow properly? I'll take a good look at it, so bring it to grandma's place\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 89
+    }
+  },
+  {
+    "image_path": "c:\\Users\\andre\\Desktop\\projects\\shin_chan_coal_town\\screenshots_deduped\\dialogue_yamao_name_20250103_222334.png",
+    "success": true,
+    "extraction": "{\n    \"raw_text\": \"ヤマオ\\nやあ、しんのすけくん！\\nなにか買っていくかい？\",\n    \"translation\": \"Yamao\\nHey, Shinnosuke!\\nWould you like to buy something?\"\n}",
+    "error": null,
+    "token_usage": {
+      "input_tokens": 343,
+      "output_tokens": 75
+    }
+  }
+]

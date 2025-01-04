@@ -1,0 +1,66 @@
+2025-01-04 00:21:34,113 - INFO - Found 11 images to process
+2025-01-04 00:21:34,113 - INFO - Encoded image size: 255576 bytes, MIME type: image/png
+2025-01-04 00:21:34,113 - INFO - Encoded image size: 171128 bytes, MIME type: image/png
+2025-01-04 00:21:34,120 - INFO - Encoded image size: 239528 bytes, MIME type: image/png
+2025-01-04 00:21:39,549 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:39,551 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_ginnosuke_name_20250103_221237.png
+Token usage: Input=343, Output=85
+2025-01-04 00:21:42,650 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:42,650 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_hiroshi_name_20250103_222447.png
+Token usage: Input=343, Output=76
+2025-01-04 00:21:46,102 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:46,103 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_kazuko_name_20250103_221244.png
+Token usage: Input=343, Output=88
+2025-01-04 00:21:46,103 - INFO - Processed 3/11 images. Running total tokens: Input=1029, Output=249
+2025-01-04 00:21:46,105 - INFO - Encoded image size: 229664 bytes, MIME type: image/png
+2025-01-04 00:21:46,105 - INFO - Encoded image size: 267052 bytes, MIME type: image/png
+2025-01-04 00:21:46,106 - INFO - Encoded image size: 200840 bytes, MIME type: image/png
+2025-01-04 00:21:50,990 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:50,990 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_kazuko_name_20250103_221247.png
+Token usage: Input=343, Output=71
+2025-01-04 00:21:53,667 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:53,668 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_misae_name_20250103_222359.png
+Token usage: Input=343, Output=78
+2025-01-04 00:21:55,521 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:21:55,521 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_tsuru_name_20250103_222412.png
+Token usage: Input=343, Output=54
+2025-01-04 00:21:55,521 - INFO - Processed 6/11 images. Running total tokens: Input=2058, Output=452
+2025-01-04 00:21:55,521 - INFO - Encoded image size: 223816 bytes, MIME type: image/png
+2025-01-04 00:21:55,525 - INFO - Encoded image size: 218468 bytes, MIME type: image/png
+2025-01-04 00:21:55,525 - INFO - Encoded image size: 210776 bytes, MIME type: image/png
+2025-01-04 00:22:02,192 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:22:02,193 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_tsuru_name_20250103_222417.png
+Token usage: Input=343, Output=108
+2025-01-04 00:22:04,920 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:22:04,920 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_tsuru_name_20250103_222422.png
+Token usage: Input=343, Output=79
+2025-01-04 00:22:16,001 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+2025-01-04 00:22:16,001 - INFO - Retrying request to /v1/messages in 0.440747 seconds
+2025-01-04 00:22:19,007 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:22:19,008 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_tsuru_name_20250103_222432.png
+Token usage: Input=343, Output=77
+2025-01-04 00:22:19,008 - INFO - Processed 9/11 images. Running total tokens: Input=3087, Output=716
+2025-01-04 00:22:19,010 - INFO - Encoded image size: 216820 bytes, MIME type: image/png
+2025-01-04 00:22:19,010 - INFO - Encoded image size: 199616 bytes, MIME type: image/png
+2025-01-04 00:22:24,897 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:22:24,898 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_tsuru_name_20250103_222434.png
+Token usage: Input=343, Output=89
+2025-01-04 00:22:27,243 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-04 00:22:27,243 - INFO - Successfully processed c:\Users\andre\Desktop\projects\shin_chan_coal_town\screenshots_deduped\dialogue_yamao_name_20250103_222334.png
+Token usage: Input=343, Output=75
+2025-01-04 00:22:27,243 - INFO - Processed 11/11 images. Running total tokens: Input=3773, Output=880
+2025-01-04 00:22:27,244 - INFO - 
+        Processing Summary
+        -----------------
+        Total images processed: 11
+        Successful extractions: 11
+        Failed extractions: 0
+        
+        Token Usage
+        -----------
+        Input tokens: 3,773
+        Output tokens: 880
+        Total tokens: 4,653
+        
+        Results saved to: extracted_text_20250104_002134.json
+        
