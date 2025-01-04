@@ -1,0 +1,7 @@
+Best confidence: 0.9392116666666667
+Best location: (453, 63)
+Number of candidates: 1
+Template size: 445x181
+Target area range: 130000 - 160000
+Best match area: 153527.0
+Area within target range: Yes

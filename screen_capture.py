@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+from numpy import log
 import pyautogui
 import time
 import os
@@ -130,7 +131,8 @@ class GameScreenshotTaker:
         vertical_offset: int = -10,
         horizontal_offset: int = 0,    # Added horizontal offset parameter
         buffer_size: int = 5,
-        buffer_time_window: float = 0.5
+        buffer_time_window: float = 0.5,
+        debug: bool = False
     ):
         """
         Initialize the screenshot taker with template images
@@ -160,6 +162,9 @@ class GameScreenshotTaker:
         
         # Initialize screenshot buffer
         self.screen_buffer = ScreenBuffer(max_size=buffer_size)
+
+        # Turn debug off per default as it will impact performance
+        self.debug = debug
         
         self.save_dir = save_dir
         os.makedirs(self.save_dir, exist_ok=True)
@@ -180,13 +185,142 @@ class GameScreenshotTaker:
         
         region = screenshot[y1:y2, x1:x2].copy()
         return region, (x1, y1, x2, y2)
-    
+
     def find_best_match(self, screenshot: np.ndarray, template_name: str, template: np.ndarray) -> Tuple[Optional[Tuple[int, int]], float]:
-        """Find the best match for a template in the screenshot"""
-        result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
-        min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
+        """
+        Find the best match for a template in the screenshot with specialized handling for dialogue boxes
+        Returns: (location, confidence)
+        """
+
+        # Routine to detect generic dialogue boxes (when there is no explitic character)
+        # Issue: seems like for specific characters there will be double detection (generic + character)
+        # This results in additional, unwanted screenshots tagged as dialogue boxes when 
+        # they should be tagged as characters (example this happens with Masked Man, etc)
+
+        # ToDo ? A solution could be to keep track of the best scores
+        # Current solution caps max detection scores for dialogue boxes at 0.95 and floors
+        # characters at 0.95, but no logic is implemented to discriminate
+
+        if template_name == "dialogue_box":
+            # Convert to grayscale
+            gray_screenshot = cv2.cvtColor(screenshot, cv2.COLOR_BGR2GRAY)
+            gray_template = cv2.cvtColor(template, cv2.COLOR_BGR2GRAY)
+            
+            # Create binary images with a higher threshold to focus on the box
+            _, bin_screenshot = cv2.threshold(gray_screenshot, 200, 255, cv2.THRESH_BINARY)
+            _, bin_template = cv2.threshold(gray_template, 200, 255, cv2.THRESH_BINARY)
+            
+            # Get expected dimensions from template
+            template_height, template_width = template.shape[:2]
+            template_area = template_width * template_height
+            expected_area = template_area * 0.15  # Target is 15% of template area
+            min_area = template_area * 0.5  # Keep original minimum area filter
+            
+            # Find contours in the screenshot
+            contours, _ = cv2.findContours(bin_screenshot, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+            
+            # Filter contours by area and shape
+            dialogue_box_candidates = []
+            for contour in contours:
+                area = cv2.contourArea(contour)
+                if area < min_area:
+                    continue
+                    
+                # Get bounding rectangle
+                x, y, w, h = cv2.boundingRect(contour)
+                
+                # Check aspect ratio (width should be greater than height)
+                aspect_ratio = w / h
+                if not (2.0 < aspect_ratio < 4.0):  # Dialogue box is typically about 3:1
+                    continue
+                    
+                # Check if contour is approximately rectangular
+                rect_area = w * h
+                if area / rect_area < 0.7:  # Area should fill at least 70% of bounding rectangle
+                    continue
+                    
+                dialogue_box_candidates.append((x, y, w, h, contour, area))
+            
+            best_confidence = 0.0
+            best_location = None
+            best_match_area = None
+            
+            for x, y, w, h, contour, area in dialogue_box_candidates:
+                try:
+                    # Calculate area-based confidence score using fixed range
+                    MIN_TARGET_AREA = 130000
+                    MAX_TARGET_AREA = 160000
+                    
+                    if MIN_TARGET_AREA <= area <= MAX_TARGET_AREA:
+                        # Area is within target range - high confidence
+                        # Scale between 0.95 and 1.0 based on position within range
+                        range_position = (area - MIN_TARGET_AREA) / (MAX_TARGET_AREA - MIN_TARGET_AREA)
+                        confidence = 0.90 + (0.05 * range_position)
+                    else:
+                        # Area outside target range - calculate falloff
+                        if area < MIN_TARGET_AREA:
+                            confidence = 0.90 * (area / MIN_TARGET_AREA)
+                        else:  # area > MAX_TARGET_AREA
+                            confidence = 0.90 * (MAX_TARGET_AREA / area)
+                    
+                    if confidence > best_confidence:
+                        best_confidence = confidence
+                        best_location = (x, y)
+                        best_match_area = area
+                        
+                except cv2.error as e:
+                    continue
+            
+            # Debug output
+            if hasattr(self, 'debug') and self.debug:
+                debug_dir = 'debug_output'
+                os.makedirs(debug_dir, exist_ok=True)
+                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                
+                # Draw filtered contours
+                debug_contours = screenshot.copy()
+                for x, y, w, h, contour, _ in dialogue_box_candidates:
+                    cv2.rectangle(debug_contours, (x, y), (x+w, y+h), (0,255,0), 2)
+                    cv2.drawContours(debug_contours, [contour], -1, (0,0,255), 1)
+                    
+                if best_location:
+                    x, y = best_location
+                    cv2.circle(debug_contours, (x, y), 10, (255,0,0), -1)
+                    
+                cv2.imwrite(os.path.join(debug_dir, f'debug_contours_{timestamp}.png'), debug_contours)
+                
+                with open(os.path.join(debug_dir, f'debug_match_info_{timestamp}.txt'), 'w') as f:
+                    f.write(f"Best confidence: {best_confidence}\n")
+                    f.write(f"Best location: {best_location}\n")
+                    f.write(f"Number of candidates: {len(dialogue_box_candidates)}\n")
+                    f.write(f"Template size: {template_width}x{template_height}\n")
+                    if best_match_area is not None:
+                        f.write(f"Target area range: {MIN_TARGET_AREA} - {MAX_TARGET_AREA}\n")
+                        f.write(f"Best match area: {best_match_area}\n")
+                        f.write(f"Area within target range: {'Yes' if MIN_TARGET_AREA <= best_match_area <= MAX_TARGET_AREA else 'No'}\n")
+            
+            if best_confidence < 0.5:
+                return None, best_confidence
+                
+            return best_location, best_confidence
+            
+        else:
+            # Original color-based matching for other templates
+            try:
+                result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
+                min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
+                return max_loc, max_val
+            except cv2.error as e:
+                print(f"Error in template matching: {e}")
+                return None, 0.0
+
+    # Old detection for characters only
+    # def find_best_match(self, screenshot: np.ndarray, template_name: str, template: np.ndarray) -> Tuple[Optional[Tuple[int, int]], float]:
+    #    """Find the best match for a template in the screenshot"""
+    #    result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
+    #    min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
         
-        return max_loc, max_val  # Always return location and confidence
+    #    return max_loc, max_val  # Always return location and confidence
     
     def find_best_region(self, x: int, y: int) -> Tuple[Optional[np.ndarray], Optional[float]]:
         """
@@ -216,7 +350,7 @@ class GameScreenshotTaker:
     def save_screenshot(self, region: np.ndarray, template_name: str) -> str:
         """Save the dialogue region"""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"dialogue_{template_name}_{timestamp}.png"
+        filename = f"{template_name}_{timestamp}.png"
         filepath = os.path.join(self.save_dir, filename)
         cv2.imwrite(filepath, region)
         return filepath
@@ -242,7 +376,7 @@ class GameScreenshotTaker:
                         for template_name, template in self.templates.items():
                             location, confidence = self.find_best_match(screenshot, template_name, template)
                             
-                            if location is not None and confidence >= 0.95:  # Strict confidence threshold
+                            if location is not None and confidence >= 0.90:  # Strict confidence threshold
                                 x, y = location
                                 print(f"Match found for '{template_name}' at ({x}, {y}) with confidence {confidence:.3f}")
                                 

@@ -3,59 +3,96 @@ from PIL import Image
 import imagehash
 from pathlib import Path
 from collections import defaultdict
+import shutil
+
+def create_directory_structure():
+    dirs = [
+        "screenshots_processed",
+        "screenshots_processed/chara_dialogues",
+        "screenshots_processed/box_dialogues",
+        "screenshots_processed/chara_dialogues/discarded",
+        "screenshots_processed/box_dialogues/discarded"
+    ]
+    for dir_path in dirs:
+        os.makedirs(dir_path, exist_ok=True)
+
+def organize_screenshots():
+    stats = defaultdict(int)
+    
+    for filename in os.listdir("screenshots"):
+        if filename.lower().endswith('.png'):
+            source = os.path.join("screenshots", filename)
+            if filename.startswith("dialogue_box"):
+                destination = os.path.join("screenshots_processed/box_dialogues", filename)
+                stats["box_dialogues"] += 1
+            else:
+                destination = os.path.join("screenshots_processed/chara_dialogues", filename)
+                stats["chara_dialogues"] += 1
+            shutil.copy2(source, destination)
+    
+    return stats
 
 def deduplicate_images(input_folder):
-    # Create output folder name by adding "_deduped"
-    output_folder = str(Path(input_folder).absolute()) + "_deduped"
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(output_folder, exist_ok=True)
-    
-    # Dictionary to store image hashes
     hash_dict = defaultdict(list)
+    stats = {
+        "unique": 0,
+        "duplicates": 0
+    }
     
-    # Process all PNG files in the input folder
+    # Get all PNG files and their hashes
     for filename in os.listdir(input_folder):
         if filename.lower().endswith('.png'):
             filepath = os.path.join(input_folder, filename)
             try:
-                # Open image and compute its hash
                 with Image.open(filepath) as img:
-                    # Using average hash with increased size for better accuracy
                     hash_value = str(imagehash.average_hash(img, hash_size=8))
                     hash_dict[hash_value].append(filename)
             except Exception as e:
                 print(f"Error processing {filename}: {e}")
     
-    # Copy unique images to output folder
-    unique_count = 0
-    duplicate_count = 0
+    # Move duplicates to discarded folder
+    discarded_folder = os.path.join(input_folder, "discarded")
     
     for hash_value, filenames in hash_dict.items():
-        # Keep only the first image from each group of duplicates
-        original = filenames[0]
-        duplicates = filenames[1:]
+        if len(filenames) > 1:
+            # Keep the first file, move others to discarded
+            original = filenames[0]
+            duplicates = filenames[1:]
+            stats["duplicates"] += len(duplicates)
+            
+            for duplicate in duplicates:
+                src_path = os.path.join(input_folder, duplicate)
+                dst_path = os.path.join(discarded_folder, duplicate)
+                try:
+                    shutil.move(src_path, dst_path)
+                except Exception as e:
+                    print(f"Error moving {duplicate}: {e}")
         
-        # Copy the unique image
-        src_path = os.path.join(input_folder, original)
-        dst_path = os.path.join(output_folder, original)
-        try:
-            with Image.open(src_path) as img:
-                img.save(dst_path)
-            unique_count += 1
-            if duplicates:
-                duplicate_count += len(duplicates)
-                print(f"Found duplicates of {original}: {', '.join(duplicates)}")
-        except Exception as e:
-            print(f"Error copying {original}: {e}")
+        stats["unique"] += 1
     
-    print(f"\nProcess complete!")
-    print(f"Found {unique_count} unique images")
-    print(f"Found {duplicate_count} duplicate images")
-    print(f"Unique images saved to: {output_folder}")
+    return stats
+
+def main():
+    # Create directory structure
+    create_directory_structure()
+    
+    # Organize screenshots
+    org_stats = organize_screenshots()
+    print("\nOrganization Statistics:")
+    print(f"Character dialogues: {org_stats['chara_dialogues']}")
+    print(f"Box dialogues: {org_stats['box_dialogues']}")
+    
+    # Deduplicate both folders
+    folders = [
+        "screenshots_processed/chara_dialogues",
+        "screenshots_processed/box_dialogues"
+    ]
+    
+    for folder in folders:
+        print(f"\nProcessing {os.path.basename(folder)}:")
+        stats = deduplicate_images(folder)
+        print(f"Unique images: {stats['unique']}")
+        print(f"Duplicates moved: {stats['duplicates']}")
 
 if __name__ == "__main__":
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    # Get input folder from user
-    folder_path = os.path.join(current_dir, "screenshots")
-    deduplicate_images(folder_path)
+    main()
