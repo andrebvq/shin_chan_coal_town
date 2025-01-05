@@ -28,6 +28,7 @@ class WindowCapture:
         def callback(hwnd, extra):
             if win32gui.IsWindowVisible(hwnd):
                 title = win32gui.GetWindowText(hwnd)
+                
                 if self.window_title.lower() in title.lower():
                     extra.append(hwnd)
             return True
@@ -132,7 +133,7 @@ class GameScreenshotTaker:
         horizontal_offset: int = 0,    # Added horizontal offset parameter
         buffer_size: int = 5,
         buffer_time_window: float = 0.5,
-        debug: bool = False
+        debug: bool = True
     ):
         """
         Initialize the screenshot taker with template images
