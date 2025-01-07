@@ -218,7 +218,7 @@ class GameScreenshotTaker:
                                     'confidence': confidence
                                 })
                         
-                        if best_match['confidence'] >= 0.90:
+                        if best_match['confidence'] >= 0.70:
                             name = best_match['template_name']
                             x, y = best_match['location']
                             print(f"Match: {name} at ({x}, {y}) conf={best_match['confidence']:.3f}")
