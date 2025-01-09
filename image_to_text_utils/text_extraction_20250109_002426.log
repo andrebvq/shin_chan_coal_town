@@ -1,0 +1,17 @@
+2025-01-09 00:24:26,296 - INFO - Logging initialized
+2025-01-09 00:24:26,297 - INFO - Found 6 images to process
+2025-01-09 00:24:26,322 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\chanp_20250104_123428.png
+2025-01-09 00:24:29,642 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:29,645 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\chanp_20250104_170731.png
+2025-01-09 00:24:32,059 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:32,060 - INFO - Processed 2/6 images
+2025-01-09 00:24:34,069 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\hana_20250104_113407.png
+2025-01-09 00:24:37,824 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:37,826 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\natsue_20250104_120925.png
+2025-01-09 00:24:40,894 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:40,895 - INFO - Processed 4/6 images
+2025-01-09 00:24:42,896 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\sumi_20250104_115211.png
+2025-01-09 00:24:45,261 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:45,263 - INFO - Successfully encoded image: c:\Users\andre\Desktop\projects\shin_chan_coal_town\image_to_text_utils\screenshots_to_text\yone_20250104_123322.png
+2025-01-09 00:24:48,184 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-09 00:24:48,185 - INFO - Processed 6/6 images
