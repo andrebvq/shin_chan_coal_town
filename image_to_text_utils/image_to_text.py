@@ -13,18 +13,22 @@ from typing import List
 @dataclass
 class ExtractionResult:
     image_name: str
-    first_word: str
-    japanese_text: str
-    translation: str
+    speaker: str
+    japanese_text: List[str]  # Changed to List to store separate sentences
+    romaji: List[str]         # Changed to List to match japanese_text
+    translation: List[str]    # Changed to List to match japanese_text
+    translation_notes: str
     ocr_confidence: float
     translation_confidence: float
     
     def to_dict(self):
         return {
             'image_name': self.image_name,
-            'first_word': self.first_word,
-            'japanese_text': self.japanese_text.replace('\n', ' ').strip(),
-            'translation': self.translation.replace('\n', ' ').strip(),
+            'speaker': self.speaker,
+            'japanese_text': self.japanese_text,
+            'romaji': self.romaji,
+            'translation': self.translation,
+            'translation_notes': self.translation_notes,
             'ocr_confidence': self.ocr_confidence,
             'translation_confidence': self.translation_confidence
         }
@@ -68,7 +72,7 @@ class ClaudeTextExtractor:
 
     async def extract_text_from_image(self, image_path: str) -> ExtractionResult:
         image_name = Path(image_path).name
-        first_word = image_name.split('_')[0] if '_' in image_name else image_name
+        speaker = image_name.split('_')[0] if '_' in image_name else image_name
         
         try:
             image_data, mime_type = self.encode_image(image_path)
@@ -90,10 +94,13 @@ class ClaudeTextExtractor:
                         {
                             "type": "text",
                             "text": "Return a JSON object with these fields only:"
-                                    "- japanese_text: the Japanese text in the image (exclude text in brown boxes)"
-                                    "- translation: English translation"
+                                    "- japanese_text: array of Japanese text sentences in the image (exclude text in brown boxes)"
+                                    "- romaji: array of romanized versions of each Japanese sentence"
+                                    "- translation: array of English translations for each sentence"
+                                    "- translation_notes: any notes or context about the translation"
                                     "- ocr_confidence: confidence score (1 if text is correctly inferred)"
                                     "- translation_confidence: confidence score (1 if translation is accurate)"
+                                    "\nMake sure japanese_text, romaji, and translation arrays have matching lengths"
                         }
                     ]
                 }]
@@ -101,14 +108,36 @@ class ClaudeTextExtractor:
             
             try:
                 response_data = json.loads(message.content[0].text)
+                
+                # Ensure we have lists, even if Claude returns single strings
+                def ensure_list(value):
+                    if isinstance(value, str):
+                        return [value]
+                    return value if value else []
+
+                japanese_text = ensure_list(response_data['japanese_text'])
+                romaji = ensure_list(response_data['romaji'])
+                translation = ensure_list(response_data['translation'])
+
+                # Validate array lengths match
+                if not (len(japanese_text) == len(romaji) == len(translation)):
+                    self.logger.warning(f"Mismatched array lengths for {image_name}. Padding shorter arrays.")
+                    max_len = max(len(japanese_text), len(romaji), len(translation))
+                    japanese_text.extend([''] * (max_len - len(japanese_text)))
+                    romaji.extend([''] * (max_len - len(romaji)))
+                    translation.extend([''] * (max_len - len(translation)))
+
                 return ExtractionResult(
                     image_name=image_name,
-                    first_word=first_word,
-                    japanese_text=response_data['japanese_text'].replace('\n', ' ').strip(),
-                    translation=response_data['translation'].replace('\n', ' ').strip(),
+                    speaker=speaker,
+                    japanese_text=japanese_text,
+                    romaji=romaji,
+                    translation=translation,
+                    translation_notes=response_data.get('translation_notes', ''),
                     ocr_confidence=float(response_data['ocr_confidence']),
                     translation_confidence=float(response_data['translation_confidence'])
                 )
+                
             except json.JSONDecodeError as e:
                 self.logger.error(f"JSON parse error: {str(e)}")
                 self.logger.error(f"Raw response: {message.content[0].text}")
@@ -119,6 +148,7 @@ class ClaudeTextExtractor:
             raise
 
     async def process_directory(self, directory_path: str, output_file: str) -> List[ExtractionResult]:
+        # Rest of the process_directory method remains the same
         if not os.path.exists(directory_path):
             raise FileNotFoundError(f"Directory not found: {directory_path}")
             
