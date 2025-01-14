@@ -1,0 +1,2212 @@
+kanji,on_readings,kun_readings,meanings,jlpt_level,on_count,kun_count,meaning_count
+日,ニチ ジツ,ひ -び,"day, sun, Japan",N5,2,2,3
+一,イチ イツ ヒト.,ひと-,one,N5,3,1,1
+国,コク ク,,country,N5,2,0,1
+人,ジン ニン,ひと -り,person,N5,2,2,1
+年,ネン ト,,year,N5,2,0,1
+大,ダイ タイ -オオ.イ,おお- おお.きい,"large, big",N5,3,2,2
+十,ジュウ ジッ ジュッ,とお,ten,N5,3,1,1
+二,ニ ジ フタタ.,ふた ふた.つ,two,N5,3,2,1
+本,ホン モ,,"book, present, main, true, real, counter for long things",N5,2,0,6
+中,チュウ アタ.,なか うち,"in, inside, middle, mean, center",N5,2,2,5
+長,チョウ オ,なが.い,"long, leader",N5,2,1,2
+出,シュツ スイ イ.ダ,で.る -で だ.す -だ.す い.でる,"exit, leave",N5,3,5,2
+三,サン ゾウ ミッ.,み み.つ,three,N5,3,2,1
+時,ジ -ド,とき,"time, hour",N5,2,1,2
+行,コウ ギョウ アン オコ.ナ,い.く ゆ.く -ゆ.き -ゆき -い.き -いき おこな.う,"going, journey",N5,4,7,2
+見,ケン,み.る み.える み.せる,"see, hopes, chances, idea, opinion, look at, visible",N5,1,3,7
+月,ゲツ ガツ ツ,,"month, moon",N5,3,0,2
+後,ゴ コウ オク.レ,のち うし.ろ うしろ あと,"behind, back, later",N5,3,4,3
+前,ゼン -マ,まえ,"in front, before",N5,2,1,2
+生,セイ ショウ,い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る,"life, genuine, birth",N5,2,14,3
+五,ゴ イツ.,いつ,five,N5,2,1,1
+間,カン ケン,あいだ ま あい,"interval, space",N5,2,3,2
+上,ジョウ ショウ シャン ヨ.,うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.,"above, up",N5,4,13,2
+東,トウ ヒガ,,east,N5,2,0,1
+四,シ ヨ,よ よ.つ よっ.つ,four,N5,2,3,1
+今,コン キン イ,,now,N5,3,0,1
+金,キン コン ゴン -ガ,かね かな-,gold,N5,4,2,1
+九,キュウ ク ココノ.,ここの,nine,N5,3,1,1
+入,ニュウ ジュ ハイ.,い.る -い.る -い.り い.れる -い.れ,"enter, insert",N5,3,5,2
+学,ガク マナ.,,"study, learning, science",N5,2,0,3
+高,コウ タカ.メ,たか.い たか -だか たか.まる,"tall, high, expensive",N5,2,4,3
+円,エン マロ.ヤ,まる.い まる まど まど.か,"circle, yen, round",N5,2,4,3
+子,シ ス ツ,こ -こ,"child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",N5,3,2,4
+外,ガイ ゲ,そと ほか はず.す はず.れる と,outside,N5,2,5,1
+八,ハチ ヨ,や や.つ やっ.つ,eight,N5,2,3,1
+六,ロク リク ム,む む.つ むっ.つ,six,N5,3,3,1
+下,カ ゲ オ.リ,した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす,"below, down, descend, give, low, inferior",N5,3,11,6
+来,ライ タイ,く.る きた.る きた.す き.たす き.たる き,"come, due, next, cause, become",N5,2,6,5
+気,キ ケ,いき,"spirit, mind",N5,2,1,2
+小,ショウ,ちい.さい こ- お- さ,"little, small",N5,1,4,2
+七,シチ ナ,なな なな.つ,seven,N5,2,2,1
+山,サン セン ヤ,,mountain,N5,3,0,1
+話,ワ,はな.す はなし,"tale, talk",N5,1,2,2
+女,ジョ ニョ ニョウ,おんな,"woman, female",N5,3,1,2
+北,ホク キ,,north,N5,2,0,1
+午,ゴ,うま,"noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",N5,1,1,4
+百,ヒャク ビャク モ,,hundred,N5,3,0,1
+書,ショ -ガ,か.く -が.き,write,N5,2,2,1
+先,セン マ.,さき,"before, ahead, previous, future, precedence",N5,2,1,5
+名,メイ ミョウ,な,"name, noted, distinguished, reputation",N5,2,1,4
+川,セン カ,,"stream, river",N5,2,0,2
+千,セン,,thousand,N5,1,0,1
+水,スイ,みず みず,water,N5,1,2,1
+半,ハン ナカ.,,"half, middle, odd number, semi-, part-",N5,2,0,5
+男,ダン ナン,おとこ,male,N5,2,1,1
+西,セイ サイ ス ニ,,"west, Spain",N5,4,0,2
+電,デン,,electricity,N5,1,0,1
+校,コウ キョ,,"exam, school, printing, proof, correction",N5,2,0,5
+語,ゴ,かた.る かた.らう,"word, speech, language",N5,1,2,3
+土,ド ト ツ,,"soil, earth, ground, Turkey",N5,3,0,4
+木,ボク モク,き こ,"tree, wood",N5,2,2,2
+聞,ブン モン,き.く き.こえる,"hear, ask, listen",N5,2,2,3
+食,ショク ジキ ハ.,く.う く.らう た.べる,"eat, food",N5,3,3,2
+車,シャ クル,,car,N5,2,0,1
+何,カ,なに なん なに- なん,what,N5,1,4,1
+南,ナン ナ ミナ,,south,N5,3,0,1
+万,マン バン ヨロ,,ten thousand,N5,3,0,1
+毎,マイ -ゴト.,ごと,every,N5,2,1,1
+白,ハク ビャク シロ.,しろ しら-,white,N5,3,2,1
+天,テン,あまつ あめ あま,"heavens, sky, imperial",N5,1,3,3
+母,ボ,はは も,"mama, mother",N5,1,2,2
+火,カ,ひ -び ほ-,fire,N5,1,3,1
+右,ウ ユウ ミ,,right,N5,3,0,1
+読,ドク トク トウ -ヨ.,よ.む,read,N5,4,1,1
+友,ユウ ト,,friend,N5,2,0,1
+左,サ シャ ヒダ,,left,N5,3,0,1
+休,キュウ,やす.む やす.まる やす.める,"rest, day off, retire, sleep",N5,1,3,4
+父,フ,ちち,father,N5,1,1,1
+雨,ウ,あめ あま- -さめ,rain,N5,1,3,1
+会,カイ エ アツ.マ,あ.う あ.わせる,"meeting, meet, party, association, interview, join",N4,3,2,6
+同,ドウ,おな.じ,"same, agree, equal",N4,1,1,3
+事,ジ ズ ツカ.エ,こと つか.う,"matter, thing, fact, business, reason, possibly",N4,3,2,6
+自,ジ シ オノ.ズ,みずか.ら おの.ずから,oneself,N4,3,2,1
+社,シャ ヤシ,,"company, firm, office, association, shrine",N4,2,0,5
+発,ハツ ホツ ハナ.,た.つ あば.く おこ.る つか.わす,"discharge, departure, publish, emit, start from, disclose",N4,3,4,6
+者,シャ,もの,"someone, person",N4,1,1,2
+地,チ,,"ground, earth",N4,1,0,2
+業,ギョウ ゴウ ワ,,"business, vocation, arts, performance",N4,3,0,4
+方,ホウ -ガ,かた -かた,"direction, person, alternative",N4,2,2,3
+新,シン,あたら.しい あら.た あら- にい,new,N4,1,4,1
+場,ジョウ チョウ,ば,"location, place",N4,2,1,2
+員,イ,,"employee, member, number, the one in charge",N4,1,0,4
+立,リツ リュウ リットル -ダ.テ,た.つ -た.つ た.ち- た.てる -た.てる た.て- たて- -た.て -だ.て,stand up,N4,4,9,1
+開,カイ ア.ケ,ひら.く ひら.き -びら.き ひら.ける あ.く,"open, unfold, unseal",N4,2,5,3
+手,シュ ズ,て て- -て た-,hand,N4,2,4,1
+力,リョク リキ リイ チカ,,"power, strong, strain, bear up, exert",N4,4,0,5
+問,モン ト,と.う と.い,"question, ask, problem",N4,2,2,3
+代,ダイ タイ シ,か.わる かわ.る かわ.り -がわ.り か.える よ,"substitute, change, convert, replace, period, age, generation, charge, rate, fee",N4,3,6,10
+明,メイ ミョウ ミン ア.カ,あ.かり あか.るい あか.るむ あか.らむ あき.らか あ.ける -あ.け あ.く あ.くる,"bright, light",N4,4,9,2
+動,ドウ ウゴ.カ,うご.く,"move, motion, change, confusion, shift, shake",N4,2,1,6
+京,キョウ ケイ キン ミヤ,,"capital, 10**16",N4,4,0,2
+目,モク ボク,め -め ま,"eye, class, look, insight, experience, care, favor",N4,2,3,7
+通,ツウ ツ カヨ.,とお.る とお.り -とお.り -どお.り とお.す とお.し -どお.し,"traffic, pass through, avenue, commute, counter for letters",N4,3,7,5
+言,ゲン ゴン コ,い.う,say,N4,3,1,1
+理,リ コトワ,,"logic, arrangement, reason, justice, truth",N4,2,0,5
+体,タイ テイ カタ,からだ,"body, substance, object, reality, counter for images",N4,3,1,5
+田,デン,,"rice field, rice paddy",N4,1,0,2
+主,シュ ス シュウ アル,ぬし おも,"lord, chief, master, main thing, principal",N4,4,2,5
+題,ダイ,,"topic, subject",N4,1,0,2
+意,,,"idea, mind, heart, taste, thought, desire, care, liking",N4,0,0,8
+不,フ ブ,,"negative, non-, bad, ugly, clumsy",N4,2,0,5
+作,サク サ -ヅク.,つく.る つく.り,"make, production, prepare, build",N4,3,2,4
+用,ヨウ モチ.イ,,"utilize, business, service, use, employ",N4,2,0,5
+度,ド ト タク -タ.,たび,"degrees, occurrence, time, counter for occurrences",N4,4,1,4
+強,キョウ ゴウ コワ.,つよ.い つよ.まる つよ.める し.いる,strong,N4,3,4,1
+公,コウ ク オオヤ,,"public, prince, official, governmental",N4,3,0,4
+持,ジ モ.テ,も.つ -も.ち,"hold, have",N4,2,2,2
+野,ヤ ショ,の の,"plains, field, rustic, civilian life",N4,2,2,4
+以,イ モッ.,,"by means of, because, in view of, compared with",N4,2,0,4
+思,シ,おも.う おもえら.く おぼ.す,think,N4,1,3,1
+家,カ ケ ウ,いえ や,"house, home",N4,3,2,2
+世,セイ セ ソウ サンジュ,よ,"generation, world, society, public",N4,4,1,4
+多,タ,おお.い まさ.に まさ.る,"many, frequent, much",N4,1,3,3
+正,セイ ショウ マサ.,ただ.しい ただ.す まさ,"correct, justice, righteous, 10**40",N4,3,3,4
+安,アン ヤス.ラ,やす.い やす.まる やす,"relax, cheap, low, quiet, rested, contented, peaceful",N4,2,3,7
+院,イン,,"Inst., institution, temple, mansion, school",N4,1,0,5
+心,,りっしんべん,"heart, mind, spirit",N4,0,1,3
+界,カイ,,world,N4,1,0,1
+教,キョウ オソ.ワ,おし.える,"teach, faith, doctrine",N4,2,1,3
+文,ブン モン ア,ふみ,"sentence, literature, style, art, decoration, figures, plan",N4,3,1,7
+元,ゲン ガン モ,,"beginning, former time, origin",N4,3,0,3
+重,ジュウ チョウ オ,え おも.い おも.り おも.なう かさ.ねる かさ.なる,"heavy, heap up, pile up, nest of boxes, -fold",N4,3,6,5
+近,キン コン チカ.,,"near, early, akin, tantamount",N4,3,0,4
+考,コウ カンガ.,かんが.える,"consider, think over",N4,2,1,2
+画,ガ カク エ カイ,えが.く かく.する かぎ.る はかりごと はか.る,"brush-stroke, picture",N4,4,5,2
+海,カイ ウ,,"sea, ocean",N4,2,0,2
+売,バイ ウ.レ,う.る,sell,N4,2,1,1
+知,チ シ.ラセ,し.る,"know, wisdom",N4,2,1,2
+道,ドウ トウ ミ,,"road-way, street, district, journey, course, moral, teachings",N4,3,0,7
+集,シュウ ツド.,あつ.まる あつ.める,"gather, meet, congregate, swarm, flock",N4,2,2,5
+別,ベツ ワ.ケ,わか.れる,"separate, branch off, diverge, fork, another, extra, specially",N4,2,1,7
+物,ブツ モツ,もの もの-,"thing, object, matter",N4,2,2,3
+使,シ,つか.う つか.い -つか.い -づか.い,use,N4,1,4,1
+品,ヒン ホン,しな,"goods, refinement, dignity, article, counter for meal courses",N4,2,1,5
+計,ケイ ハカ.ラ,はか.る,"plot, plan, scheme, measure",N4,2,1,4
+死,シ,し.ぬ し.に-,"death, die",N4,1,2,2
+特,トク,,special,N4,1,0,1
+私,シ,わたくし わたし,"private, I, me",N4,1,2,3
+始,シ ハジ.マ,はじ.める -はじ.める,"commence, begin",N4,2,2,2
+朝,チョウ ア,,"morning, dynasty, regime, epoch, period, (North) Korea",N4,2,0,6
+運,ウン,はこ.ぶ,"carry, luck, destiny, fate, lot, transport, progress, advance",N4,1,1,8
+終,シュウ ツイ.,お.わる -お.わる おわ.る お.える つい,"end, finish",N4,2,5,2
+台,ダイ タイ,うてな われ つかさ,"pedestal, a stand, counter for machines and vehicles",N4,2,3,3
+広,コウ,ひろ.い ひろ.まる ひろ.める ひろ.がる ひろ.げる,"wide, broad, spacious",N4,1,5,3
+住,ジュウ ヂュウ チュウ -ズ.マ,す.む す.まう,"dwell, reside, live, inhabit",N4,4,2,4
+真,シン マコ,ま ま-,"true, reality, Buddhist sect",N4,2,2,3
+有,ユウ ウ ア.,,"possess, have, exist, happen, occur, approx",N4,3,0,6
+口,コウ ク,くち,mouth,N4,2,1,1
+少,ショウ,すく.ない すこ.し,"few, little",N4,1,2,2
+町,チョウ,まち,"village, town, block, street",N4,1,1,4
+料,リョウ,,"fee, materials",N4,1,0,2
+工,コウ ク,,"craft, construction",N4,2,0,2
+建,ケン コン タ.,た.てる た.て -だ.て,build,N4,3,3,1
+空,クウ ムナ.シ,そら あ.く あ.き あ.ける から す.く す.かす,"empty, sky, void, vacant, vacuum",N4,2,7,5
+急,キュウ,いそ.ぐ いそ.ぎ,"hurry, emergency, sudden, steep",N4,1,2,4
+止,シ -サ.,と.まる -ど.まり と.める -と.める -ど.め とど.める とど.め とど.まる や.める や.む -や.む よ.,"stop, halt",N4,2,12,2
+送,ソウ,おく.る,"escort, send",N4,1,1,2
+切,セツ サイ -ギ.,き.る -き.る き.り -き.り -ぎ.り き.れる -き.れる き.れ -き.れ,"cut, cutoff, be sharp",N4,3,9,3
+転,テン,ころ.がる ころ.げる ころ.がす ころ.ぶ まろ.ぶ うたた うつ.る,"revolve, turn around, change",N4,1,7,3
+研,ケン ト.,,"polish, study of, sharpen",N4,2,0,3
+足,ソク タ.,あし た.りる た.る,"leg, foot, be sufficient, counter for pairs of footwear",N4,2,3,4
+究,キュウ ク キワ.メ,,"research, study",N4,3,0,2
+楽,ガク ラク ゴウ コノ.,たの.しい たの.しむ,"music, comfort, ease",N4,4,2,3
+起,キ,お.きる お.こる お.こす おこ.す た.つ,"rouse, wake up, get up",N4,1,5,3
+着,チャク ジャク,き.る -ぎ き.せる -き.せ つ.く つ.ける,"don, arrive, wear, counter for suits of clothing",N4,2,6,4
+店,テン,みせ たな,"store, shop",N4,1,2,2
+病,ビョウ ヘイ,や.む -や.み やまい,"ill, sick",N4,2,3,2
+質,シツ シチ チ,たち ただ.す もと わりふ,"substance, quality, matter, temperament",N4,3,4,4
+待,タイ -マ.,ま.つ,"wait, depend on",N4,2,1,2
+試,シ,こころ.みる ため.す,"test, try, attempt, experiment, ordeal",N4,1,2,5
+族,ゾ,,"tribe, family",N4,1,0,2
+銀,ギン シロガ,,silver,N4,2,0,1
+早,ソウ サッ,はや.い はや はや- はや.まる はや.める さ,"early, fast",N4,2,6,2
+映,エイ -バ.,うつ.る うつ.す は.える,"reflect, reflection, projection",N4,2,3,3
+親,シン シタ.シ,おや おや- した.しい,"parent, intimacy, relative, familiarity, dealer (cards)",N4,2,3,5
+験,ケン ゲン,あかし しるし ため.す ためし,"verification, effect, testing",N4,2,4,3
+英,エイ ハナブ,,"England, English",N4,2,0,2
+医,イ,い.やす い.する くすし,"doctor, medicine",N4,1,3,2
+仕,シ ジ,つか.える,"attend, doing, official, serve",N4,2,1,4
+去,キョ コ -サ.,さ.る,"gone, past, quit, leave, elapse, eliminate, divorce",N4,3,1,7
+味,ミ,あじ あじ.わう,"flavor, taste",N4,1,2,2
+写,シャ ジャ,うつ.す うつ.る うつ- うつ.し,"copy, be photographed, describe",N4,2,4,3
+字,ジ,あざ あざな -な,"character, letter, word, section of village",N4,1,3,4
+答,トウ コタ.,こた.える,"solution, answer",N4,2,1,2
+夜,ヤ,よ よる,"night, evening",N4,1,2,2
+音,オン イン -ノン,おと,"sound, noise",N4,3,1,2
+注,チュウ,そそ.ぐ さ.す つ.ぐ,"pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",N4,1,3,8
+帰,キ,かえ.る かえ.す おく.る とつ.ぐ,"homecoming, arrive at, lead to, result in",N4,1,4,4
+古,コ -フル.,ふる.い ふる-,old,N4,2,2,1
+歌,カ,うた うた.う,"song, sing",N4,1,2,2
+買,バイ,か.う,buy,N4,1,1,1
+悪,アク オ,わる.い わる- あ.し にく.い -にく.い ああ いずくに いずくんぞ にく.む,"bad, vice, rascal, false, evil, wrong",N4,2,9,6
+図,ズ ト ハカ.,え,"map, drawing, plan, unexpected, accidentally",N4,3,1,5
+週,シュウ,,week,N4,1,0,1
+室,シツ,むろ,"room, apartment, chamber, greenhouse, cellar",N4,1,1,5
+歩,ホ ブ フ アユ.,ある.く,"walk, counter for steps",N4,4,1,2
+風,フウ フ -カ,かぜ かざ-,"wind, air, style, manner",N4,3,2,4
+紙,シ,かみ,paper,N4,1,1,1
+黒,コク,くろ くろ.ずむ くろ.い,black,N4,1,3,1
+花,カ ケ ハ,,flower,N4,3,0,1
+春,シュン ハ,,"springtime, spring (season)",N4,2,0,2
+赤,セキ シャク アカ.ラメ,あか あか- あか.い あか.らむ,red,N4,3,4,1
+青,セイ ショウ アオ.,あお あお-,"blue, green",N4,3,2,2
+館,カン タ,やかた,"building, mansion, large building, palace",N4,2,1,4
+屋,オク,,"roof, house, shop, dealer, seller",N4,1,0,5
+色,ショク シキ イ,,color,N4,3,0,1
+走,ソウ ハシ.,,run,N4,2,0,1
+秋,シュウ ト,あき,autumn,N4,2,1,1
+夏,カ ガ ゲ,なつ,summer,N4,3,1,1
+習,シュウ ジュ,なら.う なら.い,learn,N4,2,2,1
+駅,エキ,,station,N4,1,0,1
+洋,ヨ,,"ocean, western style",N4,1,0,2
+旅,リョ,たび,"trip, travel",N4,1,1,2
+服,フ,,"clothing, admit, obey, discharge",N4,1,0,4
+夕,セキ ユ,,evening,N4,2,0,1
+借,シャク,か.りる,"borrow, rent",N4,1,1,2
+曜,ヨ,,weekday,N4,1,0,1
+飲,イン オン,の.む -の.み,"drink, smoke, take",N4,2,2,3
+肉,ニク,,meat,N4,1,0,1
+貸,タイ,か.す か.し- かし-,lend,N4,1,3,1
+堂,ドウ,,"public chamber, hall",N4,1,0,2
+鳥,チョウ ト,,"bird, chicken",N4,2,0,2
+飯,ハン メ,,"meal, boiled rice",N4,2,0,2
+勉,ベン ツト.メ,,exertion,N4,2,0,1
+冬,トウ,ふゆ,winter,N4,1,1,1
+昼,チュウ,ひる,"daytime, noon",N4,1,1,2
+茶,チャ,,tea,N4,1,0,1
+弟,テイ ダイ デ オトウ,,"younger brother, faithful service to elders",N4,4,0,2
+牛,ギュウ ウ,,cow,N4,2,0,1
+魚,ギョ -ザカ,うお さかな,fish,N4,2,2,1
+兄,ケイ キョウ ア,,"elder brother, big brother",N4,3,0,2
+犬,ケン,いぬ いぬ-,dog,N4,1,2,1
+妹,マイ イモウ,,younger sister,N4,2,0,1
+姉,シ,あね はは,elder sister,N4,1,2,1
+漢,カ,,"Sino-, China",N4,1,0,2
+政,セイ ショウ マ,まつりごと,"politics, government",N3,3,1,2
+議,,,"deliberation, consultation, debate, consideration",N3,0,0,4
+民,ミン タ,,"people, nation, subjects",N3,2,0,3
+連,レン -ヅ.,つら.なる つら.ねる つ.れる,"take along, lead, join, connect, party, gang, clique",N3,2,3,7
+対,タイ ツイ ムカ.,あいて こた.える そろ.い つれあ.い なら.ぶ,"vis-a-vis, opposite, even, equal, versus, anti-, compare",N3,3,5,7
+部,ブ,,"section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",N3,1,0,8
+合,ゴウ ガッ カッ -ア.ワセ,あ.う -あ.う あ.い あい- -あ.い -あい あ.わす あ.わせる,"fit, suit, join, 0.1",N3,4,8,4
+市,シ イ,,"market, city, town",N3,2,0,3
+内,ナイ ダイ ウ,,"inside, within, between, among, house, home",N3,3,0,6
+相,ソウ ショウ,あい,"inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",N3,2,1,9
+定,テイ ジョウ サダ.,さだ.める さだ.まる,"determine, fix, establish, decide",N3,3,2,4
+回,カイ エ,まわ.る -まわ.る -まわ.り まわ.す -まわ.す まわ.し- -まわ.し もとお.る か.える,"-times, round, game, revolve, counter for occurrences",N3,2,9,5
+選,セン,えら.ぶ,"elect, select, choose, prefer",N3,1,1,4
+米,ベイ マイ メエトル ヨ,こめ,"rice, USA, metre",N3,4,1,3
+実,ジツ シツ ミチ.,み みの.る まこと まことに みの,"reality, truth",N3,3,5,2
+関,カン,せき -ぜき かか.わる からくり かんぬき,"connection, barrier, gateway, involve, concerning",N3,1,5,5
+決,ケツ,き.める -ぎ.め き.まる さ.く,"decide, fix, agree upon, appoint",N3,1,4,4
+全,ゼン スベ.,まった.く,"whole, entire, all, complete, fulfill",N3,2,1,5
+表,ヒョウ,おもて -おもて あらわ.す あらわ.れる あら.わす,"surface, table, chart, diagram",N3,1,5,4
+戦,セン ワナナ.,いくさ たたか.う おのの.く そよぐ,"war, battle, match",N3,2,4,3
+経,ケイ キョウ ノ,へ.る た.つ たていと はか.る,"sutra, longitude, pass thru, expire, warp",N3,3,4,5
+最,サイ シュ ツ,もっと.も,"utmost, most, extreme",N3,3,1,3
+現,ゲン アラワ.,あらわ.れる,"present, existing, actual",N3,2,1,3
+調,チョウ トトノ.エ,しら.べる しら.べ ととの.う,"tune, tone, meter, key (music), writing style, prepare, exorcise, investigate",N3,2,3,8
+化,カ ケ,ば.ける ば.かす ふ.ける け.する,"change, take the form of, influence, enchant, delude, -ization",N3,2,4,6
+当,トウ マサ.ニベ,あ.たる あ.たり あ.てる あ.て まさ.に,"hit, right, appropriate, himself",N3,2,5,4
+約,ヤク,,"promise, approximately, shrink",N3,1,0,3
+首,シュ ク,,neck,N3,2,0,1
+法,ホウ ハッ ホッ フラン ノ,,"method, law, rule, principle, model, system",N3,5,0,6
+性,セイ ショウ,さが,"sex, gender, nature",N3,2,1,3
+要,ヨウ イ.,,"need, main point, essence, pivot, key to",N3,2,0,5
+制,セイ,,"system, law, rule",N3,1,0,3
+治,ジ チ ナオ.,おさ.める おさ.まる なお.る,"reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",N3,3,3,10
+務,ム ツト.メ,,"task, duties",N3,2,0,2
+成,セイ ジョウ -ナ.,な.る な.す,"turn into, become, get, grow, elapse, reach",N3,3,2,6
+期,キ ゴ,,"period, time, date, term",N3,2,0,4
+取,シュ -ド.,と.る と.り と.り- とり,"take, fetch, take up",N3,2,4,3
+都,ト ツ ミヤ,,"metropolis, capital",N3,3,0,2
+和,ワ オ カ ナゴ.ヤ,やわ.らぐ やわ.らげる なご.む,"harmony, Japanese style, peace, soften, Japan",N3,4,3,5
+機,キ,はた,"mechanism, opportunity, occasion, machine, airplane",N3,1,1,5
+平,ヘイ ビョウ ヒョウ,たい.ら -だいら ひら ひら,"even, flat, peace",N3,3,4,3
+加,カ,くわ.える くわ.わる,"add, addition, increase, join, include, Canada",N3,1,2,6
+受,ジュ ウ.カ,う.ける -う.け,"accept, undergo, answer (phone), take, get, catch, receive",N3,2,2,7
+続,ゾク ショク コウ キョウ ツグ.ナ,つづ.く つづ.ける,"continue, series, sequel",N3,5,2,3
+進,シン スス.メ,すす.む,"advance, proceed, progress, promote",N3,2,1,4
+数,スウ ス サク ソク シュ ワズラワ.シ,かず かぞ.える しばしば せ.める,"number, strength, fate, law, figures",N3,6,4,5
+記,キ シル.,,"scribe, account, narrative",N3,2,0,3
+初,ショ -ゾ.,はじ.め はじ.めて はつ はつ- うい- -そ.める,"first time, beginning",N3,2,6,2
+指,シ -サ.,ゆび さ.す,"finger, point to, indicate, put into, play (chess), measure (ruler)",N3,2,2,6
+権,ケン ゴン,おもり かり はか.る,"authority, power, rights",N3,2,3,3
+支,,しんよう じゅうまた,"branch, support, sustain",N3,0,2,3
+産,サン ム.,う.む う.まれる うぶ-,"products, bear, give birth, yield, childbirth, native, property",N3,2,3,7
+点,テン,つ.ける つ.く た.てる さ.す とぼ.す とも.す ぼち,"spot, point, mark, speck, decimal point",N3,1,7,5
+報,ホウ,むく.いる,"report, news, reward, retribution",N3,1,1,4
+済,サイ セイ ワタ.,す.む -ず.み -ずみ す.まない す.ます -す.ます すく.う な.す わたし,"finish, come to an end, excusable, need not",N3,3,9,4
+活,カツ,い.きる い.かす い.ける,"lively, resuscitation, being helped, living",N3,1,3,4
+原,ゲン ハ,,"meadow, original, primitive, field, plain, prairie, tundra, wilderness",N3,2,0,8
+共,キョウ,とも とも.に -ども,"together, both, neither, all, and, alike, with",N3,1,3,7
+得,トク ウ.,え.る,"gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",N3,2,1,11
+解,カイ ゲ サト.,と.く と.かす と.ける ほど.く ほど.ける わか.る,"unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute",N3,3,6,13
+交,コウ コモゴ,まじ.わる まじ.える ま.じる まじ.る ま.ざる ま.ぜる -か.う か.わす かわ.す,"mingle, mixing, association, coming & going",N3,2,9,4
+資,,,"assets, resources, capital, funds, data, be conducive to, contribute to",N3,0,0,7
+予,ヨ シャ,あらかじ.め,"beforehand, previous, myself, I",N3,2,1,4
+向,コウ ムカ.,む.く む.い -む.き む.ける -む.け む.かう む.かい む.こう む.こう- むこ,"yonder, facing, beyond, confront, defy, tend toward, approach",N3,2,10,7
+際,サイ -ギ,きわ,"occasion, side, edge, verge, dangerous, adventurous, indecent, time, when",N3,2,1,9
+勝,ショウ カ,か.つ -が.ち まさ.る すぐ.れる,"victory, win, prevail, excel",N3,2,4,4
+面,メン ベン ツ,おも おもて,"mask, face, features, surface",N3,3,2,4
+告,コク ツ.ゲ,,"revelation, tell, inform, announce",N3,2,0,4
+反,ハン ホン タン ホ -カエ.,そ.る そ.らす かえ.す かえ.る,anti-,N3,5,4,1
+判,ハン バン,わか.る,"judgement, signature, stamp, seal",N3,2,1,4
+認,ニン,みと.める したた.める,"acknowledge, witness, discern, recognize, appreciate, believe",N3,1,2,6
+参,サン シン ミ,まい.る まい- まじわる,"nonplussed, three, going, coming, visiting, visit, be defeated, die, be madly in love",N3,3,3,9
+利,リ キ.,,"profit, advantage, benefit",N3,2,0,3
+組,ソ,く.む くみ -ぐみ,"association, braid, plait, construct, assemble, unite, cooperate, grapple",N3,1,3,8
+信,シ,,"faith, truth, fidelity, trust",N3,1,0,4
+在,ザイ ア.,,"exist, outskirts, suburbs, located in",N3,2,0,4
+件,ケン,くだん,"affair, case, matter, item",N3,1,1,4
+側,ソク,かわ がわ そば,"side, lean, oppose, regret",N3,1,3,4
+任,ニン マカ.,まか.せる,"responsibility, duty, term, entrust to, appoint",N3,2,1,5
+引,イン ヒ.ケ,ひ.く ひ.き ひ.き- -び.き,"pull, tug, jerk, admit, install, quote, refer to",N3,2,4,7
+求,キュウ グ,もと.める,"request, want, wish for, require, demand",N3,2,1,5
+所,ショ ト,ところ -ところ どころ,place,N3,2,3,1
+次,ジ シ ツ,つ.ぐ,"next, order, sequence",N3,3,1,3
+昨,サク,,"yesterday, previous",N3,1,0,2
+論,ロン,,"argument, discourse",N3,1,0,2
+官,カン,,"bureaucrat, the government",N3,1,0,2
+増,ゾウ フ.ヤ,ま.す ま.し ふ.える,"increase, add, augment, gain, promote",N3,2,3,5
+係,ケイ,かか.る かかり -がかり かか.わる,"person in charge, connection, duty, concern oneself",N3,1,4,4
+感,カン,,"emotion, feeling, sensation",N3,1,0,3
+情,ジョウ セイ,なさ.け,"feelings, emotion, passion, sympathy, circumstances, facts",N3,2,1,6
+投,トウ,な.げる -な.げ,"throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",N3,1,2,9
+示,ジ シ,しめ.す,"show, indicate, point out, express, display",N3,2,1,5
+変,ヘン,か.わる か.わり か.える,"unusual, change, strange",N3,1,3,3
+打,ダ ダアス ブ.,う.つ う.ち-,"strike, hit, knock, pound, dozen",N3,3,2,5
+直,チョク ジキ ジカ ス.,ただ.ちに なお.す -なお.す なお.る なお.き,"straightaway, honesty, frankness, fix, repair",N3,4,5,5
+両,リョウ フタ,てる,"both, old Japanese coin, counter for vehicles, two",N3,2,1,4
+式,シ,,"style, ceremony, rite, function, method, system, form, expression",N3,1,0,8
+確,カク コウ,たし.か たし.かめる,"assurance, firm, tight, hard, solid, confirm, clear, evident",N3,2,2,8
+果,カ ハ.,は.たす はた.す -は.たす は.てる -は.てる,"fruit, reward, carry out, achieve, complete, end, finish, succeed",N3,2,5,8
+容,ヨウ イ.レ,,"contain, form, looks",N3,2,0,3
+必,ヒツ,かなら.ず,"invariably, certain, inevitable",N3,1,1,3
+演,エン,,"performance, act, play, render, stage",N3,1,0,5
+歳,サイ セイ,とし とせ よわい,"year-end, age, occasion, opportunity",N3,2,3,4
+争,ソウ,あらそ.う いか.でか,"contend, dispute, argue",N3,1,2,3
+談,ダン,,"discuss, talk",N3,1,0,2
+能,ノウ ヨ.,,"ability, talent, skill, capacity",N3,2,0,4
+位,イ グラ,くらい,"rank, grade, throne, crown, about, some",N3,2,1,6
+置,チ -オ.,お.く,"placement, put, set, deposit, leave behind, keep, employ, pawn",N3,2,1,8
+流,リュウ ル -ナガ.,なが.れる なが.れ なが.す,"current, a sink, flow, forfeit",N3,3,3,4
+格,カク コウ キャク ゴ,,"status, rank, capacity, character, case (law, grammar)",N3,4,0,6
+疑,ギ,うたが.う,"doubt, distrust, be suspicious, question",N3,1,1,4
+過,カ,す.ぎる -す.ぎる -す.ぎ す.ごす あやま.つ あやま.ち,"overdo, exceed, go beyond, error",N3,1,6,4
+局,キョク,つぼね,"bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",N3,1,1,8
+放,ホウ ホウ.,はな.す -っぱな.し はな.つ はな.れる こ.く,"set free, release, fire, shoot, emit, banish, liberate",N3,2,5,7
+常,ジョウ,つね とこ,"usual, ordinary, normal, regular",N3,1,2,4
+状,ジョウ,,"status quo, conditions, circumstances, form, appearance",N3,1,0,5
+球,キュウ タ,,"ball, sphere",N3,2,0,2
+職,ショク ソ,,"post, employment, work",N3,2,0,3
+与,ヨ トモ,あた.える あずか.る くみ.する,"bestow, participate in, give, award, impart, provide, cause, gift, godsend",N3,2,3,9
+供,キョウ ク クウ グ,そな.える とも -ども,"submit, offer, present, serve (meal), accompany",N3,4,3,5
+役,ヤク エ,,"duty, war, campaign, drafted labor, office, service, role",N3,2,0,7
+構,コウ カマ.,かま.える,"posture, build, pretend",N3,2,1,3
+割,カツ,わ.る わり わ.り わ.れる さ.く,"proportion, comparatively, divide, cut, separate, split",N3,1,5,6
+費,ヒ,つい.やす つい.える,"expense, cost, spend, consume, waste",N3,1,2,5
+付,フ -ヅ,つ.ける -つ.ける -づ.ける つ.け つ.け- -つ.け -づ.け -づけ つ.く -づ.く つ.き -つ.き -つ,"adhere, attach, refer to, append",N3,2,13,4
+由,ユ ユウ ユイ,よし よ.る,"wherefore, a reason",N3,3,2,2
+説,セツ ゼイ ト.,,"rumor, opinion, theory",N3,3,0,3
+難,ナン -ニク.,かた.い -がた.い むずか.しい むづか.しい むつか.しい,"difficult, impossible, trouble, accident, defect",N3,2,5,5
+優,ユウ ウ マサ.,やさ.しい すぐ.れる,"tenderness, excel, surpass, actor, superiority, gentleness",N3,3,2,6
+夫,フ フウ ブ ソ.,おっと,"husband, man",N3,4,1,2
+収,シュウ オサ.マ,おさ.める,"income, obtain, reap, pay, supply, store",N3,2,1,6
+断,ダン,た.つ ことわ.る さだ.める,"severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting",N3,1,3,10
+石,セキ シャク コク イ,,stone,N3,4,0,1
+違,イ,ちが.う ちが.い ちが.える -ちが.える たが.う たが.える,"difference, differ",N3,1,6,2
+消,ショウ,き.える け.す,"extinguish, blow out, turn off, neutralize, cancel",N3,1,2,5
+神,シン ジン,かみ かん- こう,"gods, mind, soul",N3,2,3,3
+番,バン ツガ.,,"turn, number in a series",N3,2,0,2
+規,,,"standard, measure",N3,0,0,2
+術,ジュツ,すべ,"art, technique, skill, means, trick, resources, magic",N3,1,1,7
+備,ビ ツブサ.,そな.える そな.わる,"equip, provision, preparation",N3,2,2,3
+宅,タ,,"home, house, residence, our house, my husband",N3,1,0,5
+害,ガイ,,"harm, injury",N3,1,0,2
+配,ハイ,くば.る,"distribute, spouse, exile, rationing",N3,1,1,4
+警,ケイ,いまし.める,"admonish, commandment",N3,1,1,2
+育,イク ハグク.,そだ.つ そだ.ち そだ.てる,"bring up, grow up, raise, rear",N3,2,3,4
+席,セキ,むしろ,"seat, mat, occasion, place",N3,1,1,4
+訪,ホウ ト.,おとず.れる たず.ねる,"call on, visit, look up, offer sympathy",N3,2,2,4
+乗,ジョウ ショウ ノ.セ,の.る -の.り,"ride, power, multiplication, record, counter for vehicles, board, mount, join",N3,3,2,8
+残,ザン サン,のこ.る のこ.す そこな.う のこ.り,"remainder, leftover, balance",N3,2,4,3
+想,ソウ ソ,おも.う,"concept, think, idea, thought",N3,2,1,4
+声,セイ ショウ,こえ こわ-,voice,N3,2,2,1
+念,ネン,,"wish, sense, idea, thought, feeling, desire, attention",N3,1,0,7
+助,ジョ,たす.ける たす.かる す.ける すけ,"help, rescue, assist",N3,1,4,3
+労,ロウ,ろう.する いたわ.る いた.ずき ねぎら つか.れる ねぎら.う,"labor, thank for, reward for, toil, trouble",N3,1,6,5
+例,レイ,たと.える,"example, custom, usage, precedent",N3,1,1,4
+然,ゼン ネン,しか しか.り しか.し さ,"sort of thing, so, if so, in that case, well",N3,2,4,5
+限,ゲン,かぎ.る かぎ.り -かぎ.り,"limit, restrict, to best of ability",N3,1,3,3
+追,ツイ オ.,,"chase, drive away, follow, pursue, meanwhile",N3,2,0,5
+商,ショウ アキナ.,,"make a deal, selling, dealing in, merchant",N3,2,0,4
+葉,ヨウ,,"leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",N3,1,0,9
+伝,デン テン ツ,つた.わる つた.える つた.う つだ.う -づた.い,"transmit, go along, walk along, follow, report, communicate, legend, tradition",N3,3,5,8
+働,ドウ リュク リキ ロク リョク,はたら.く,"work, (kokuji)",N3,5,1,2
+形,ケイ ギョウ ナ,かた -がた かたち,"shape, form, style",N3,3,3,3
+景,ケ,,"scenery, view",N3,1,0,2
+落,ラク オ.ト,お.ちる お.ち,"fall, drop, come down",N3,2,2,3
+好,コウ イ.,この.む す.く よ.い,"fond, pleasing, like something",N3,2,3,3
+退,タイ,しりぞ.く しりぞ.ける ひ.く の.く の.ける ど.く,"retreat, withdraw, retire, resign, repel, expel, reject",N3,1,6,7
+頭,トウ ズ ト カブ,あたま かしら -がしら,"head, counter for large animals",N3,4,3,2
+負,フ,ま.ける ま.かす お.う,"defeat, negative, -, minus, bear, owe, assume a responsibility",N3,1,3,7
+渡,ト ワタ.,わた.る -わた.る,"transit, ford, ferry, cross, import, deliver, diameter, migrate",N3,2,2,8
+失,シツ,うしな.う う.せる,"lose, error, fault, disadvantage, loss",N3,1,2,5
+差,サ,さ.す さ.し,"distinction, difference, variation, discrepancy, margin, balance",N3,1,2,6
+末,マツ バツ,すえ,"end, close, tip, powder, posterity",N3,2,1,5
+守,シュ ス カ,まも.る まも.り もり -もり,"guard, protect, defend, obey",N3,3,4,4
+若,ジャク ニャク ニャ モ.シク,わか.い わか- も.しくわ も.し,"young, if, perhaps, possibly, low number, immature",N3,4,4,6
+種,シュ -グ,たね,"species, kind, class, variety, seed",N3,2,1,5
+美,ビ ミ ウツク.シ,,"beauty, beautiful",N3,3,0,2
+命,メイ ミョウ,いのち,"fate, command, decree, destiny, life, appoint",N3,2,1,6
+福,フ,,"blessing, fortune, luck, wealth",N3,1,0,4
+望,ボウ モウ モ,のぞ.む,"ambition, full moon, hope, desire, aspire to, expect",N3,3,1,6
+非,ヒ,あら.ず,"un-, mistake, negative, injustice, non-",N3,1,1,5
+観,カン,み.る しめ.す,"outlook, look, appearance, condition, view",N3,1,2,5
+察,サツ,,"guess, presume, surmise, judge, understand",N3,1,0,5
+段,ダン タン,,"grade, steps, stairs",N3,2,0,3
+横,オウ,よこ,"sideways, side, horizontal, width, woof",N3,1,1,5
+深,シン,ふか.い -ぶか.い ふか.まる ふか.める み-,"deep, heighten, intensify, strengthen",N3,1,5,4
+申,シン,もう.す もう.し- さる,"have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",N3,1,3,4
+様,ヨウ ショウ,さま さん,"Esq., way, manner, situation, polite suffix",N3,2,2,5
+財,ザイ サイ ゾ,,"property, money, wealth, assets",N3,3,0,4
+港,コウ,みなと,harbor,N3,1,1,1
+識,シ,,"discriminating, know, write",N3,1,0,3
+呼,コ ヨ.,,"call, call out to, invite",N3,2,0,3
+達,タツ ダ -タ,,"accomplished, reach, arrive, attain",N3,3,0,4
+良,リョウ -イ.,よ.い -よ.い い.い,"good, pleasing, skilled",N3,2,3,3
+候,コウ,そうろう,"climate, season, weather",N3,1,1,3
+程,テイ -ホ,ほど,"extent, degree, law, formula, distance, limits, amount",N3,2,1,7
+満,マン バン ミ.タ,み.ちる み.つ,"full, enough, pride, satisfy",N3,3,2,4
+敗,ハイ,やぶ.れる,"failure, defeat, reversal",N3,1,1,3
+値,チ アタ,ね,"price, cost, value",N3,2,1,3
+突,トツ カ,つ.く,"stab, protruding, thrusting, thrust, pierce, prick",N3,2,1,6
+光,コウ ヒカ,ひか.る,"ray, light",N3,2,1,2
+路,ロ ル,-じ みち,"path, route, road, distance",N3,2,2,4
+科,,,"department, course, section",N3,0,0,3
+積,セキ ツ.モ,つ.む -づ.み つ.もる,"volume, product (x*y), acreage, contents, pile up, stack, load, amass",N3,2,3,8
+他,タ,ほか,"other, another, the others",N3,1,1,3
+処,ショ,ところ -こ お.る,"dispose, manage, deal with, sentence, condemn, act, behave, place",N3,1,3,8
+太,タイ タ フト.,ふと.い,"plump, thick, big around",N3,3,1,3
+客,キャク カク,,"guest, visitor, customer, client",N3,2,0,4
+否,ヒ,いな いや,"negate, no, noes, refuse, decline, deny",N3,1,2,6
+師,,,"expert, teacher, master, army, war",N3,0,0,5
+登,トウ ト ドウ ショウ チョウ ア.ガ,のぼ.る,"ascend, climb up",N3,6,1,2
+易,エキ イ,やさ.しい やす.い,"easy, ready to, simple, fortune-telling, divination",N3,2,2,5
+速,ソク スミ.ヤ,はや.い はや- はや.める,"quick, fast",N3,2,3,2
+存,ソン ゾ,,"suppose, be aware of, believe, feel",N3,2,0,4
+飛,ヒ -ト.バ,と.ぶ と.ばす,"fly, skip (pages), scatter",N3,2,2,3
+殺,サツ サイ セツ,ころ.す -ごろ.し そ.ぐ,"kill, murder, butcher, slice off, split, diminish, reduce, spoil",N3,3,3,8
+号,ゴウ,さけ.ぶ よびな,"nickname, number, item, title, pseudonym, name, call",N3,1,2,7
+単,タン,ひとえ,"simple, one, single, merely",N3,1,1,4
+座,ザ,すわ.る,"squat, seat, cushion, gathering, sit",N3,1,1,5
+破,ハ ヤブ.レ,やぶ.る,"rend, rip, tear, break, destroy, defeat, frustrate",N3,2,1,7
+除,ジョ ジ,のぞ.く -よ.け,"exclude, division (x, 3), remove, abolish, cancel, except",N3,2,2,7
+完,カン,,"perfect, completion, end",N3,1,0,3
+降,コウ ゴ クダ.,お.りる お.ろす ふ.る ふ.り くだ.る,"descend, precipitate, fall, surrender",N3,3,5,4
+責,セキ,せ.める,"blame, condemn, censure",N3,1,1,3
+捕,ホ,と.らえる と.らわれる と.る とら.える とら.われる つか.まえる つか.まる,"catch, capture",N3,1,7,2
+危,キ,あぶ.ない あや.うい あや.ぶむ,"dangerous, fear, uneasy",N3,1,3,3
+給,キュウ -タマ.,たま.う たも.う,"salary, wage, gift, allow, grant, bestow on",N3,2,2,6
+苦,ク,くる.しい -ぐる.しい くる.しむ くる.しめる にが.い にが.る,"suffering, trial, worry, hardship, feel bitter, scowl",N3,1,6,6
+迎,ゲイ ムカ.エ,,"welcome, meet, greet",N3,2,0,3
+園,エン ソ,,"park, garden, yard, farm",N3,2,0,4
+具,グ ツブサ.,そな.える,"tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",N3,2,1,8
+辞,ジ,や.める いな.む,"resign, word, term, expression",N3,1,2,4
+因,イン チナ.,よ.る,"cause, factor, be associated with, depend on, be limited to",N3,2,1,5
+馬,バ,うま うま-,horse,N3,1,2,1
+愛,アイ イト.シ,,"love, affection, favourite",N3,2,0,3
+富,フ フウ ト,と.む,"wealth, enrich, abundant",N3,3,1,3
+彼,ヒ カ.,かれ かの,"he, that, the",N3,2,2,3
+未,ミ ビ,いま.だ ま.だ ひつじ,"un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",N3,2,3,8
+舞,ブ,ま.う -ま.う まい,"dance, flit, circle, wheel",N3,1,3,4
+亡,ボウ モウ,な.い な.き- ほろ.びる ほろ.ぶ ほろ.ぼす,"deceased, the late, dying, perish",N3,2,5,4
+冷,レイ,つめ.たい ひ.える ひ.や ひ.ややか ひ.やす ひ.やかす さ.める さ.ます,"cool, cold (beer, person), chill",N3,1,8,4
+適,テキ,かな.う,"suitable, occasional, rare, qualified, capable",N3,1,1,5
+婦,,,"lady, woman, wife, bride",N3,0,0,4
+寄,キ ヨ.セ,よ.る -よ.り,"draw near, stop in, bring near, gather, collect, send, forward",N3,2,2,7
+込,コ.メ,-こ.む こ.む こ.み -こ.み,"crowded, mixture, in bulk, included, (kokuji)",N3,1,4,5
+顔,ガン,かお,"face, expression",N3,1,1,2
+類,ルイ,たぐ.い,"sort, kind, variety, class, genus",N3,1,1,5
+余,ヨ アマ.,あま.る あま.り,"too much, myself, surplus, other, remainder",N3,2,2,5
+王,オウ -ノ,,"king, rule, magnate",N3,2,0,3
+返,ヘン,かえ.す -かえ.す かえ.る -かえ.る,"return, answer, fade, repay",N3,1,4,4
+妻,サイ ツ,,"wife, spouse",N3,2,0,2
+背,ハイ,せ せい そむ.く そむ.ける,"stature, height, back, behind, disobey, defy, go back on, rebel",N3,1,4,8
+熱,ネツ アツ.,,"heat, temperature, fever, mania, passion",N3,2,0,5
+宿,シュク ヤド.,やど やど.る,"inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling",N3,2,2,8
+薬,ヤク クス,,"medicine, chemical, enamel, gunpowder, benefit",N3,2,0,5
+険,ケン,けわ.しい,"precipitous, inaccessible place, impregnable position, steep place, sharp eyes",N3,1,1,5
+頼,ライ タヨ.,たの.む たの.もしい,"trust, request",N3,2,2,2
+覚,カク,おぼ.える さ.ます さ.める さと.る,"memorize, learn, remember, awake, sober up",N3,1,4,5
+船,セン,ふね ふな,"ship, boat",N3,1,2,2
+途,,,"route, way, road",N3,0,0,3
+許,キョ,ゆる.す もと,"permit, approve",N3,1,2,2
+抜,バツ ハツ ハイ ヌ.カ,ぬ.く -ぬ.く ぬ.き ぬ.ける ぬ.かす,"slip out, extract, pull out, pilfer, quote, remove, omit",N3,4,5,7
+便,ベン ビン,たよ.り,convenience,N3,2,1,1
+留,リュウ ル ルウブ,と.める と.まる とど.める とど.まる,"detain, fasten, halt, stop",N3,3,4,4
+罪,ザイ,つみ,"guilt, sin, crime, fault, blame, offense",N3,1,1,6
+努,ド,つと.める,"toil, diligent, as much as possible",N3,1,1,3
+精,セイ ショウ シヤ,,"refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill",N3,3,0,9
+散,サン バ,ち.る ち.らす -ち.らす ち.らかす ち.らかる,"scatter, disperse, spend, squander",N3,2,5,4
+静,セイ ジョウ シズ.メ,しず- しず.か しず.まる,quiet,N3,3,3,1
+婚,コン,,marriage,N3,1,0,1
+喜,キ ヨロコ.バ,よろこ.ぶ,"rejoice, take pleasure in",N3,2,1,2
+浮,フ ウ.カベ,う.く う.かれる う.かぶ む,"floating, float, rise to surface",N3,2,4,3
+絶,ゼツ,た.える た.やす た.つ,"discontinue, beyond, sever, cut off, abstain, interrupt, suppress",N3,1,3,7
+幸,コウ シアワ.,さいわ.い さち,"happiness, blessing, fortune",N3,2,2,3
+押,オウ オサ.エ,お.す お.し- お.っ- お.さえる,"push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of",N3,2,4,11
+倒,トウ,たお.れる -だお.れ たお.す,"overthrow, fall, collapse, drop, break down",N3,1,3,5
+等,トウ,ひと.しい など,"etc., and so forth, class (first), quality, equal, similar",N3,1,2,6
+老,ロウ フ.ケ,お.いる,"old man, old age, grow old",N3,2,1,3
+曲,キョク マ.ゲ,ま.がる,"bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",N3,2,1,11
+払,フツ ヒツ ホツ -バラ.,はら.う -はら.い,"pay, clear out, prune, banish, dispose of",N3,4,2,5
+庭,テイ ニ,,"courtyard, garden, yard",N3,2,0,3
+徒,ト ア,いたずら,"junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people",N3,2,1,10
+勤,キン ゴン,つと.める -づと.め つと.まる いそ.しむ,"diligence, become employed, serve",N3,2,4,3
+遅,チ オソ.,おく.れる おく.らす,"slow, late, back, later",N3,2,2,4
+居,キョ コ オ.,い.る -い,"reside, to be, exist, live with",N3,3,2,4
+雑,ザツ ゾウ,まじ.える まじ.る,miscellaneous,N3,2,2,1
+招,ショウ,まね.く,"beckon, invite, summon, engage",N3,1,1,4
+困,コン,こま.る,"quandary, become distressed, annoyed",N3,1,1,3
+欠,,あくび,"lack, gap, fail",N3,0,1,3
+更,コウ,さら さら.に ふ.ける ふ.かす,"grow late, night watch, sit up late, of course",N3,1,4,4
+刻,コク,きざ.む きざ.み,"engrave, cut fine, chop, hash, mince, time, carving",N3,1,2,7
+賛,サン,たす.ける たた.える,"approve, praise, title or inscription on picture, assist, agree with",N3,1,2,5
+抱,ホウ カカ.エ,だ.く いだ.く,"embrace, hug, hold in arms",N3,2,2,3
+犯,ハン ボン,おか.す,"crime, sin, offense",N3,2,1,3
+恐,キョウ,おそ.れる おそ.る おそ.ろしい こわ.い こわ.がる,"fear, dread, awe",N3,1,5,3
+息,ソク,いき,"breath, respiration, son, interest (on money)",N3,1,1,4
+遠,エン オン トオ.,,"distant, far",N3,3,0,2
+戻,レイ,もど.す もど.る,"re-, return, revert, resume, restore, go backwards",N3,1,2,6
+願,ガン -ネガ,ねが.う,"petition, request, vow, wish, hope",N3,2,1,5
+絵,カイ エ,,"picture, drawing, painting, sketch",N3,2,0,4
+越,エツ オツ -ゴ.,こ.す -こ.す -ご.し こ.える,"surpass, cross over, move to, exceed, Vietnam",N3,3,4,5
+欲,ヨク,ほっ.する ほ.しい,"longing, covetousness, greed, passion, desire, craving",N3,1,2,6
+痛,ツウ,いた.い いた.む いた.ましい いた.める,"pain, hurt, damage, bruise",N3,1,4,4
+笑,ショウ エ.,わら.う,laugh,N3,2,1,1
+互,ゴ,たが.い かたみ.に,"mutually, reciprocally, together",N3,1,2,3
+束,ソク,たば たば.ねる つか つか.ねる,"bundle, sheaf, ream, tie in bundles, govern, manage, control",N3,1,4,7
+似,ジ ヒ.,に.る,"becoming, resemble, counterfeit, imitate, suitable",N3,2,1,5
+列,レツ,,"file, row, rank, tier, column",N3,1,0,5
+探,タン,さぐ.る さが.す,"grope, search, look for",N3,1,2,3
+逃,トウ,に.げる に.がす のが.す のが.れる,"escape, flee, shirk, evade, set free",N3,1,4,5
+遊,ユウ ユ アソ.バ,あそ.ぶ,play,N3,3,1,1
+迷,メイ,まよ.う,"astray, be perplexed, in doubt, lost, err, illusion",N3,1,1,6
+夢,ム ボウ,ゆめ ゆめ.みる くら.い,"dream, vision, illusion",N3,2,3,3
+君,クン -ギ,きみ,"old boy, name-suffix",N3,2,1,2
+閉,ヘイ タ.テ,と.じる と.ざす し.める し.まる,"closed, shut",N3,2,4,2
+緒,ショ チョ イトグ,お,"thong, beginning, inception, end, cord, strap",N3,3,1,6
+折,セツ オ.レ,お.る おり お.り -お.り,"fold, break, fracture, bend, yield, submit",N3,2,4,6
+草,ソウ -グ,くさ くさ-,"grass, weeds, herbs, pasture, write, draft",N3,2,2,6
+暮,ボ ク.ラ,く.れる,"livelihood, make a living, spend time",N3,2,1,3
+酒,シュ,さけ さか,"sake, alcohol",N3,1,2,2
+悲,ヒ,かな.しい かな.しむ,"jail cell, grieve, sad, deplore, regret",N3,1,2,5
+晴,セイ ハ.ラ,は.れる は.れ は.れ- -ば.れ,clear up,N3,2,4,1
+掛,カイ ケイ -ガカ,か.ける -か.ける か.け -か.け -が.け か.かる -か.かる -が.かる か.かり -が.かり かかり,"hang, suspend, depend, arrive at, tax, pour",N3,3,11,6
+到,トウ,いた.る,"arrival, proceed, reach, attain, result in",N3,1,1,5
+寝,シン,ね.る ね.かす い.ぬ みたまや や.める,"lie down, sleep, rest, bed, remain unsold",N3,1,5,5
+暗,アン,くら.い,"darkness, disappear, shade, informal, grow dark, be blinded",N3,1,1,6
+盗,トウ,ぬす.む ぬす.み,"steal, rob, pilfer",N3,1,2,3
+吸,キュウ,す.う,"suck, imbibe, inhale, sip",N3,1,1,4
+陽,ヨウ,,"sunshine, yang principle, positive, male, heaven, daytime",N3,1,0,6
+御,ギョ ゴ,おん- お- み,"honorable, manipulate, govern",N3,2,3,3
+歯,シ,よわい は よわ.い よわい.する,"tooth, cog",N3,1,4,2
+忘,ボウ,わす.れる,forget,N3,1,1,1
+雪,セツ ユ,,snow,N3,2,0,1
+吹,スイ フ.,,"blow, breathe, puff, emit, smoke",N3,2,0,5
+娘,ジョウ,むすめ こ,"daughter, girl",N3,1,2,2
+誤,ゴ,あやま.る -あやま.る,"mistake, err, do wrong, mislead",N3,1,2,4
+洗,セン アラ.,,"wash, inquire into, probe",N3,2,0,3
+慣,カン,な.れる な.らす,"accustomed, get used to, become experienced",N3,1,2,3
+礼,レイ ラ,,"salute, bow, ceremony, thanks, remuneration",N3,2,0,5
+窓,ソウ ス,まど てんまど けむだし,"window, pane",N3,2,3,2
+昔,セキ シャク,むかし,"once upon a time, antiquity, old times",N3,2,1,3
+貧,ヒン ビン,まず.しい,"poverty, poor",N3,2,1,2
+怒,ド ヌ,いか.る おこ.る,"angry, be offended",N3,2,2,2
+泳,エイ,およ.ぐ,swim,N3,1,1,1
+祖,,,"ancestor, pioneer, founder",N3,0,0,3
+杯,ハイ,さかずき,"counter for cupfuls, wine glass, glass, toast",N3,1,1,4
+疲,ヒ,つか.れる -づか.れ つか.らす,"exhausted, tire, weary",N3,1,3,3
+皆,カイ ミン,みな,"all, everything",N3,2,1,2
+鳴,メイ ナ.ラ,な.く な.る,"chirp, cry, bark, sound, ring, echo, honk",N3,2,2,7
+腹,フク,はら,"abdomen, belly, stomach",N3,1,1,3
+煙,エン ケム.,けむ.る けむり,smoke,N3,2,2,1
+眠,ミン ネム.,ねむ.る,"sleep, die, sleepy",N3,2,1,3
+怖,フ ホ,こわ.い こわ.がる お.じる おそ.れる,"dreadful, be frightened, fearful",N3,2,4,3
+耳,ジ ミ,,ear,N3,2,0,1
+頂,チョウ,いただ.く いただき,"place on the head, receive, top of head, top, summit, peak",N3,1,2,6
+箱,ソウ,はこ,"box, chest, case, bin, railway car",N3,1,1,5
+晩,バン,,"nightfall, night",N3,1,0,2
+寒,カン サム.,,cold,N3,2,0,1
+髪,ハツ カ,,hair of the head,N3,2,0,1
+忙,ボウ モウ,いそが.しい せわ.しい おそ.れる うれえるさま,"busy, occupied, restless",N3,2,4,3
+才,サイ,,"genius, years old, cubic shaku",N3,1,0,3
+靴,カ,くつ,shoes,N3,1,1,1
+恥,チ,は.じる はじ は.じらう は.ずかしい,"shame, dishonor",N3,1,4,2
+偶,グウ,たま,"accidentally, even number, couple, man & wife, same kind",N3,1,1,5
+偉,イ エラ.,,"admirable, greatness, remarkable, conceited, famous, excellent",N3,2,0,6
+猫,ビョウ,ねこ,cat,N3,1,1,1
+幾,キ イク.,いく- いく.つ,"how many, how much, how far, how long",N3,2,2,4
+党,トウ,なかま むら,"party, faction, clique",N2,1,2,3
+協,キョウ,,"co-, cooperation",N2,1,0,2
+総,ソウ フ,す.べて すべ.て,"general, whole, all, full, total",N2,2,2,5
+区,ク オウ コウ,,"ward, district",N2,3,0,2
+領,リョウ,,"jurisdiction, dominion, territory, fief, reign",N2,1,0,5
+県,ケン カ.ケ,,prefecture,N2,2,0,1
+設,セツ モウ.ケ,,"establishment, provision, prepare",N2,2,0,3
+改,カイ,あらた.める あらた.まる,"reformation, change, modify, mend, renew, examine, inspect, search",N2,1,2,8
+府,,,"borough, urban prefecture, govt office, representative body, storehouse",N2,0,0,5
+査,サ,,investigate,N2,1,0,1
+委,イ ユダ.ネ,,"committee, entrust to, leave to, devote, discard",N2,2,0,5
+軍,グン,,"army, force, troops, war, battle",N2,1,0,5
+団,ダン トン,かたまり まる.い,"group, association",N2,2,2,2
+各,カク オノオ,,"each, every, either",N2,2,0,3
+島,トウ,しま,island,N2,1,1,1
+革,カク,かわ,"leather, become serious, skin, hide, pelt",N2,1,1,5
+村,ソン ム,,"town, village",N2,2,0,2
+勢,セイ ゼイ ハズ,いきお.い,"forces, energy, military strength",N2,3,1,3
+減,ゲン,へ.る へ.らす,"dwindle, decrease, reduce, decline, curtail, get hungry",N2,1,2,6
+再,サイ サ フタタ.,,"again, twice, second time",N2,3,0,3
+税,ゼ,,"tax, duty",N2,1,0,2
+営,エイ,いとな.む いとな.み,"occupation, camp, perform, build, conduct (business)",N2,1,2,5
+比,ヒ クラ.ベ,,"compare, race, ratio, Philipines",N2,2,0,4
+防,ボウ フセ.,,"ward off, defend, protect, resist",N2,2,0,4
+補,ホ,おぎな.う,"supplement, supply, make good, offset, compensate, assistant, learner",N2,1,1,7
+境,キョウ ケイ サカ,,"boundary, border, region",N2,3,0,3
+導,ドウ ミチビ.,,"guidance, leading, conduct, usher",N2,2,0,4
+副,フ,,"vice-, duplicate, copy",N2,1,0,3
+算,サン,そろ,"calculate, divining, number, abacus, probability",N2,1,1,5
+輸,ユ シュ,,"transport, send, be inferior",N2,2,0,3
+述,ジュツ,の.べる,"mention, state, speak, relate",N2,1,1,4
+線,セン,すじ,"line, track",N2,1,1,2
+農,ノ,,"agriculture, farmers",N2,1,0,2
+州,シュウ ス,,"state, province",N2,2,0,2
+武,ブ ム タケ.,,"warrior, military, chivalry, arms",N2,3,0,4
+象,ショウ ゾウ カタド.,,"elephant, pattern after, imitate, image, shape, sign (of the times)",N2,3,0,6
+域,イキ,,"range, region, limits, stage, level",N2,1,0,5
+額,ガク ヒタ,,"forehead, tablet, plaque, framed picture, sum, amount, volume",N2,2,0,7
+欧,オウ ハ.,うた.う,Europe,N2,2,1,1
+担,タン,かつ.ぐ にな.う,"shouldering, carry, raise, bear",N2,1,2,4
+準,ジュン,じゅん.じる じゅん.ずる なぞら.える のり ひと.しい みずもり,"semi-, correspond to, proportionate to, conform, imitate",N2,1,6,5
+賞,ショウ,ほ.める,"prize, reward, praise",N2,1,1,3
+辺,ヘン,あた.り ほと.り,"environs, boundary, border, vicinity",N2,1,2,4
+造,ゾウ -ヅク.,つく.る つく.り,"create, make, structure, physique",N2,2,2,4
+被,ヒ カブ.セ,こうむ.る おお.う かぶ.る,"incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving",N2,2,3,9
+技,ギ,わざ,"skill, art, craft, ability, feat, performance, vocation, arts",N2,1,1,8
+低,テイ,ひく.い ひく.める ひく.まる,"lower, short, humble",N2,1,3,3
+復,フク,また,"restore, return to, revert, resume",N2,1,1,4
+移,イ,うつ.る うつ.す,"shift, move, change, drift, catch (cold, fire), pass into",N2,1,2,7
+個,コ カ,,"individual, counter for articles and military units",N2,2,0,2
+門,モン,かど,gates,N2,1,1,1
+課,カ,,"chapter, lesson, section, department, division, counter for chapters (of a book)",N2,1,0,6
+脳,ノウ ドウ,のうずる,"brain, memory",N2,2,1,2
+極,キョク ゴク,きわ.める きわ.まる きわ.まり きわ.み き.める -ぎ.め き.まる,"poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48",N2,2,7,11
+含,ガン,ふく.む ふく.める,"include, bear in mind, understand, cherish",N2,1,2,4
+蔵,ゾウ ソウ カク.レ,くら おさ.める,"storehouse, hide, own, have, possess",N2,3,2,5
+量,リョウ ハカ.,,"quantity, measure, weight, amount, consider, estimate, surmise",N2,2,0,7
+型,ケイ,かた -がた,"mould, type, model",N2,1,2,3
+況,キョウ,まし.て いわ.んや おもむき,"condition, situation",N2,1,3,2
+針,シン ハ,,"needle, pin, staple, stinger",N2,2,0,4
+専,セン,もっぱ.ら,"specialty, exclusive, mainly, solely",N2,1,1,4
+谷,コク キワ.マ,たに,valley,N2,2,1,1
+史,,,"history, chronicle",N2,0,0,2
+階,カイ キザハ,,"storey, stair, counter for storeys of a building",N2,2,0,3
+管,カン ク,,"pipe, tube, wind instrument, drunken talk",N2,2,0,4
+兵,ヘイ ヒョウ ツワモ,,"soldier, private, troops, army, warfare, strategy, tactics",N2,3,0,7
+接,セツ ショウ,つ.ぐ,"touch, contact, adjoin, piece together",N2,2,1,4
+細,サイ,ほそ.い ほそ.る こま.か こま.かい,"dainty, get thin, taper, slender, narrow",N2,1,4,5
+効,コウ,き.く ききめ なら.う,"merit, efficacy, efficiency, benefit",N2,1,3,4
+丸,ガン マル.,まる まる.める,"round, full, month, perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",N2,2,2,11
+湾,ワン,いりえ,"gulf, bay, inlet",N2,1,1,3
+録,ロク,,record,N2,1,0,1
+省,セイ ショウ ハブ.,かえり.みる,"focus, government ministry, conserve",N2,3,1,3
+旧,キュウ,ふる.い もと,"old times, old things, old friend, former, ex-",N2,1,2,5
+橋,キョウ ハ,,bridge,N2,2,0,1
+岸,ガン キ,,beach,N2,2,0,1
+周,シュウ マワ.,,"circumference, circuit, lap",N2,2,0,3
+材,ザ,,"lumber, log, timber, wood, talent",N2,1,0,5
+戸,コ,,door,N2,1,0,1
+央,オ,,"center, middle",N2,1,0,2
+券,ケン,,ticket,N2,1,0,1
+編,ヘン,あ.む -あ.み,"compilation, knit, plait, braid, twist, editing, completed poem, part of a book",N2,1,2,8
+捜,ソウ シュ シュウ,さが.す,"search, look for, locate",N2,3,1,3
+竹,チク タ,,bamboo,N2,2,0,1
+超,チョウ コ.,こ.える,"transcend, super-, ultra-",N2,2,1,3
+並,ヘイ ホウ ナラ.ビ,な.み なら.べる なら.ぶ,"row, and, besides, as well as, line up, rank with, rival, equal",N2,3,3,8
+療,リョウ,,"heal, cure",N2,1,0,2
+採,サイ,と.る,"pick, take, fetch, take up",N2,1,1,4
+森,シン モ,,"forest, woods",N2,2,0,2
+競,キョウ ケイ セ.,きそ.う,"emulate, compete with, bid, sell at auction, bout, contest, race",N2,3,1,7
+介,カ,,"jammed in, shellfish, mediate, concern oneself with",N2,1,0,4
+根,コン,ね -ね,"root, radical, head (pimple)",N2,1,2,3
+販,ハン,,"marketing, sell, trade",N2,1,0,3
+歴,レキ レッキ,,"curriculum, continuation, passage of time",N2,2,0,3
+将,ショウ ソウ モッ,まさ.に はた まさ ひきい.る,"leader, commander, general, admiral, or, and again, soon, from now on, just about",N2,3,4,9
+幅,フク,はば,"hanging scroll, width",N2,1,1,2
+般,ハン,,"carrier, carry, all",N2,1,0,3
+貿,ボウ,,"trade, exchange",N2,1,0,2
+講,コウ,,"lecture, club, association",N2,1,0,3
+林,リン ハヤ,,"grove, forest",N2,2,0,2
+装,ソウ ショウ,よそお.う よそお.い,"attire, dress, pretend, disguise, profess",N2,2,2,5
+諸,ショ,もろ,"various, many, several, together",N2,1,1,4
+劇,ゲキ,,"drama, play",N2,1,0,2
+河,カ カ,,river,N2,2,0,1
+航,コ,,"navigate, sail, cruise, fly",N2,1,0,4
+鉄,テツ クロガ,,iron,N2,2,0,1
+児,ジ ニ ゲイ -ッ,こ -こ,"newborn babe, child, young of animals",N2,4,2,3
+禁,キン,,"prohibition, ban, forbid",N2,1,0,3
+印,イン,しるし -じるし しる.す,"stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",N2,1,3,10
+逆,ギャク ゲキ,さか さか.さ さか.らう,"inverted, reverse, opposite, wicked",N2,2,3,4
+換,カン,か.える -か.える か.わる,"interchange, period, charge, change?",N2,1,3,4
+久,キュウ ク ヒサ.シ,,"long time, old story",N2,3,0,2
+短,タン,みじか.い,"short, brevity, fault, defect, weak point",N2,1,1,5
+油,ユ ユウ,あぶら,"oil, fat",N2,2,1,2
+暴,ボウ バク,あば.く あば.れる,"outburst, rave, fret, force, violence, cruelty, outrage",N2,2,2,7
+輪,リン,,"wheel, ring, circle, link, loop, counter for wheels and flowers",N2,1,0,6
+占,セン ウラナ.,し.める,"fortune-telling, divining, forecasting, occupy, hold, have, get, take",N2,2,1,8
+植,ショク ウ.ワ,う.える,plant,N2,2,1,1
+清,セイ ショウ シン キヨ.メ,きよ.い きよ.まる,"pure, purify, cleanse, exorcise, Manchu dynasty",N2,4,2,5
+倍,バ,,"double, twice, times, fold",N2,1,0,4
+均,キン ナラ.,,"level, average",N2,2,0,2
+億,オ,,"hundred million, 10**8",N2,1,0,2
+圧,アツ エン オウ,お.す へ.す おさ.える お.さえる,"pressure, push, overwhelm, oppress, dominate",N2,3,4,5
+芸,ゲイ ウン ワ,う.える のり,"technique, art, craft, performance, acting, trick, stunt",N2,3,2,7
+署,ショ,,"signature, govt office, police station",N2,1,0,3
+伸,シン ノ.,の.びる の.ばす の.べる,"expand, stretch, extend, lengthen, increase",N2,2,3,5
+停,テイ,と.める と.まる,"halt, stopping",N2,1,2,2
+爆,バク,は.ぜる,"bomb, burst open, pop, split",N2,1,1,4
+陸,リク ロク オ,,"land, six",N2,3,0,2
+玉,ギョク -ダ,たま たま-,"jewel, ball",N2,2,2,2
+波,ハ ナ,,"waves, billows, Poland",N2,2,0,3
+帯,タイ オ,お.びる,"sash, belt, obi, zone, region",N2,2,1,5
+延,エン ノ.バ,の.びる の.べる の.べ,"prolong, stretching",N2,2,3,2
+羽,ウ ハ,は わ,"feathers, counter for birds, rabbits",N2,2,2,3
+固,コ,かた.める かた.まる かた.まり かた.い,"harden, set, clot, curdle",N2,1,4,4
+則,ソク ノット.,,"rule, follow, based on, model after",N2,2,0,4
+乱,ラン ロン ワタ.,みだ.れる みだ.る みだ.す みだ おさ.める,"riot, war, disorder, disturb",N2,3,5,4
+普,フ アマネ,あまね.く,"universal, wide(ly), generally, Prussia",N2,2,1,4
+測,ソク,はか.る,"fathom, plan, scheme, measure",N2,1,1,4
+豊,ホウ ブ ト,ゆた.か,"bountiful, excellent, rich",N2,3,1,3
+厚,コウ ア,あつ.い,"thick, heavy, rich, kind, cordial, brazen, shameless",N2,2,1,7
+齢,レイ,よわ.い とし,age,N2,1,2,1
+囲,イ,かこ.む かこ.う かこ.い,"surround, besiege, store, paling, enclosure, encircle, preserve, keep",N2,1,3,8
+卒,ソツ シュツ,そっ.する お.える お.わる ついに にわか,"graduate, soldier, private, die",N2,2,5,4
+略,リャク,ほぼ おか.す おさ.める はかりごと はか.る はぶ.く りゃく.す りゃく.する,"abbreviation, omission, outline, shorten, capture, plunder",N2,1,8,6
+承,ショウ ウ.ケ,うけたまわ.る,"acquiesce, hear, listen to, be informed, receive",N2,2,1,5
+順,ジュ,,"obey, order, turn, right, docility, occasion",N2,1,0,6
+岩,ガン,いわ,"boulder, rock, cliff",N2,1,1,3
+練,レン ネ.,ね.る,"practice, gloss, train, drill, polish, refine",N2,2,1,6
+軽,ケイ,かる.い かろ.やか かろ.んじる,"lightly, trifling, unimportant",N2,1,3,3
+了,リョ,,"complete, finish",N2,1,0,2
+庁,チョウ テイ,やくしょ,government office,N2,2,1,1
+城,ジョウ シ,,castle,N2,2,0,1
+患,カン ワズラ.,,"afflicted, disease, suffer from, be ill",N2,2,0,4
+層,ソウ,,"stratum, social class, layer, story, floor",N2,1,0,5
+版,ハン,,"printing block, printing plate, edition, impression, label",N2,1,0,5
+令,レ,,"orders, ancient laws, command, decree",N2,1,0,4
+角,カク ツ,かど,"angle, corner, square, horn, antlers",N2,2,1,5
+絡,ラク,から.む から.まる,"entwine, coil around, get caught in",N2,1,2,3
+損,ソン,そこ.なう そこな.う -そこ.なう そこ.ねる -そこ.ねる,"damage, loss, disadvantage, hurt, injure",N2,1,5,5
+募,ボ,つの.る,"recruit, campaign, gather (contributions), enlist, grow violent",N2,1,1,5
+裏,リ,うら,"back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side",N2,1,1,10
+仏,ブツ フツ,ほとけ,"Buddha, the dead, France",N2,2,1,3
+績,セ,,"exploits, unreeling cocoons",N2,1,0,2
+築,チク キズ.,,"fabricate, build, construct",N2,2,0,3
+貨,カ,,"freight, goods, property",N2,1,0,3
+混,コン,ま.じる -ま.じり ま.ざる ま.ぜる こ.む,"mix, blend, confuse",N2,1,5,3
+昇,ショウ ノボ.,,rise up,N2,2,0,1
+池,チ,いけ,"pond, cistern, pool, reservoir",N2,1,1,4
+血,ケツ,ち,blood,N2,1,1,1
+温,オン ヌ,あたた.か あたた.かい あたた.まる あたた.める,warm,N2,2,4,1
+季,,,seasons,N2,0,0,1
+星,セイ ショウ,ほし -ぼし,"star, spot, dot, mark",N2,2,2,4
+永,エイ ナガ.,,"eternity, long, lengthy",N2,2,0,3
+著,チョ チャク,あらわ.す いちじる.しい,"renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suit",N2,2,2,11
+誌,シ,,"document, records",N2,1,0,2
+庫,コ ク,くら,"warehouse, storehouse",N2,2,1,2
+刊,カン,,"publish, carve, engrave",N2,1,0,3
+像,ゾ,,"statue, picture, image, figure, portrait",N2,1,0,5
+香,コウ キョウ カオ.,か かお.り,"incense, smell, perfume",N2,3,2,3
+坂,ハン サ,,"slope, incline, hill",N2,2,0,3
+底,テイ,そこ,"bottom, sole, depth, bottom price, base, kind, sort",N2,1,1,7
+布,フ ヌ,,"linen, cloth",N2,2,0,2
+寺,ジ,てら,Buddhist temple,N2,1,1,1
+宇,,,"eaves, roof, house, heaven",N2,0,0,4
+巨,キ,,"gigantic, big, large, great",N2,1,0,4
+震,シン,ふる.う ふる.える,"quake, shake, tremble, quiver, shiver",N2,1,2,5
+希,キ ケ マ,,"hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",N2,3,0,10
+触,ショク,ふ.れる さわ.る さわ,"contact, touch, feel, hit, proclaim, announce, conflict",N2,1,3,7
+依,イ エ ヨ.,,"reliant, depend on, consequently, therefore, due to",N2,3,0,5
+籍,セキ,,"enroll, domiciliary register, membership",N2,1,0,3
+汚,オ,けが.す けが.れる けが.らわしい よご.す よご.れる きたな.い,"dirty, pollute, disgrace, rape, defile",N2,1,6,5
+枚,マイ バ,,"sheet of..., counter for flat thin objects or sheets",N2,2,0,2
+複,フク,,"duplicate, double, compound, multiple",N2,1,0,4
+郵,ユウ,,"mail, stagecoach stop",N2,1,0,2
+仲,チュウ ナ,,"go-between, relationship",N2,2,0,2
+栄,エイ ヨウ,さか.える は.え -ば.え は.える,"flourish, prosperity, honor, glory, splendor",N2,2,4,5
+札,サツ フ,,"tag, paper money, counter for bonds, placard, bid",N2,2,0,5
+板,ハン バン,いた,"plank, board, plate, stage",N2,2,1,4
+骨,コツ,ほね,"skeleton, bone, remains, frame",N2,1,1,4
+傾,ケイ,かたむ.く かたむ.ける かたぶ.く かた.げる かし.げる,"lean, incline, tilt, trend, wane, sink, ruin, bias",N2,1,5,8
+届,カイ,とど.ける -とど.け とど.く,"deliver, reach, arrive, report, notify, forward",N2,1,3,6
+巻,カン ケン,ま.く まき ま.き,"scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)",N2,2,3,9
+燃,ネン,も.える も.やす も.す,"burn, blaze, glow",N2,1,3,3
+跡,セキ,あと,"tracks, mark, print, impression",N2,1,1,4
+包,ホウ クル.,つつ.む,"wrap, pack up, cover, conceal",N2,2,1,4
+駐,チュウ,,"stop-over, reside in, resident",N2,1,0,3
+弱,ジャク,よわ.い よわ.る よわ.まる よわ.める,"weak, frail",N2,1,4,2
+紹,ショ,,"introduce, inherit, help",N2,1,0,3
+雇,コ,やと.う,"employ, hire",N2,1,1,2
+替,タイ カ.ワ,か.える か.え-,"exchange, spare, substitute, per-",N2,2,2,4
+預,ヨ,あず.ける あず.かる,"deposit, custody, leave with, entrust to",N2,1,2,4
+焼,ショウ ヤ.ケ,や.く や.き や.き- -や.き,"bake, burning",N2,2,4,2
+簡,カン,,"simplicity, brevity",N2,1,0,2
+章,ショ,,"badge, chapter, composition, poem, design",N2,1,0,5
+臓,ゾウ,はらわた,"entrails, viscera, bowels",N2,1,1,3
+律,リツ リチ レ,,"rhythm, law, regulation, gauge, control",N2,3,0,5
+贈,ゾウ ソウ,おく.る,"presents, send, give to, award to, confer on, presenting something",N2,2,1,6
+照,ショウ テ.レ,て.る て.らす,"illuminate, shine, compare, bashful",N2,2,2,4
+薄,ハク,うす.い うす- -うす うす.める うす.まる うす.らぐ うす.ら- うす.れる すすき,"dilute, thin, weak (tea)",N2,1,9,3
+群,グン ムラ.ガ,む.れる む.れ むら,"flock, group, crowd, herd, swarm, cluster",N2,2,3,6
+秒,ビョウ,,"second (1, 60 minute)",N2,1,0,2
+奥,オウ オク ク,おく.まる,"heart, interior",N2,3,1,2
+詰,キツ キチ ツ.,つ.める つ.め -づ.め つ.まる,"packed, close, pressed, reprove, rebuke, blame",N2,3,4,6
+双,ソウ フタ,ふた たぐい ならぶ,"pair, set, comparison, counter for pairs",N2,2,3,4
+刺,シ,さ.す さ.さる さ.し さし とげ,"thorn, pierce, stab, prick, sting, calling card",N2,1,5,6
+純,ジュ,,"genuine, purity, innocence, net (profit)",N2,1,0,4
+翌,ヨク,,"the following, next",N2,1,0,2
+快,カイ ココロヨ.,,"cheerful, pleasant, agreeable, comfortable",N2,2,0,4
+片,ヘン,かた- かた,"one-sided, leaf, sheet",N2,1,2,3
+敬,ケイ キョウ ウヤマ.,,"awe, respect, honor, revere",N2,3,0,4
+悩,ノウ,なや.む なや.ます なや.ましい なやみ,"trouble, worry, in pain, distress, illness",N2,1,4,5
+泉,セン イズ,,"spring, fountain",N2,2,0,2
+皮,,けがわ,"pelt, skin, hide, leather",N2,0,1,4
+漁,ギョ リョウ,あさ.る,"fishing, fishery",N2,2,1,2
+荒,コウ スサ.,あら.い あら- あ.れる あ.らす -あ.らし,"laid waste, rough, rude, wild",N2,2,5,4
+貯,チョ,た.める たくわ.える,"savings, store, lay in, keep, wear mustache",N2,1,2,5
+硬,コウ,かた.い,"stiff, hard",N2,1,1,2
+埋,マイ,う.める う.まる う.もれる うず.める うず.まる い.ける,"bury, be filled up, embedded",N2,1,6,3
+柱,チュウ,はしら,"pillar, post, cylinder, support",N2,1,1,4
+祭,サイ,まつ.る まつ.り まつり,"ritual, offer prayers, celebrate, deify, enshrine, worship",N2,1,3,6
+袋,タイ ダイ フク,,"sack, bag, pouch",N2,3,0,3
+筆,ヒツ フ,,"writing brush, writing, painting brush, handwriting",N2,2,0,4
+訓,クン キン クン.ズ,おし.える よ.む,"instruction, Japanese character reading, explanation, read",N2,3,2,4
+浴,ヨク ア.ビセ,あ.びる,"bathe, be favored with, bask in",N2,2,1,3
+童,ドウ ワラ,,"juvenile, child",N2,2,0,2
+宝,ホウ タカ,,"treasure, wealth, valuables",N2,2,0,3
+封,フウ ホウ,,"seal, closing",N2,2,0,2
+胸,キョウ,むね むな-,"bosom, breast, chest, heart, feelings",N2,1,2,5
+砂,サ シャ ス,,sand,N2,3,0,1
+塩,エン,しお,salt,N2,1,1,1
+賢,ケン カシコ.,,"intelligent, wise, wisdom, cleverness",N2,2,0,4
+腕,ワン,うで,"arm, ability, talent",N2,1,1,3
+兆,チョウ,きざ.す きざ.し,"portent, 10**12, trillion, sign, omen, symptoms",N2,1,2,6
+床,ショウ,とこ ゆか,"bed, floor, padding, tatami",N2,1,2,4
+毛,モウ,,"fur, hair, feather, down",N2,1,0,4
+緑,リョク ロク,みどり,green,N2,2,1,1
+尊,ソン トウト.,たっと.い とうと.い たっと.ぶ,"revered, valuable, precious, noble, exalted",N2,2,3,5
+祝,シュク シュウ イワ.,,"celebrate, congratulate",N2,3,0,2
+柔,ジュウ ニュウ ヤワ.,やわ.らか やわ.らかい やわ,"tender, weakness, gentleness, softness",N2,3,3,4
+殿,デン テン -ド,との,"Mr., hall, mansion, palace, temple, lord",N2,3,1,6
+濃,ノウ コ.,,"concentrated, thick, dark, undiluted",N2,2,0,4
+液,エキ,,"fluid, liquid, juice, sap, secretion",N2,1,0,5
+衣,イ エ,ころも きぬ -ぎ,"garment, clothes, dressing",N2,2,3,3
+肩,ケン,かた,shoulder,N2,1,1,1
+零,レイ,ぜろ こぼ.す こぼ.れる,"zero, spill, overflow, nothing, cipher",N2,1,3,5
+幼,ヨウ オサナ.,,"infancy, childhood",N2,2,0,2
+荷,カ,,"baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",N2,1,0,7
+泊,ハク ト.メ,と.まる,"overnight, put up at, ride at anchor, 3-day stay",N2,2,1,4
+黄,コウ オウ,き こ,yellow,N2,2,2,1
+甘,カン ウマ.,あま.い あま.える あま.やかす,"sweet, coax, pamper, be content, sugary",N2,2,3,5
+臣,シン ジ,,"retainer, subject",N2,2,0,2
+浅,セン アサ.,,"shallow, superficial, frivolous, wretched, shameful",N2,2,0,5
+掃,ソウ シュ ハ.,,"sweep, brush",N2,3,0,2
+雲,ウン -グ,くも,cloud,N2,2,1,1
+掘,クツ ホ.,,"dig, delve, excavate",N2,2,0,3
+捨,シャ,す.てる,"discard, throw away, abandon, resign, reject, sacrifice",N2,1,1,6
+軟,ナン,やわ.らか やわ.らかい,soft,N2,1,2,1
+沈,チン ジン シズ.メ,しず.む,"sink, be submerged, subside, be depressed, aloes",N2,3,1,5
+凍,トウ シ.ミ,こお.る こご.える こご.る い.てる,"frozen, congeal, refrigerate",N2,2,4,3
+乳,ニュウ,ちち ち,"milk, breasts",N2,1,2,2
+恋,レン,こ.う こい こい.しい,"romance, in love, yearn for, miss, darling",N2,1,3,5
+紅,コウ ク アカ.,べに くれない,"crimson, deep red",N2,3,2,2
+郊,コウ,,"outskirts, suburbs, rural area",N2,1,0,3
+腰,ヨウ コ,,"loins, hips, waist, low wainscoting",N2,2,0,4
+炭,タン,すみ,"charcoal, coal",N2,1,1,2
+踊,ヨウ,おど.る,"jump, dance, leap, skip",N2,1,1,4
+冊,サツ サク,ふみ,"tome, counter for books, volume",N2,2,1,3
+勇,ユウ イサ.,,"courage, cheer up, be in high spirits, bravery, heroism",N2,2,0,5
+械,カイ,かせ,"contraption, fetter, machine, instrument",N2,1,1,4
+菜,サイ,,"vegetable, side dish, greens",N2,1,0,3
+珍,チン タカ,めずら.しい,"rare, curious, strange",N2,2,1,3
+卵,ラン,たまご,"egg, ovum, spawn, roe",N2,1,1,4
+湖,コ ミズウ,,lake,N2,2,0,1
+喫,キツ,,"consume, eat, drink, smoke, receive (a blow)",N2,1,0,5
+干,カン ヒ.,ほ.す ほ.し- -ぼ.し,"dry, parch",N2,2,3,2
+虫,チュウ キ ム,,"insect, bug, temper",N2,3,0,3
+刷,サツ,す.る -ず.り -ずり は.く,"printing, print",N2,1,4,2
+湯,トウ,ゆ,"hot water, bath, hot spring",N2,1,1,3
+溶,ヨウ,と.ける と.かす と.く,"melt, dissolve, thaw",N2,1,3,3
+鉱,コウ,あらがね,"mineral, ore",N2,1,1,2
+涙,ルイ レイ,なみだ,"tears, sympathy",N2,2,1,2
+匹,ヒツ,ひき,"equal, head, counter for small animals, roll of cloth",N2,1,1,4
+孫,ソン マ,,"grandchild, descendants",N2,2,0,2
+鋭,エイ スルド.,,"pointed, sharpness, edge, weapon, sharp, violent",N2,2,0,6
+枝,シ エ,,"bough, branch, twig, limb",N2,2,0,4
+塗,ト,ぬ.る ぬ.り まみ.れる,"paint, plaster, daub, smear, coating",N2,1,3,5
+軒,ケン,のき,"flats, counter for houses, eaves",N2,1,1,3
+毒,ドク,,"poison, virus, venom, germ, harm, injury, spite",N2,1,0,7
+叫,キョウ,さけ.ぶ,"shout, exclaim, yell",N2,1,1,3
+拝,ハイ,おが.む おろが.む,"worship, adore, pray to",N2,1,2,3
+氷,ヒョウ コオ.,こおり ひ,"icicle, ice, hail, freeze, congeal",N2,2,2,5
+乾,カン ケン,かわ.く かわ.かす ほ.す ひ.る いぬい,"drought, dry, dessicate, drink up, heaven, emperor",N2,2,5,6
+棒,ボウ,,"rod, stick, cane, pole, club, line",N2,1,0,6
+祈,キ イノ.,,"pray, wish",N2,2,0,2
+拾,シュウ ジュウ,ひろ.う,"pick up, gather, find, go on foot, ten",N2,2,1,5
+粉,フン デシメートル,こ こな,"flour, powder, dust",N2,2,2,3
+糸,シ,いと,thread,N2,1,1,1
+綿,メン ワ,,cotton,N2,2,0,1
+汗,カン,あせ,"sweat, perspire",N2,1,1,2
+銅,ドウ,あかがね,copper,N2,1,1,1
+湿,シツ シュウ,しめ.る しめ.す うるお.う うるお.す,"damp, wet, moist",N2,2,4,3
+瓶,ビン カ,,"flower pot, bottle, vial, jar, jug, vat, urn",N2,2,0,7
+咲,ショウ -ザ,さ.く,"blossom, bloom",N2,2,1,2
+召,ショウ,め.す,"seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",N2,1,1,10
+缶,カン カ,,"tin can, container",N2,2,0,2
+隻,セキ,,"vessels, counter for ships, fish, birds, arrows, one of a pair",N2,1,0,6
+脂,シ,あぶら,"fat, grease, tallow, lard, rosin, gum, tar",N2,1,1,7
+蒸,ジョウ セイ,む.す む.れる む.らす,"steam, heat, sultry, foment, get musty",N2,2,3,5
+肌,キ,はだ,"texture, skin, body, grain",N2,1,1,4
+耕,コウ タガヤ.,,"till, plow, cultivate",N2,2,0,3
+鈍,ドン,にぶ.い にぶ.る にぶ- なま.る なまく.ら,"dull, slow, foolish, blunt",N2,1,5,4
+泥,デイ ナイ デ ニ ド,,"mud, mire, adhere to, be attached to",N2,5,0,4
+隅,グウ,すみ,"corner, nook",N2,1,1,2
+灯,トウ,ひ ほ- ともしび とも.す あかり,"lamp, a light, light, counter for lights",N2,1,5,4
+辛,シン,から.い つら.い -づら.い かのと,"spicy, bitter, hot, acrid",N2,1,4,4
+磨,マ ス.,みが.く,"grind, polish, scour, improve, brush (teeth)",N2,2,1,5
+麦,バク,むぎ,"barley, wheat",N2,1,1,2
+姓,セイ ショウ,,surname,N2,2,0,1
+筒,トウ,つつ,"cylinder, pipe, tube, gun barrel, sleeve",N2,1,1,5
+鼻,ビ,はな,"nose, snout",N2,1,1,2
+粒,リュウ,つぶ,"grains, drop, counter for tiny particles",N2,1,1,3
+詞,シ,,"part of speech, words, poetry",N2,1,0,3
+胃,イ,,"stomach, paunch, crop, craw",N2,1,0,4
+畳,ジョウ チョウ,たた.む たたみ かさ.なる,"tatami mat, counter for tatami mats, fold, shut up, do away with",N2,2,3,5
+机,キ,つくえ,"desk, table",N2,1,1,2
+膚,フ,はだ,"skin, body, grain, texture, disposition",N2,1,1,5
+濯,タク,すす.ぐ ゆす.ぐ,"laundry, wash, pour on, rinse",N2,1,2,4
+塔,トウ,,"pagoda, tower, steeple",N2,1,0,3
+沸,フツ,わ.く わ.かす,"seethe, boil, ferment, uproar, breed",N2,1,2,5
+灰,カイ,はい,"ashes, puckery juice, cremate",N2,1,1,3
+菓,カ,,"candy, cakes, fruit",N2,1,0,3
+帽,ボウ モウ,ずきん おお.う,"cap, headgear",N2,2,2,2
+枯,コ,か.れる か.らす,"wither, die, dry up, be seasoned",N2,1,2,4
+涼,リョウ マコト,すず.しい すず.む すず.やか うす.い ひや.す,"refreshing, nice and cool",N2,2,5,2
+舟,シュウ,ふね ふな- -ぶね,"boat, ship",N2,1,3,2
+貝,バイ,かい,shellfish,N2,1,1,1
+符,フ,,"token, sign, mark, tally, charm",N2,1,0,5
+憎,ゾウ,にく.む にく.い にく.らしい にく.しみ,"hate, detest",N2,1,4,2
+皿,ベイ,さら,"dish, a helping, plate",N2,1,1,3
+肯,コウ,がえんじ.る,"agreement, consent, comply with",N2,1,1,3
+燥,ソウ,はしゃ.ぐ,"parch, dry up",N2,1,1,2
+畜,チク,,"livestock, domestic fowl and animals",N2,1,0,2
+挟,キョウ ショウ,はさ.む はさ.まる わきばさ.む さしはさ.む,"pinch, between",N2,2,4,2
+曇,ドン クモ.,,"cloudy weather, cloud up",N2,2,0,2
+滴,テキ,しずく したた.る,"drip, drop",N2,1,2,2
+伺,シ,うかが.う,"pay respects, visit, ask, inquire, question, implore",N2,1,1,6
+氏,シ,うじ -うじ,"family name, surname, clan",N1,1,2,3
+統,トウ ホビ.,す.べる,"overall, relationship, ruling, governing",N1,2,1,4
+保,ホ ホウ タモ.,,"protect, guarantee, keep, preserve, sustain, support",N1,3,0,6
+第,ダイ テイ,,"No., residence",N1,2,0,2
+結,ケツ ケチ ユ.ワエ,むす.ぶ ゆ.う,"tie, bind, contract, join, organize, do up hair, fasten",N1,3,2,7
+派,ハ,,"faction, group, party, clique, sect, school",N1,1,0,6
+案,アン,つくえ,"plan, suggestion, draft, ponder, fear, proposition, idea, expectation, bill, worry",N1,1,1,10
+策,サク,,"scheme, plan, policy, step, means",N1,1,0,5
+基,キ モト,もと,"fundamentals, radical (chem), counter for machines, foundation",N1,2,1,4
+価,カ ケ,あたい,"value, price",N1,2,1,2
+提,テイ チョウ ダイ,さ.げる,"propose, take along, carry in hand",N1,3,1,3
+挙,キョ コゾ.,あ.げる あ.がる,"raise, plan, project, behavior, actions",N1,2,2,5
+応,オウ ヨウ -ノウ コタ.エ,あた.る まさに,"apply, answer, yes, OK, reply, accept",N1,4,2,6
+企,キ,くわだ.てる,"undertake, scheme, design, attempt, plan",N1,1,1,5
+検,ケン,しら.べる,"examination, investigate",N1,1,1,2
+藤,トウ ドウ フ,,wisteria,N1,3,0,1
+沢,タク ツ,さわ うるお.い うるお.す,swamp,N1,2,3,1
+裁,サイ,た.つ さば.く,"tailor, judge, decision, cut out (pattern)",N1,1,2,4
+証,ショウ,あかし,"evidence, proof, certificate",N1,1,1,3
+援,エン,,"abet, help, save",N1,1,0,3
+施,シ セ,ほどこ.す,"alms, apply bandages, administer first-aid",N1,2,1,3
+井,セイ ショウ,,"well, well crib, town, community",N1,2,0,4
+護,ゴ マモ.,,"safeguard, protect",N1,2,0,2
+展,テ,,"unfold, expand",N1,1,0,2
+態,タイ,わざ.と,"attitude, condition, figure, appearance, voice (of verbs)",N1,1,1,5
+鮮,セン,あざ.やか,"fresh, vivid, clear, brilliant, Korea",N1,1,1,5
+視,シ ミ.,,"inspection, regard as, see, look at",N1,2,0,4
+条,ジョウ チョウ デキ,えだ すじ,"article, clause, item, stripe, streak",N1,3,2,5
+幹,カン ミ,,tree trunk,N1,2,0,1
+独,ドク トク ヒト.,,"single, alone, spontaneously, Germany",N1,3,0,4
+宮,キュウ グウ ク クウ ミ,,"Shinto shrine, constellations, palace, princess",N1,5,0,4
+率,ソツ リツ シュツ,ひき.いる,"ratio, rate, proportion, %, coefficient, factor",N1,3,1,6
+衛,エイ,,"defense, protection",N1,1,0,2
+張,チョウ -バ.,は.る -は.り,"lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)",N1,2,2,5
+監,カ,,"oversee, official, govt office, rule, administer",N1,1,0,5
+環,カン,,"ring, circle, link, wheel",N1,1,0,4
+審,シン ツブサ.,つまび.らか,"hearing, judge, trial",N1,2,1,3
+義,,,"righteousness, justice, morality, honor, loyalty, meaning",N1,0,0,6
+訴,ソ,うった.える,"accusation, sue, complain of pain, appeal to",N1,1,1,4
+株,シュ,かぶ,"stocks, stump, shares, stock, counter for small plants",N1,1,1,5
+姿,シ スガ,,"figure, form, shape",N1,2,0,3
+閣,カク,,"tower, tall building, palace",N1,1,0,3
+衆,シュウ シュ,おお.い,"masses, great numbers, multitude, populace",N1,2,1,4
+評,ヒョウ,,"evaluate, criticism, comment",N1,1,0,3
+影,エイ,かげ,"shadow, silhouette, phantom",N1,1,1,3
+松,ショウ マ,,pine tree,N1,2,0,1
+撃,ゲキ,う.つ,"beat, attack, defeat, conquer",N1,1,1,4
+佐,,,"assistant, help",N1,0,0,2
+核,カク,,"nucleus, core, kernel",N1,1,0,3
+整,セイ トトノ.,ととの.える,"organize, arranging, tune, tone, meter, key (music)",N1,2,1,6
+融,ユウ ト.カ,と.ける,"dissolve, melt",N1,2,1,2
+製,セイ,,"made in..., manufacture",N1,1,0,2
+票,ヒョウ,,"ballot, label, ticket, sign",N1,1,0,4
+渉,ショウ ワタ.,,"ford, ferry, port",N1,2,0,3
+響,キョウ,ひび.く,"echo, also N5116, sound, resound, ring, vibrate",N1,1,1,6
+推,スイ,お.す,"conjecture, infer, guess, suppose, support",N1,1,1,5
+請,セイ シン ショウ ウ.ケ,こ.う,"solicit, invite, ask",N1,4,1,3
+器,キ,うつわ,"utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",N1,1,1,9
+士,,,"gentleman, samurai",N1,0,0,2
+討,トウ,う.つ,"chastise, attack, defeat, destroy, conquer",N1,1,1,5
+攻,コウ セ.メ,,"aggression, attack",N1,2,0,2
+崎,キ,さき さい みさき,"promontory, cape, spit",N1,1,3,3
+督,ト,,"coach, command, urge, lead, supervise",N1,1,0,5
+授,ジュ,さず.ける さず.かる,"impart, instruct, grant, confer",N1,1,2,4
+催,サイ,もよう.す もよお.す,"sponsor, hold (a meeting), give (a dinner)",N1,1,2,3
+及,キュウ オヨ.ボ,およ.ぶ およ.び および,"reach out, exert, exercise, cause",N1,2,3,4
+憲,ケ,,"constitution, law",N1,1,0,2
+離,リ,はな.れる はな.す,"detach, separation, disjoin, digress",N1,1,2,4
+激,ゲキ,はげ.しい,"violent, get excited, enraged, chafe, incite",N1,1,1,5
+摘,テキ ツ.,,"pinch, pick, pluck, trim, clip, summarize",N1,2,0,6
+系,ケイ,,"lineage, system",N1,1,0,2
+批,ヒ,,"criticism, strike",N1,1,0,2
+郎,ロウ リョウ オト,,"son, counter for sons",N1,3,0,2
+健,ケン スコ.ヤ,,"healthy, health, strength, persistence",N1,2,0,4
+盟,メイ,,"alliance, oath",N1,1,0,2
+従,ジュウ ショウ ジュ,したが.う したが.える より,"accompany, obey, submit to, comply, follow, secondary, incidental, subordinate",N1,3,3,8
+修,シュウ シュ オサ.マ,おさ.める,"discipline, conduct oneself well, study, master",N1,3,1,4
+隊,タイ,,"regiment, party, company, squad",N1,1,0,4
+織,ショク シキ -オ.,お.る お.り おり -おり,"weave, fabric",N1,3,4,2
+拡,カク コウ,ひろ.がる ひろ.げる ひろ.める,"broaden, extend, expand, enlarge",N1,2,3,4
+故,コ,ゆえ,"happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently",N1,1,1,9
+振,シン フ.ル,ふ.る ぶ.る ふ.り -ぶ.り,"shake, wave, wag, swing",N1,2,4,4
+弁,ベン ヘン アラソ.,わきま.える わ.ける はなびら,"valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish",N1,3,3,8
+就,シュウ ジュ ツ.ケ,つ.く,"concerning, settle, take position, depart, study, per",N1,3,1,6
+異,イ,こと こと.なる け,"uncommon, queerness, strangeness, wonderful, curious, unusual",N1,1,3,6
+献,ケン コン,たてまつ.る,"offering, counter for drinks, present, offer",N1,2,1,4
+厳,ゲン ゴン イツク,おごそ.か きび.しい いか.めしい,"stern, strictness, severity, rigidity",N1,3,3,4
+維,,,"fiber, tie, rope",N1,0,0,3
+浜,ヒン,はま,"seacoast, beach, seashore",N1,1,1,3
+遺,イ ユイ,,"bequeath, leave behind, reserve",N1,2,0,3
+塁,ルイ ライ スイ トリ,,"bases, fort, rampart, walls, base(ball)",N1,4,0,5
+邦,ホウ,くに,"home country, country, Japan",N1,1,1,3
+素,ソ ス,もと,"elementary, principle, naked, uncovered",N1,2,1,4
+遣,ケン,つか.う -つか.い -づか.い つか.わす や.る,"despatch, send, give, donate, do, undertake",N1,1,5,6
+抗,コウ,,"confront, resist, defy, oppose",N1,1,0,4
+模,モ,,"imitation, copy, mock",N1,1,0,3
+雄,ユウ オ,お- おす,"masculine, male, hero, leader, superiority, excellence",N1,2,2,6
+益,エキ ヤク マ.,,"benefit, gain, profit, advantage",N1,3,0,4
+緊,キン,,"tense, solid, hard, reliable, tight",N1,1,0,5
+標,ヒョウ シル,しるべ,"signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",N1,2,1,11
+宣,セン ノタマ.ワ,のたむ.う,"proclaim, say, announce",N1,2,1,3
+昭,ショ,,"shining, bright",N1,1,0,2
+廃,ハイ,すた.れる すた.る,"abolish, obsolete, cessation, discarding, abandon",N1,1,2,5
+伊,イ カ,,"Italy, that one",N1,2,0,2
+江,コウ,,"creek, inlet, bay",N1,1,0,3
+僚,リョウ,,"colleague, official, companion",N1,1,0,3
+吉,キチ キツ ヨ,,"good luck, joy, congratulations",N1,3,0,3
+盛,セイ ジョウ サカ.,も.る さか.る,"boom, prosper, copulate",N1,3,2,3
+皇,コウ オ,,emperor,N1,2,0,1
+臨,リン ノゾ.,,"look to, face, meet, confront, attend, call on",N1,2,0,6
+踏,トウ,ふ.む ふ.まえる,"step, trample, carry through, appraise, evade payment",N1,1,2,5
+壊,カイ エ,こわ.す こわ.れる やぶ.る,"demolition, break, destroy",N1,2,3,3
+債,サイ,,"bond, loan, debt",N1,1,0,3
+興,コウ キョウ オコ.,おこ.る,"entertain, revive, retrieve, interest, pleasure",N1,3,1,5
+源,ゲン ミナモ,,"source, origin",N1,2,0,2
+儀,,,"ceremony, rule, affair, case, a matter",N1,0,0,5
+創,ソウ ショウ ケズ.シケ,つく.る はじ.める きず,"genesis, wound, injury, hurt, start, originate",N1,3,3,6
+障,ショウ,さわ.る,"hinder, hurt, harm",N1,1,1,3
+継,ケイ,つ.ぐ まま-,"inherit, succeed, patch, graft (tree)",N1,1,2,4
+筋,キン,すじ,"muscle, sinew, tendon, fiber, plot, plan, descent",N1,1,1,7
+闘,トウ アラソ.,たたか.う,"fight, war",N1,2,1,2
+葬,ソウ ホウム.,,"interment, bury, shelve",N1,2,0,3
+避,ヒ,さ.ける よ.ける,"evade, avoid, avert, ward off, shirk, shun",N1,1,2,6
+司,シ ツカサド.,,"director, official, govt office, rule, administer",N1,2,0,5
+康,コ,,"ease, peace",N1,1,0,2
+善,ゼン ヨシ.トス,よ.い い.い よ.く,"virtuous, good, goodness",N1,2,3,3
+逮,タイ,,"apprehend, chase",N1,1,0,2
+迫,ハク セマ.,,"urge, force, imminent, spur on",N1,2,0,4
+惑,ワク,まど.う,"beguile, delusion, perplexity",N1,1,1,3
+崩,ホウ,くず.れる -くず.れ くず.す,"crumble, die, demolish, level",N1,1,3,4
+紀,,,"chronicle, account, narrative, history, annals, geologic period",N1,0,0,6
+聴,チョウ テイ ユル.,き.く,"listen, headstrong, naughty, careful inquiry",N1,3,1,4
+脱,ダツ,ぬ.ぐ ぬ.げる,"undress, removing, escape from, get rid of, be left out, take off",N1,1,2,6
+級,キュ,,"class, rank, grade",N1,1,0,3
+博,ハク バ,,"Dr., command, esteem, win acclaim, Ph.D., exposition, fair",N1,2,0,7
+締,テイ,し.まる し.まり し.める -し.め -じ.め,"tighten, tie, shut, lock, fasten",N1,1,5,5
+救,キュウ,すく.う,"salvation, save, help, rescue, reclaim",N1,1,1,5
+執,シツ シュウ ト.,,"tenacious, take hold, grasp, take to heart",N1,3,0,4
+房,ボウ フ,,"tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",N1,2,0,8
+撤,テツ,,"remove, withdraw, disarm, dismantle, reject, exclude",N1,1,0,6
+削,サク ソ.,けず.る はつ.る,"plane, sharpen, whittle, pare",N1,2,2,4
+密,ミツ,ひそ.か,"secrecy, density (pop), minuteness, carefulness",N1,1,1,4
+措,ソ,お.く,"set aside, give up, suspend, discontinue, lay aside, except",N1,1,1,6
+志,シ シリング ココロザ,こころざ.す,"intention, plan, resolve, aspire, motive, hopes, shilling",N1,3,1,7
+載,サイ ノ.,の.せる,"ride, board, get on, place, spread, 10**44",N1,2,1,6
+陣,ジン,,"camp, battle array, ranks, position",N1,1,0,4
+我,ガ,われ わ わ.が- わが,"ego, I, selfish, our, oneself",N1,1,4,5
+為,イ ナ,ため な.る な.す す.る たり つく.る,"do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a re",N1,2,6,14
+抑,ヨク,おさ.える,"repress, well, now, in the first place, push, shove, press, seal, do in spite of",N1,1,1,9
+幕,マク バク,,"curtain, bunting, act of play",N1,2,0,3
+染,セン -シ.メ,そ.める -ぞ.め -ぞめ そ.まる し.みる -じ.みる し.み,"dye, color, paint, stain, print",N1,2,7,5
+奈,ナ ナイ ダイ,いかん からなし,"Nara, what?",N1,3,2,2
+傷,ショウ,きず いた.む いた.める,"wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",N1,1,3,10
+択,タク,えら.ぶ,"choose, select, elect, prefer",N1,1,1,4
+秀,シュウ ヒイ.デ,,"excel, excellence, beauty, surpass",N1,2,0,4
+徴,チョウ チ,しるし,"indications, sign, omen, symptom, collect, seek, refer to, question",N1,2,1,8
+弾,ダン タン,ひ.く -ひ.き はず.む たま はじ.く はじ.ける ただ.す はじ.きゆみ,"bullet, twang, flip, snap",N1,2,8,4
+償,ショウ,つぐな.う,"reparation, make up for, recompense, redeem",N1,1,1,4
+功,コウ ク イサ,,"achievement, merits, success, honor, credit",N1,3,0,5
+拠,キョ コ,よ.る,"foothold, based on, follow, therefore",N1,2,1,4
+秘,ヒ,ひ.める ひそ.か かく.す,"secret, conceal",N1,1,3,2
+拒,キョ ゴ,こば.む,"repel, refuse, reject, decline",N1,2,1,4
+刑,ケ,,"punish, penalty, sentence, punishment",N1,1,0,4
+塚,チョウ -ヅ,つか,"hillock, mound",N1,2,1,2
+致,チ,いた.す,"doth, do, send, forward, cause, exert, incur, engage",N1,1,1,8
+繰,ソウ ク.,,"winding, reel, spin, turn (pages), look up, refer to",N1,2,0,6
+尾,ビ,お,"tail, end, counter for fish, lower slope of mountain",N1,1,1,4
+描,ビョウ,えが.く か.く,"sketch, compose, write, draw, paint",N1,1,2,5
+鈴,レイ リン ス,,"small bell, buzzer",N1,3,0,2
+盤,バ,,"tray, shallow bowl, platter, tub, board, phonograph record",N1,1,0,6
+項,コウ,うなじ,"paragraph, nape of neck, clause, item, term (expression)",N1,1,1,5
+喪,ソウ,も,"miss, mourning",N1,1,1,2
+伴,ハン バン トモナ.,,"consort, accompany, bring with, companion",N1,3,0,4
+養,ヨウ リョウ ヤシナ.,,"foster, bring up, rear, develop, nurture",N1,3,0,5
+懸,ケン ケ,か.ける か.かる,"suspend, hang, 10%, install, depend, consult",N1,2,2,6
+街,ガイ カイ マ,,"boulevard, street, town",N1,3,0,3
+契,ケイ,ちぎ.る,"pledge, promise, vow",N1,1,1,3
+掲,ケイ,かか.げる,"put up (a notice), put up, hoist, display, hang out, publish, describe",N1,1,1,7
+躍,ヤク オド.,,"leap, dance, skip",N1,2,0,3
+棄,キ,す.てる,"abandon, throw away, discard, resign, reject, sacrifice",N1,1,1,6
+邸,テイ ヤシ,,"residence, mansion",N1,2,0,2
+縮,シュク,ちぢ.む ちぢ.まる ちぢ.める ちぢ.れる ちぢ.らす,"shrink, contract, shrivel, wrinkle, reduce",N1,1,5,5
+還,カン,かえ.る,"send back, return",N1,1,1,2
+属,ゾク ショク ヤカ,さかん つく,"belong, genus, subordinate official, affiliated",N1,3,2,4
+慮,リョ オモンパカ.,おもんぱく.る,"prudence, thought, concern, consider, deliberate, fear",N1,2,1,6
+枠,,わく,"frame, framework, spindle, spool, bounding-box, (kokuji)",N1,0,1,6
+恵,ケイ エ メグ.,めぐ.む,"favor, blessing, grace, kindness",N1,3,1,4
+露,ロ ロウ ツ,,"dew, tears, expose, Russia",N1,3,0,4
+沖,チュウ,おき おきつ ちゅう.する わく,"open sea, offing, rise high into sky",N1,1,4,3
+緩,カン ユル.メ,ゆる.い ゆる.やか ゆる.む,"slacken, loosen, relax, lessen, be moderate, ease",N1,2,3,6
+節,セツ セチ ノッ,ふし -ぶし,"node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",N1,3,2,14
+需,ジュ,,"demand, request, need",N1,1,0,3
+射,シャ,い.る さ.す,"shoot, shine into, onto, archery",N1,1,2,4
+購,コウ,,"subscription, buy",N1,1,0,2
+揮,キ,ふる.う,"brandish, wave, wag, swing, shake",N1,1,1,5
+充,ジュウ ミ.タ,あ.てる,"allot, fill",N1,2,1,2
+貢,コウ ク,みつ.ぐ,"tribute, support, finance",N1,2,1,3
+鹿,ロク,しか,deer,N1,1,1,1
+却,キャク,かえ.って しりぞ.く しりぞ.ける,"instead, on the contrary, rather",N1,1,3,3
+端,タン ハ,はし は はた -ばた,"edge, origin, end, point, border, verge, cape",N1,2,4,7
+賃,チ,,"fare, fee, hire, rent, wages, charge",N1,1,0,6
+獲,カク,え.る,"seize, get, find, earn, acquire, can, may, able to",N1,1,1,8
+郡,グン,こうり,"county, district",N1,1,1,2
+併,ヘイ,あわ.せる,"join, get together, unite, collective",N1,1,1,4
+徹,テ,,"penetrate, clear, pierce, strike home, sit up (all night)",N1,1,0,5
+貴,キ トウト.,たっと.い とうと.い たっと.ぶ,"precious, value, prize, esteem, honor",N1,2,3,5
+衝,ショウ,つ.く,"collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick",N1,1,1,8
+焦,ショウ,こ.げる こ.がす こ.がれる あせ.る,"char, hurry, impatient, irritate, burn, scorch, singe",N1,1,4,7
+奪,ダツ,うば.う,"rob, take by force, snatch away, dispossess, plunder, usurp",N1,1,1,6
+災,サイ,わざわ.い,"disaster, calamity, woe, curse, evil",N1,1,1,5
+浦,ホ,うら,"bay, creek, inlet, gulf, beach, seacoast",N1,1,1,6
+析,セキ,,"chop, divide, tear, analyze",N1,1,0,4
+譲,ジョウ ユズ.,,"defer, turnover, transfer, convey",N1,2,0,4
+称,ショウ ホメ.,たた.える とな.える あ.げる かな.う はか.り はか.る,"appellation, praise, admire, name, title, fame",N1,2,6,6
+納,ノウ ナッ ナ ナン トウ オサ.マ,おさ.める -おさ.める,"settlement, obtain, reap, pay, supply, store",N1,6,2,6
+樹,ジュ,,"timber trees, wood",N1,1,0,2
+挑,チョウ,いど.む,"challenge, contend for, make love to",N1,1,1,3
+誘,ユウ イウ,さそ.う いざな.う,"entice, lead, tempt, invite, ask, call for, seduce, allure",N1,2,2,8
+紛,フン,まぎ.れる -まぎ.れ まぎ.らす まぎ.らわす まぎ.らわしい,"distract, be mistaken for, go astray, divert",N1,1,5,4
+至,シ イタ.,,"climax, arrive, proceed, reach, attain, result in",N1,2,0,6
+宗,シュウ ソウ ム,,"religion, sect, denomination, main point, origin, essence",N1,3,0,6
+促,ソク,うなが.す,"stimulate, urge, press, demand, incite",N1,1,1,5
+慎,シン ツツシ.,つつし.む つつし,"humility, be careful, discrete, prudent",N1,2,2,4
+控,コウ,ひか.える ひか.え,"withdraw, draw in, hold back, refrain from, be moderate",N1,1,2,5
+智,,,"wisdom, intellect, reason",N1,0,0,3
+握,アク,にぎ.る,"grip, hold, mould sushi, bribe",N1,1,1,4
+宙,チュ,,"mid-air, air, space, sky, memorization, interval of time",N1,1,0,6
+俊,シュ,,"sagacious, genius, excellence",N1,1,0,3
+銭,セン ゼン,ぜに すき,"coin, .01 yen, money",N1,2,2,3
+渋,ジュウ シュウ,しぶ しぶ.い しぶ.る,"astringent, hesitate, reluctant, have diarrhea",N1,2,3,4
+銃,ジュウ,,"gun, arms",N1,1,0,2
+操,ソウ サン アヤツ.,みさお,"maneuver, manipulate, operate, steer, chastity, virginity, fidelity",N1,3,1,7
+携,ケイ,たずさ.える たずさ.わる,"portable, carry (in hand), armed with, bring along",N1,1,2,4
+診,シン,み.る,"checkup, seeing, diagnose, examine",N1,1,1,4
+託,タク,かこつ.ける かこ.つ かこ.つける,"consign, requesting, entrusting with, pretend, hint",N1,1,3,5
+撮,サツ,と.る つま.む -ど.り,"snapshot, take pictures",N1,1,3,2
+誕,タン,,"nativity, be born, declension, lie, be arbitrary",N1,1,0,5
+侵,シン,おか.す,"encroach, invade, raid, trespass, violate",N1,1,1,5
+括,カツ,くく.る,"fasten, tie up, arrest, constrict",N1,1,1,4
+謝,シャ アヤマ.,,"apologize, thank, refuse",N1,2,0,3
+駆,ク,か.ける か.る,"drive, run, gallop, advance, inspire, impel",N1,1,2,6
+透,トウ トウ.,す.く す.かす す.ける とう.る,"transparent, permeate, filter, penetrate",N1,2,4,4
+津,シン,,"haven, port, harbor, ferry",N1,1,0,4
+壁,ヘキ,かべ,"wall, lining (stomach), fence",N1,1,1,3
+稲,トウ テ,いね いな,rice plant,N1,2,2,1
+仮,カ ケ,かり かり-,"sham, temporary, interim, assumed (name), informal",N1,2,2,5
+裂,レツ,さ.く さ.ける -ぎ.れ,"split, rend, tear",N1,1,3,3
+敏,ビン サト,,"cleverness, agile, alert",N1,2,0,3
+是,ゼ シ,これ,"just so, this, right, justice",N1,2,1,4
+排,ハ,,"repudiate, exclude, expel, reject",N1,1,0,4
+裕,ユ,,"abundant, rich, fertile",N1,1,0,3
+堅,ケン -ガタ.,かた.い,"strict, hard, solid, tough, tight, reliable",N1,2,1,6
+訳,ヤク,わけ,"translate, reason, circumstance, case",N1,1,1,4
+芝,シ シ,,"turf, lawn",N1,2,0,2
+綱,コウ,つな,"hawser, class (genus), rope, cord, cable",N1,1,1,5
+典,テン デ,,"code, ceremony, law, rule",N1,2,0,4
+賀,,,"congratulations, joy",N1,0,0,2
+扱,ショウ,あつか.る あつか.い あつか.う,"handle, entertain, thresh, strip",N1,1,3,4
+顧,コ カエリ.ミ,,"look back, review, examine oneself, turn around",N1,2,0,4
+弘,コウ グ ヒロ.,,"vast, broad, wide",N1,3,0,3
+看,カン,み.る,"watch over, see",N1,1,1,2
+訟,ショウ,,"sue, accuse",N1,1,0,2
+戒,カイ,いまし.める,commandment,N1,1,1,1
+祉,シ,,"welfare, happiness",N1,1,0,2
+誉,ヨ ホ.メ,ほま.れ,"reputation, praise, honor, glory",N1,2,1,4
+歓,カン ヨロコ.,,"delight, joy",N1,2,0,2
+奏,ソウ カナ.デ,,"play music, speak to a ruler, complete",N1,2,0,3
+勧,カン ケン,すす.める,"persuade, recommend, advise, encourage, offer",N1,2,1,5
+騒,ソウ,さわ.ぐ うれい さわ.がしい,"boisterous, make noise, clamor, disturb, excite",N1,1,3,5
+閥,バツ,,"clique, lineage, pedigree, faction, clan",N1,1,0,5
+甲,コウ カン カ キノ,,"armor, high (voice), A grade, first class, former, instep, carapace",N1,4,0,7
+縄,ジョウ,なわ ただ.す,"straw rope, cord",N1,1,2,2
+郷,キョウ ゴウ サ,,"home town, village, native place, district",N1,3,0,4
+揺,ヨウ,ゆ.れる ゆ.る ゆ.らぐ ゆ.るぐ ゆ.する ゆ.さぶる ゆ.すぶる うご.く,"swing, shake, sway, rock, tremble, vibrate",N1,1,8,6
+免,メン マヌガ.レ,まぬか.れる,"excuse, dismissal",N1,2,1,2
+既,キ,すで.に,"previously, already, long ago",N1,1,1,3
+薦,セン スス.メ,,"recommend, mat, advise, encourage, offer",N1,2,0,5
+隣,リン トナ,とな.る,neighboring,N1,2,1,1
+華,カ ケ ハ,,"splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous",N1,3,0,9
+範,ハ,,"pattern, example, model",N1,1,0,3
+隠,イン オン ヨ.,かく.す かく.し かく.れる かか.す,"conceal, hide, cover",N1,3,4,3
+徳,ト,,"benevolence, virtue, goodness, commanding respect",N1,1,0,4
+哲,テ,,"philosophy, clear",N1,1,0,2
+杉,サン,すぎ,"cedar, cryptomeria",N1,1,1,2
+釈,シャク セキ ユル.,とく す.てる,explanation,N1,3,2,1
+己,コ キ ツチノ,おのれ,"self, snake, serpent",N1,3,1,3
+妥,,,"gentle, peace, depravity",N1,0,0,3
+威,イ オド.カ,おど.す おど.し,"intimidate, dignity, majesty, menace, threaten",N1,2,2,5
+豪,ゴウ エラ.,,"overpowering, great, powerful, excelling, Australia",N1,2,0,5
+熊,ユウ,くま,bear,N1,1,1,1
+滞,タイ テイ,とどこお.る,"stagnate, be delayed, overdue, arrears",N1,2,1,4
+微,ビ カス.,,"delicate, minuteness, insignificance",N1,2,0,3
+隆,リュ,,"hump, high, noble, prosperity",N1,1,0,4
+症,ショウ,,"symptoms, illness",N1,1,0,2
+暫,ザン,しばら.く,"temporarily, a while, moment, long time",N1,1,1,4
+忠,チュ,,"loyalty, fidelity, faithfulness",N1,1,0,3
+倉,ソウ,くら,"godown, warehouse, storehouse, cellar, treasury",N1,1,1,5
+彦,ゲン ヒ,,"lad, boy (ancient)",N1,2,0,2
+肝,カン,きも,"liver, pluck, nerve, chutzpah",N1,1,1,4
+喚,カン,わめ.く,"yell, cry, scream",N1,1,1,3
+沿,エン,そ.う -ぞ.い,"run alongside, follow along, run along, lie along",N1,1,2,4
+妙,ミョウ ビョウ,たえ,"exquisite, strange, queer, mystery, miracle, excellent, delicate, charming",N1,2,1,8
+唱,ショウ,とな.える,"chant, recite, call upon, yell",N1,1,1,4
+阿,ア オ オモネ.,,"Africa, flatter, fawn upon, corner, nook, recess",N1,3,0,6
+索,サク,,"cord, rope",N1,1,0,2
+誠,セイ マコ,,"sincerity, admonish, warn, prohibit, truth, fidelity",N1,2,0,6
+襲,シュウ カサ.,おそ.う,"attack, advance on, succeed to, pile, heap",N1,2,1,5
+懇,コン,ねんご.ろ,"sociable, kind, courteous, hospitable, cordial",N1,1,1,5
+俳,ハイ,,"haiku, actor",N1,1,0,2
+柄,ヘイ ツ,がら え,"design, pattern, build, nature, handle, crank, grip, knob, shaft",N1,2,2,9
+驚,キョウ,おどろ.く おどろ.かす,"wonder, be surprised, frightened, amazed",N1,1,2,4
+麻,マ マア ア,,"hemp, flax",N1,3,0,2
+李,リ スモ,,plum,N1,2,0,1
+浩,コウ ヒロ.,おおき.い,"wide expanse, abundance, vigorous",N1,2,1,3
+剤,ザイ スイ セイ,かる けず.る,"dose, medicine, drug",N1,3,2,3
+瀬,ライ,,"rapids, current, torrent, shallows, shoal",N1,1,0,5
+趣,シュ,おもむき おもむ.く,"gist, proceed to, tend, become",N1,1,2,4
+陥,カン,おちい.る おとしい.れる,"collapse, fall into, cave in, fall (castle), slide into",N1,1,2,5
+斎,サイ イ.,とき つつし.む ものいみ,"purification, Buddhist food, room, worship, avoid, alike",N1,2,3,6
+貫,カン ヌ,つらぬ.く ぬ.く,"pierce, 8 1, 3lbs, penetrate, brace",N1,2,2,5
+仙,セン セン,,"hermit, wizard, cent",N1,2,0,3
+慰,イ,なぐさ.める なぐさ.む,"consolation, amusement, seduce, cheer, make sport of, comfort, console",N1,1,2,7
+序,ジョ ツイ,つい.で,"preface, beginning, order, precedence, occasion, chance, incidentally",N1,2,1,7
+旬,ジュン シュン,,"decameron, 10day period, season (for specific products",N1,2,0,3
+兼,ケン -カ.ネ,か.ねる,"concurrently, and",N1,2,1,2
+聖,セイ ショウ ヒジ,,"holy, saint, sage, master, priest",N1,3,0,5
+旨,シ,むね うま.い,"delicious, relish, show a liking for, purport, will, clever, expert",N1,1,2,7
+即,ソク,つ.く つ.ける すなわ.ち,"instant, namely, as is, conform, agree, adapt",N1,1,3,6
+柳,リュウ ヤナ,,willow,N1,2,0,1
+舎,シャ セキ ヤド.,,"cottage, inn, hut, house, mansion",N1,3,0,5
+偽,ギ カ,いつわ.る にせ いつわ.り,"falsehood, lie, deceive, pretend, counterfeit, forgery",N1,2,3,6
+較,カク コウ,くら.べる,"contrast, compare",N1,2,1,2
+覇,ハ ハク,はたがしら,"hegemony, supremacy, leadership, champion",N1,2,1,4
+詳,ショウ ツマビ.ラ,くわ.しい,"detailed, full, minute, accurate, well-informed",N1,2,1,5
+抵,テイ,,"resist, reach, touch",N1,1,0,3
+脅,キョウ,おびや.かす おど.す おど.かす,"threaten, coerce",N1,1,3,2
+茂,モ シゲ.,,"overgrown, grow thick, be luxuriant",N1,2,0,3
+犠,ギ キ,いけにえ,sacrifice,N1,2,1,1
+旗,キ,はた,"national flag, banner, standard",N1,1,1,3
+距,キョ,へだ.たる,long-distance,N1,1,1,1
+雅,ガ ミヤ.,,"gracious, elegant, graceful, refined",N1,2,0,4
+飾,ショク カザ.,かざ.る,"decorate, ornament, adorn, embellish",N1,2,1,4
+網,モウ ア,,"netting, network",N1,2,0,2
+竜,リュウ リョウ ロウ イ,たつ,"dragon, imperial",N1,4,1,2
+詩,,,"poem, poetry",N1,0,0,2
+繁,ハン,しげ.る しげ.く,"luxuriant, thick, overgrown, frequency, complexity, trouble",N1,1,2,6
+翼,ヨク,つばさ,"wing, plane, flank",N1,1,1,3
+潟,セキ -ガ,かた,lagoon,N1,2,1,1
+敵,テキ,かたき かな.う,"enemy, foe, opponent",N1,1,2,3
+魅,ミ,,"fascination, charm, bewitch",N1,1,0,3
+嫌,ケン ゲン,きら.う きら.い いや,"dislike, detest, hate",N1,2,3,3
+斉,セイ サイ ハヤ,そろ.う ひと.しい ひと.しく あたる,"adjusted, alike, equal, similar variety of",N1,3,4,4
+敷,フ -シ.,し.く,"spread, pave, sit, promulgate",N1,2,1,4
+擁,ヨウ,,"hug, embrace, possess, protect, lead",N1,1,0,5
+圏,ケン,かこ.い,"sphere, circle, radius, range",N1,1,1,4
+酸,サン,す.い,"acid, bitterness, sour, tart",N1,1,1,4
+罰,バツ バチ ハツ,ばっ.する,"penalty, punishment",N1,3,1,2
+滅,メツ,ほろ.びる ほろ.ぶ ほろ.ぼす,"destroy, ruin, overthrow, perish",N1,1,3,4
+礎,ソ イシズ,,"cornerstone, foundation stone",N1,2,0,2
+腐,フ,くさ.る -くさ.る くさ.れる くさ.れ くさ.らす くさ.す,"rot, decay, sour",N1,1,6,3
+脚,キャク キャ カク ア,,"skids, leg, undercarriage",N1,4,0,3
+潮,チョウ ウシ,しお,"tide, salt water, opportunity",N1,2,1,3
+梅,バイ,うめ,plum,N1,1,1,1
+尽,ジン サン,つ.くす -つ.くす -づ.くし -つ.く -づ.く -ず.く つ.きる つ.かす さかづき ことごと.く つか つき,"exhaust, use up, run out of, befriend, serve",N1,2,12,5
+僕,ボク,しもべ,"me, I (male)",N1,1,1,2
+桜,オウ ヨウ サク,,cherry,N1,3,0,1
+滑,カツ コツ ナメ.ラ,すべ.る,"slippery, slide, slip, flunk",N1,3,1,4
+孤,コ,,"orphan, alone",N1,1,0,2
+炎,エン ホノ,,"inflammation, flame, blaze",N1,2,0,3
+賠,バイ,,"compensation, indemnify",N1,1,0,2
+句,,,"phrase, clause, sentence, passage, paragraph, counter for haiku",N1,0,0,6
+鋼,コウ,はがね,steel,N1,1,1,1
+頑,ガン,かたく,"stubborn, foolish, firmly",N1,1,1,3
+鎖,サ,くさり とざ.す,"chain, irons, connection",N1,1,2,3
+彩,サイ イロド.,,"coloring, paint, makeup",N1,2,0,3
+摩,マ,ま.する さ.する す.る,"chafe, rub, polish, grind, scrape",N1,1,3,5
+励,レイ,はげ.む はげ.ます,"encourage, be diligent, inspire",N1,1,2,3
+縦,ジュウ,たて,"vertical, length, height, self-indulgent, wayward",N1,1,1,5
+輝,キ カガヤ.,,"radiance, shine, sparkle, gleam, twinkle",N1,2,0,5
+蓄,チク,たくわ.える,"amass, keeping a concubine, phonograph",N1,1,1,3
+軸,ジク,,"axis, pivot, stem, stalk, counter for book scrolls",N1,1,0,5
+巡,ジュン,めぐ.る めぐ.り,"patrol, go around, circumference",N1,1,2,3
+稼,カ,かせ.ぐ,"earnings, work, earn money",N1,1,1,3
+瞬,シュン,またた.く,"wink, blink, twinkle",N1,1,1,3
+砲,ホ,,"cannon, gun",N1,1,0,2
+噴,フン,ふ.く,"erupt, spout, emit, flush out",N1,1,1,4
+誇,コ,ほこ.る,"boast, be proud, pride, triumphantly",N1,1,1,4
+祥,ショ,,"auspicious, happiness, good omen",N1,1,0,3
+牲,セイ,,"animal sacrifice, offering",N1,1,0,2
+秩,チ,,"regularity, salary, order",N1,1,0,3
+帝,テイ,みかど,"sovereign, the emperor, god, creator",N1,1,1,4
+宏,コウ ヒロ.,,"wide, large",N1,2,0,2
+唆,サ,そそのか.す,"tempt, seduce, instigate, promote",N1,1,1,4
+阻,ソ,はば.む,"thwart, separate from, prevent, obstruct, deter, impede",N1,1,1,6
+泰,タ,,"peaceful, calm, peace, easy, Thailand",N1,1,0,5
+賄,ワイ,まかな.う,"bribe, board, supply, finance",N1,1,1,4
+撲,ボク,,"slap, strike, hit, beat, tell, speak",N1,1,0,6
+堀,クツ ホ,,"ditch, moat, canal",N1,2,0,3
+菊,キク,,chrysanthemum,N1,1,0,1
+絞,コウ,しぼ.る し.める し.まる,"strangle, constrict, wring",N1,1,3,3
+縁,エン -ネン,ふち ふちど.る ゆかり よすが へり えにし,"affinity, relation, connection, edge, border, verge, brink",N1,2,6,7
+唯,ユイ イ タ,,"solely, only, merely, simply",N1,3,0,4
+膨,ボウ,ふく.らむ ふく.れる,"swell, get fat, thick",N1,1,2,3
+矢,シ,や,"dart, arrow",N1,1,1,2
+耐,タイ タ.エ,,"-proof, enduring",N1,2,0,2
+塾,ジュク,,"cram school, private school",N1,1,0,2
+漏,ロウ,も.る も.れる も.らす,"leak, escape, time",N1,1,3,3
+慶,ケイ ヨロコ.,,"jubilation, congratulate, rejoice, be happy",N1,2,0,4
+猛,モ,,"fierce, rave, rush, become furious, wildness, strength",N1,1,0,6
+芳,ホウ カンバ.シ,,"perfume, balmy, flavorable, fragrant",N1,2,0,4
+懲,チョウ,こ.りる こ.らす こ.らしめる,"penal, chastise, punish, discipline",N1,1,3,4
+剣,ケン,つるぎ,"sabre, sword, blade, clock hand",N1,1,1,4
+彰,ショ,,"patent, clear",N1,1,0,2
+棋,キ,ご,"chess piece, Japanese chess, shogi",N1,1,1,3
+丁,チョウ テイ チン トウ チ,ひのと,"street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sig",N1,5,1,8
+恒,コウ ツネ,つね,"constancy, always",N1,2,1,2
+揚,ヨウ ア.ガ,あ.げる -あ.げ,"hoist, fry in deep fat",N1,2,2,2
+冒,ボウ,おか.す,"risk, face, defy, dare, damage, assume (a name)",N1,1,1,6
+之,シ コ,の これ おいて ゆく,"of, this",N1,2,4,2
+倫,リ,,"ethics, companion",N1,1,0,2
+陳,チン ヒ.ネ,,"exhibit, state, relate, explain",N1,2,0,4
+憶,オク,,"recollection, think, remember",N1,1,0,3
+潜,セン,ひそ.む もぐ.る かく.れる くぐ.る ひそ.める,"submerge, conceal, hide, lower (voice), hush",N1,1,5,5
+梨,リ ナ,,pear tree,N1,2,0,1
+仁,ジン ニ ニ,,"humanity, virtue, benevolence, charity, man, kernel",N1,3,0,6
+克,コク カ.,,"overcome, kindly, skillfully",N1,2,0,3
+岳,ガク タ,,"point, peak, mountain",N1,2,0,3
+概,ガイ,おうむ.ね,"outline, condition, approximation, generally",N1,1,1,4
+拘,コウ,かか.わる,"arrest, seize, concerned, adhere to, despite",N1,1,1,5
+墓,ボ,はか,"grave, tomb",N1,1,1,2
+黙,モク ボク,だま.る もだ.す,"silence, become silent, stop speaking, leave as is",N1,2,2,4
+須,ス シュ モト.メ,すべから.く すべし ひげ まつ もち.いる,"ought, by all means, necessarily",N1,3,5,3
+偏,ヘン,かたよ.る,"partial, side, left-side radical, inclining, biased",N1,1,1,5
+雰,フン,,"atmosphere, fog",N1,1,0,2
+遇,グウ,あ.う,"interview, treat, entertain, receive, deal with",N1,1,1,5
+諮,シ,はか.る,consult with,N1,1,1,1
+狭,キョウ コウ,せま.い せば.める せば.まる,"cramped, narrow, contract, tight",N1,2,3,4
+卓,タ,,"eminent, table, desk, high",N1,1,0,4
+亀,キ キュウ キン カ,,"tortoise, turtle",N1,4,0,2
+糧,リョウ ロウ,かて,"provisions, food, bread",N1,2,1,3
+簿,ボ,,"register, record book",N1,1,0,2
+炉,ロ,いろり,"hearth, furnace, kiln, reactor",N1,1,1,4
+牧,ボク マ,,"breed, care for, shepherd, feed, pasture",N1,2,0,5
+殊,シュ,こと,"particularly, especially, exceptionally",N1,1,1,3
+殖,ショク フ.ヤ,ふ.える,"augment, increase, multiply, raise",N1,2,1,4
+艦,カン,,warship,N1,1,0,1
+輩,ハイ,-ばら やから やかい ともがら,"comrade, fellow, people, companions",N1,1,4,4
+穴,ケツ ア,,"hole, aperture, slit, cave, den",N1,2,0,5
+奇,キ,く.しき あや.しい くし めずら.しい,"strange, strangeness, curiosity",N1,1,4,3
+慢,マン,,"ridicule, laziness",N1,1,0,2
+鶴,カク ツ,,"crane, stork",N1,2,0,2
+謀,ボウ ム,はか.る たばか.る はかりごと,"conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive",N1,2,3,8
+暖,ダン ノン,あたた.か あたた.かい あたた.まる あたた.める,warmth,N1,2,4,1
+昌,ショウ サカ,,"prosperous, bright, clear",N1,2,0,3
+拍,ハク ヒョウ,,"clap, beat (music)",N1,2,0,2
+朗,ロウ アキ.ラ,ほが.らか,"melodious, clear, bright, serene, cheerful",N1,2,1,5
+寛,カン ユル.ヤ,くつろ.ぐ ひろ.い,"tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded",N1,2,2,7
+覆,フク,おお.う くつがえ.す くつがえ.る,"capsize, cover, shade, mantle, be ruined",N1,1,3,5
+胞,ホウ,,"placenta, sac, sheath",N1,1,0,3
+泣,キュウ,な.く,"cry, weep, moan",N1,1,1,3
+隔,カク,へだ.てる へだ.たる,"isolate, alternate, distance, separate, gulf",N1,1,2,5
+浄,ジョウ セイ,きよ.める きよ.い,"clean, purify, cleanse, exorcise, Manchu Dynasty",N1,2,2,5
+没,ボツ モツ,おぼ.れる しず.む ない,"drown, sink, hide, fall into, disappear, die",N1,2,3,6
+暇,カ,ひま いとま,"spare time, rest, leisure, time, leave of absence",N1,1,2,5
+肺,ハイ,,lungs,N1,1,0,1
+貞,テイ サ,,"upright, chastity, constancy, righteousness",N1,2,0,4
+靖,セイ ジョウ ヤス.ンジ,,peaceful,N1,3,0,1
+鑑,カン カガ,かんが.みる,"specimen, take warning from, learn from",N1,2,1,3
+飼,シ カ.,,"domesticate, raise, keep, feed",N1,2,0,4
+陰,イン,かげ かげ.る,"shade, yin, negative, sex organs, secret, shadow",N1,1,2,6
+銘,メ,,"inscription, signature (of artisan)",N1,1,0,2
+随,ズイ,まにまに したが.う,"follow, though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the wave",N1,1,2,11
+烈,レツ ハゲ.シ,,"ardent, violent, vehement, furious, severe, extreme",N1,2,0,6
+尋,ジン ヒ,たず.ねる,"inquire, fathom, look for",N1,2,1,3
+稿,コウ,わら したがき,"draft, copy, manuscript, straw",N1,1,2,4
+丹,タン,,"rust-colored, red, red lead, pills",N1,1,0,4
+啓,ケイ サト.,ひら.く,"disclose, open, say",N1,2,1,3
+也,ヤ エ マ,なり か,to be (classical),N1,3,2,1
+丘,キュウ オ,,"hill, knoll",N1,2,0,2
+棟,トウ,むね むな-,"ridgepole, ridge",N1,1,2,2
+壌,ジョウ,つち,"lot, earth, soil",N1,1,1,3
+漫,マン,みがりに,"cartoon, involuntarily, in spite of oneself, corrupt",N1,1,1,4
+玄,ゲ,,"mysterious, occultness",N1,1,0,2
+粘,ネン,ねば.る,"sticky, glutinous, greasy, persevere",N1,1,1,4
+悟,ゴ,さと.る,"enlightenment, perceive, discern, realize, understand",N1,1,1,5
+舗,,,"shop, store",N1,0,0,2
+妊,ニン ジン,はら.む みごも.る,pregnancy,N1,2,2,1
+熟,ジュク,う.れる,"mellow, ripen, mature, acquire skill",N1,1,1,4
+旭,キョク アサ,,"rising sun, morning sun",N1,2,0,2
+恩,オ,,"grace, kindness, goodness, favor, mercy, blessing, benefit",N1,1,0,7
+騰,トウ,,"inflation, advancing, going",N1,1,0,3
+往,オウ ユ.,い.く いにしえ さき.に,"journey, chase away, let go, going, travel",N1,2,3,5
+豆,トウ ズ,まめ まめ,"beans, pea, midget",N1,2,2,3
+遂,スイ,と.げる つい.に,"consummate, accomplish, attain, commit (suicide)",N1,1,2,4
+狂,キョウ,くる.う くる.おしい くるお.しい,"lunatic, insane, crazy, confuse",N1,1,3,4
+岐,キ,,"branch off, fork in road, scene, arena, theater",N1,1,0,5
+陛,ヘイ,,"highness, steps (of throne)",N1,1,0,2
+緯,イ,よこいと ぬき,"horizontal, woof, left & right, latitude",N1,1,2,4
+培,バイ,つちか.う,"cultivate, foster",N1,1,1,2
+衰,スイ,おとろ.える,"decline, wane, weaken",N1,1,1,3
+艇,テイ,,"rowboat, small boat",N1,1,0,2
+屈,クツ カガ.メ,かが.む,"yield, bend, flinch, submit",N1,2,1,4
+径,ケイ,みち こみち さしわたし ただちに,"diameter, path, method",N1,1,4,3
+淡,タン,あわ.い,"thin, faint, pale, fleeting",N1,1,1,4
+抽,チュウ,ひき-,"pluck, pull, extract, excel",N1,1,1,4
+披,ヒ,,"expose, open",N1,1,0,2
+廷,テ,,"courts, imperial court, government office",N1,1,0,3
+錦,キン ニシ,,"brocade, fine dress, honors",N1,2,0,3
+准,ジュン,,"quasi-, semi-, associate",N1,1,0,3
+暑,ショ,あつ.い,"sultry, hot, summer heat",N1,1,1,3
+磯,キ イ,,"seashore, beach",N1,2,0,2
+奨,ショウ ソウ スス.メ,,"exhort, urge, encourage",N1,3,0,3
+浸,シン,ひた.す ひた.る,"immersed, soak, dip, steep, moisten, wet, dunk",N1,1,2,7
+剰,ジョウ,あまつさえ あま.り あま.る,"surplus, besides",N1,1,3,2
+胆,タン キ,,"gall bladder, courage, pluck, nerve",N1,2,0,4
+繊,セン,,"slender, fine, thin kimono",N1,1,0,3
+駒,ク,こま,"pony, horse, colt",N1,1,1,3
+虚,キョ コ,むな.しい うつ.ろ,"void, emptiness, unpreparedness, crack, fissure, untruth",N1,2,2,6
+霊,レイ リョウ,たま,"spirits, soul",N1,2,1,2
+帳,チョウ,とばり,"notebook, account book, album",N1,1,1,3
+悔,カイ,く.いる く.やむ くや.しい,"repent, regret",N1,1,3,2
+諭,ユ サト.,,"rebuke, admonish, charge, warn, persuade",N1,2,0,5
+惨,サン ザン,みじ.め いた.む むご.い,"wretched, disaster, cruelty, harsh",N1,2,3,4
+虐,ギャク,しいた.げる,"tyrannize, oppress",N1,1,1,2
+翻,ホン ハン,ひるがえ.る ひるがえ.す,"flip, turn over, wave, flutter, change (mind)",N1,2,2,5
+墜,ツイ,,"crash, fall (down)",N1,1,0,2
+沼,ショウ,ぬま,"marsh, lake, bog, swamp, pond",N1,1,1,5
+据,キョ,す.える す.わる,"set, lay a foundation, install, equip, squat down, sit down",N1,1,2,6
+肥,ヒ フト.,こ.える こえ こ.やす こ.やし,"fertilizer, get fat, fertile, manure, pamper",N1,2,4,5
+徐,ジョ,おもむ.ろに,"gradually, slowly, deliberately, gently",N1,1,1,4
+糖,トウ,,sugar,N1,1,0,1
+搭,トウ,,"board, load (a vehicle), ride",N1,1,0,3
+盾,ジュン,たて,"shield, escutcheon, pretext",N1,1,1,3
+脈,ミャク,すじ,"vein, pulse, hope",N1,1,1,3
+滝,ロウ ソウ タ,,"waterfall, rapids, cascade",N1,3,0,3
+軌,キ,,"rut, wheel, track, model, way of doing",N1,1,0,5
+俵,ヒョウ,たわら,"bag, bale, sack, counter for bags",N1,1,1,4
+妨,ボウ,さまた.げる,"disturb, prevent, hamper, obstruct",N1,1,1,4
+擦,サツ,す.る す.れる -ず.れ こす.る こす.れる,"grate, rub, scratch, scrape, chafe, scour",N1,1,5,6
+鯨,ゲイ,くじら,whale,N1,1,1,1
+荘,ソウ ショウ チャン オゴソ.,ほうき,"villa, inn, cottage, feudal manor",N1,4,1,4
+諾,ダク,,"consent, assent, agreement",N1,1,0,3
+雷,ライ カミナ,,"thunder, lightening bolt",N1,2,0,2
+漂,ヒョウ,ただよ.う,"drift, float (on liquid)",N1,1,1,2
+懐,カイ エ オモ.,ふところ なつ.かしい なつ.かしむ なつ.く なつ.ける なず.ける いだ.く,"pocket, feelings, heart, yearn, miss someone, become attached to, bosom, breast",N1,3,7,8
+勘,カ,,"intuition, perception",N1,1,0,2
+栽,サイ,,"plantation, planting",N1,1,0,2
+拐,カイ,,"kidnap, falsify",N1,1,0,2
+駄,ダ タ,,"burdensome, pack horse, horse load, send by horse",N1,2,0,4
+添,テン モ.,そ.える そ.う も.える,"annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate",N1,2,3,10
+冠,カン カンム,,"crown, best, peerless",N1,2,0,3
+斜,シャ,なな.め はす,"diagonal, slanting, oblique",N1,1,2,3
+鏡,キョウ ケイ カガ,,"mirror, speculum, barrel-head, round rice-cake offering",N1,3,0,4
+聡,ソウ ミミザト.,さと.い,"wise, fast learner",N1,2,1,2
+浪,ロ,,"wandering, waves, billows",N1,1,0,3
+亜,ア アシア ツ.,,"Asia, rank next, come after, -ous",N1,3,0,4
+覧,ラン,み.る,"perusal, see",N1,1,1,2
+詐,サ,いつわ.る,"lie, falsehood, deceive, pretend",N1,1,1,4
+壇,ダン タン,,"podium, stage, rostrum, terrace",N1,2,0,4
+勲,クン イサ,,"meritorious deed, merit",N1,2,0,2
+魔,マ,,"witch, demon, evil spirit",N1,1,0,3
+酬,シュウ シュ トウ,むく.いる,"repay, reward, retribution",N1,3,1,3
+紫,シ ムラサ,,"purple, violet",N1,2,0,2
+曙,ショ,あけぼの,"dawn, daybreak",N1,1,1,2
+紋,モ,,"family crest, figures",N1,1,0,2
+卸,シャ,おろ.す おろし おろ.し,wholesale,N1,1,3,1
+奮,フン,ふる.う,"stirred up, be invigorated, flourish",N1,1,1,3
+欄,ラン,てすり,"column, handrail, blank, space",N1,1,1,4
+逸,イツ ハグ.レ,そ.れる そ.らす,"deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge",N1,2,2,8
+涯,ガイ,はて,"horizon, shore",N1,1,1,2
+拓,タク ヒラ.,,"clear (the land), open, break up (land)",N1,2,0,3
+眼,ガン ゲン,まなこ め,eyeball,N1,2,2,1
+獄,ゴク,,"prison, jail",N1,1,0,2
+尚,ショウ ナ,,"esteem, furthermore, still, yet",N1,2,0,4
+彫,チョウ,ほ.る -ぼ.り,"carve, engrave, chisel",N1,1,2,3
+穏,オン,おだ.やか,"calm, quiet, moderation",N1,1,1,3
+顕,ケン アラワ.レ,あきらか,"appear, existing",N1,2,1,2
+巧,コウ ウマ.,たく.み たく.む,"adroit, skilled, ingenuity",N1,2,2,3
+矛,ム ボウ,ほこ,"halberd, arms, festival float",N1,2,1,3
+垣,エン カ,,"hedge, fence, wall",N1,2,0,3
+欺,ギ,あざむ.く,"deceit, cheat, delude",N1,1,1,3
+釣,チョウ,つ.る つ.り つ.り,"angling, fish, catch, allure, ensnare",N1,1,3,5
+萩,シュウ ハ,,bush clover,N1,2,0,1
+粛,シュク スク,つつし.む,"solemn, quietly, softly",N1,2,1,3
+栗,リツ リ オノノ,くり,chestnut,N1,3,1,1
+愚,グ,おろ.か,"foolish, folly, absurdity, stupid",N1,1,1,4
+嘉,カ ヨ,よみ.する,"applaud, praise, esteem",N1,2,1,3
+遭,ソウ,あ.う あ.わせる,"encounter, meet, party, association, interview, join",N1,1,2,6
+架,カ,か.ける か.かる,"erect, frame, mount, support, shelf, construct",N1,1,2,6
+鬼,キ,おに おに-,"ghost, devil",N1,1,2,2
+庶,ショ,,"commoner, all, bastard",N1,1,0,3
+稚,チ ジ オデ,いとけない おさない おくて,"immature, young",N1,3,3,2
+滋,,,"nourishing, more & more, be luxuriant, planting, turbidity",N1,0,0,5
+幻,ゲン,まぼろし,"phantasm, vision, dream, illusion, apparition",N1,1,1,5
+煮,シャ,に.る -に に.える に.やす,"boil, cook",N1,1,4,2
+姫,キ,ひめ ひめ-,princess,N1,1,2,1
+誓,セイ,ちか.う,"vow, swear, pledge",N1,1,1,3
+把,ハ,,"grasp, faggot, bunch, counter for bundles",N1,1,0,4
+践,セン,ふ.む,"tread, step on, trample, practice, carry through",N1,1,1,5
+呈,テイ,,"display, offer, present, send, exhibit",N1,1,0,5
+疎,ソ ショ,うと.い うと.む まば.ら,"alienate, rough, neglect, shun, sparse",N1,2,3,5
+仰,ギョウ コウ,あお.ぐ おお.せ お.っしゃる おっしゃ.る,"face-up, look up, depend, seek, respect, rever, drink, take",N1,2,4,8
+剛,ゴ,,"sturdy, strength",N1,1,0,2
+疾,シツ,,rapidly,N1,1,0,1
+征,セ,,"subjugate, attack the rebellious, collect taxes",N1,1,0,3
+砕,サイ,くだ.く くだ.ける,"smash, break, crush, familiar, popular",N1,1,2,5
+謡,ヨウ,うた.い うた.う,noh chanting,N1,1,2,1
+嫁,カ,よめ とつ.ぐ,"marry into, bride",N1,1,2,2
+謙,ケ,,"self-effacing, humble oneself, condescend, be modest",N1,1,0,4
+后,コウ ゴ,きさき,"empress, queen, after, behind, back, later",N1,2,1,6
+嘆,タン,なげ.く なげ.かわしい,"sigh, lament, moan, grieve",N1,1,2,4
+菌,キン,,"germ, fungus, bacteria",N1,1,0,3
+鎌,レン ケン カ,,"sickle, scythe, trick",N1,3,0,3
+巣,ソウ,す す.くう,"nest, rookery, hive, cobweb, den",N1,1,2,5
+頻,ヒン,しき.りに,"repeatedly, recur",N1,1,1,2
+琴,キン,こと,"harp, koto",N1,1,1,2
+班,ハン,,"squad, corps, unit, group",N1,1,0,4
+棚,ホウ,たな -だな,"shelf, ledge, rack, mount, mantle, trellis",N1,1,2,6
+潔,ケツ イサギヨ.,,"undefiled, pure, clean, righteous, gallant",N1,2,0,5
+酷,コク,ひど.い,"cruel, severe, atrocious, unjust",N1,1,1,4
+宰,サ,,"superintend, manager, rule",N1,1,0,3
+廊,ロウ,,"corridor, hall, tower",N1,1,0,3
+寂,ジャク セキ,さび さび.しい さび.れる さみ.しい,"loneliness, quietly, mellow, mature, death of a priest",N1,2,4,5
+辰,シン ジン タ,,"sign of the dragon, 7-9AM, fifth sign of Chinese zodiac",N1,3,0,3
+霞,カ ゲ,かすみ かす.む,"be hazy, grow dim, blurred",N1,2,2,3
+伏,フク フ.,ふ.せる,"prostrated, bend down, bow, cover, lay (pipes)",N1,2,1,5
+碁,ゴ,,Go,N1,1,0,1
+俗,ゾク,,"vulgar, customs, manners, worldliness, mundane things",N1,1,0,5
+漠,バク,,"vague, obscure, desert, wide",N1,1,0,4
+邪,ジャ,よこし.ま,"wicked, injustice, wrong",N1,1,1,3
+晶,ショ,,"sparkle, clear, crystal",N1,1,0,3
+墨,ボク ス,,"black ink, India ink, ink stick, Mexico",N1,2,0,4
+鎮,チン オサ,しず.める しず.まる,"tranquilize, ancient peace-preservation centers",N1,2,2,2
+洞,ドウ ホ,,"den, cave, excavation",N1,2,0,3
+履,リ,は.く,"footgear, shoes, boots, put on (the feet",N1,1,1,4
+劣,レツ,おと.る,"inferiority, be inferior to, be worse",N1,1,1,3
+那,ナ ダ イカ,なに なんぞ,what?,N1,3,2,1
+殴,オウ,なぐ.る,"assault, hit, beat, thrash",N1,1,1,4
+娠,シン,,"with child, pregnancy",N1,1,0,2
+奉,ホウ ブ ホウ.ズ,たてまつ.る まつ.る,"observance, offer, present, dedicate",N1,3,2,4
+憂,ユウ ウ.,うれ.える うれ.い う.い,"melancholy, grieve, lament, be anxious, sad, unhappy",N1,2,3,6
+朴,ボク,ほう ほお,"crude, simple, plain, docile",N1,1,2,4
+亭,テイ チン,,"pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",N1,2,0,8
+淳,ジュン シュン アツ.,,pure,N1,3,0,1
+怪,カイ ケ,あや.しい あや.しむ,"suspicious, mystery, apparition",N1,2,2,3
+鳩,キュウ ク アツ.メ,はと,"pigeon, dove",N1,3,1,2
+酔,スイ,よ.う よ.い,"drunk, feel sick, poisoned, elated, spellbound",N1,1,2,5
+惜,セキ,お.しい お.しむ,"pity, be sparing of, frugal, stingy, regret",N1,1,2,5
+穫,カク,,"harvest, reap",N1,1,0,2
+佳,,,"excellent, beautiful, good, pleasing, skilled",N1,0,0,5
+潤,ジュン ウル.,うるお.う うるお.す,"wet, be watered, profit by, receive benefits, favor, charm, steep",N1,2,2,7
+悼,トウ,いた.む,"lament, grieve over",N1,1,1,2
+乏,ボウ,とぼ.しい とも.しい,"destitution, scarce, limited",N1,1,2,3
+該,ガイ,,"above-stated, the said, that specific",N1,1,0,3
+赴,フ,おもむ.く,"proceed, get, become, tend",N1,1,1,4
+桑,ソウ ク,,mulberry,N1,2,0,1
+桂,ケイ カツ,,"Japanese Judas-tree, cinnamon tree",N1,2,0,2
+髄,ズイ,,"marrow, pith",N1,1,0,2
+虎,コ ト,,"tiger, drunkard",N1,2,0,2
+盆,ボン,,"basin, lantern festival, tray",N1,1,0,3
+晋,シン スス.,,advance,N1,2,0,1
+穂,スイ,,"ear, ear (grain), head, crest (wave)",N1,1,0,4
+壮,ソウ サカ,,"robust, manhood, prosperity",N1,2,0,3
+堤,テイ,つつみ,"dike, bank, embankment",N1,1,1,3
+飢,キ,う.える,"hungry, starve",N1,1,1,2
+傍,ボウ ソ,かたわ.ら わき おか- はた,"bystander, side, besides, while, nearby, 3rd person",N1,2,4,6
+疫,エキ ヤク,,epidemic,N1,2,0,1
+累,ルイ,,"accumulate, involvement, trouble, tie up, continually",N1,1,0,5
+痴,チ,し.れる おろか,"stupid, foolish",N1,1,2,2
+搬,ハン,,"conveyor, carry, transport",N1,1,0,3
+晃,コウ アキラ,,clear,N1,2,0,1
+癒,ユ,い.える いや.す,"healing, cure, quench (thirst), wreak",N1,1,2,4
+桐,トウ ドウ キ,,paulownia,N1,3,0,1
+寸,ス,,"measurement, foot, 10",N1,1,0,3
+郭,カク クル,,"enclosure, quarters, fortification, red-light district",N1,2,0,4
+尿,ニョウ,,urine,N1,1,0,1
+凶,キョウ,,"villain, evil, bad luck, disaster",N1,1,0,4
+吐,ト,は.く つ.く,"spit, vomit, belch, confess, tell (lies)",N1,1,2,5
+宴,エン ウタ,,"banquet, feast, party",N1,2,0,3
+鷹,ヨウ オウ,たか,hawk,N1,2,1,1
+賓,ヒン,,"V.I.P., guest",N1,1,0,2
+虜,リョ ロ,とりこ とりく,"captive, barbarian, low epithet for the enemy",N1,2,2,3
+陶,ト,,"pottery, porcelain",N1,1,0,2
+鐘,ショウ,かね,"bell, gong, chimes",N1,1,1,3
+憾,カン,うら.む,"remorse, regret, be sorry",N1,1,1,3
+猪,チョ イノシ,い,boar,N1,2,1,1
+紘,コウ ツナ,おおづな つな,large,N1,2,2,1
+磁,ジ,,"magnet, porcelain",N1,1,0,2
+弥,ミ ビ ワタ.,いや や あまねし いよいよ とおい ひさし ひさ.しい,"all the more, increasingly",N1,3,7,2
+昆,コン,,"descendants, elder brother, insect",N1,1,0,3
+粗,ソ,あら.い あら-,"coarse, rough, rugged",N1,1,2,3
+訂,テイ,,"revise, correct, decide",N1,1,0,3
+芽,ガ,,"bud, sprout, spear, germ",N1,1,0,4
+庄,ショウ ソ ソウ ホ,,level,N1,4,0,1
+傘,サン,かさ,umbrella,N1,1,1,1
+敦,トン タイ ダン チョウ アツ.,,"industry, kindliness",N1,5,0,2
+騎,キ,,"equestrian, riding on horses, counter for equestrians",N1,1,0,3
+寧,ネイ ムシ.,,"rather, preferably",N1,2,0,2
+循,ジュン,,"sequential, fellow",N1,1,0,2
+忍,ニン シノ.バセ,しの.ぶ,"endure, bear, put up with, conceal, secrete, spy, sneak",N1,2,1,7
+怠,タイ,おこた.る なま.ける,"neglect, laziness",N1,1,2,2
+如,ジョ ニョ ゴト.,,"likeness, like, such as, as if, better, best, equal",N1,3,0,7
+寮,リョウ,,"dormitory, hostel, villa, tea pavillion",N1,1,0,4
+祐,ユウ ウ タス.ケ,,help,N1,3,0,1
+鵬,ホウ,おおとり,phoenix,N1,1,1,1
+鉛,エン,なまり,lead,N1,1,1,1
+珠,シュ タ,,"pearl, gem, jewel",N1,2,0,3
+凝,ギョウ,こ.る こ.らす こご.らす こご.らせる こご.る,"congeal, freeze, stiff, be absorbed in",N1,1,5,4
+苗,ビョウ ミョウ,なえ なわ,"seedling, sapling, shoot",N1,2,2,3
+獣,ジュウ,けもの けだもの,"animal, beast",N1,1,2,2
+哀,アイ,あわ.れ あわ.れむ かな.しい,"pathetic, grief, sorrow, pathos, pity, sympathize",N1,1,3,6
+跳,チョウ,は.ねる と.ぶ -と.び,"hop, leap up, spring, jerk, prance, buck, splash, sputter, snap",N1,1,3,9
+匠,ショウ,たくみ,"artisan, workman, carpenter",N1,1,1,3
+垂,スイ ナンナント.,た.れる た.らす た.れ -た.れ,"droop, suspend, hang, slouch",N1,2,4,4
+蛇,ジャ ダ イ ヤ ヘ,,"snake, serpent, hard drinker",N1,5,0,3
+澄,チョウ -ス.マ,す.む す.ます,"lucidity, be clear, clear, clarify, settle, strain, look grave",N1,2,2,7
+縫,ホウ ヌ.,,"sew, stitch, embroider",N1,2,0,3
+僧,ソウ,,"Buddhist priest, monk",N1,1,0,2
+眺,チョウ,なが.める,"stare, watch, look at, see, scrutinize",N1,1,1,5
+亘,コウ カン モト.メ,わた.る,"span, request",N1,3,1,2
+呉,ゴ ク,く.れる,"give, do something for",N1,2,1,2
+凡,ボン ハン スベ.,およ.そ おうよ.そ,mediocre,N1,3,2,1
+憩,ケイ,いこ.い いこ.う,"recess, rest, relax, repose",N1,1,2,4
+媛,エン,ひめ,"beautiful woman, princess",N1,1,1,2
+溝,コウ ミ,,"gutter, ditch, sewer, drain, 10**32",N1,2,0,5
+恭,キョウ ウヤウヤ.シ,,"respect, reverent",N1,2,0,2
+刈,ガイ カイ カ.,,"reap, cut, clip, trim, prune",N1,3,0,5
+睡,スイ,,"drowsy, sleep, die",N1,1,0,3
+錯,サク シャク,,"confused, mix, be in disorder",N1,2,0,3
+伯,ハ,,"chief, count, earl, uncle, Brazil",N1,1,0,5
+笹,サ,,bamboo grass,N1,1,0,1
+穀,コ,,"cereals, grain",N1,1,0,2
+陵,リョウ,みささぎ,"mausoleum, imperial tomb",N1,1,1,2
+霧,ム ボウ ブ,きり,"fog, mist",N1,3,1,2
+魂,コン,たましい たま,"soul, spirit",N1,1,2,2
+弊,ヘイ,,"abuse, evil, vice, breakage",N1,1,0,4
+妃,ヒ キサ,,"queen, princess",N1,2,0,2
+舶,ハク,,"liner, ship",N1,1,0,2
+餓,ガ,う.える,"starve, hungry, thirst",N1,1,1,3
+窮,キュウ キョウ,きわ.める きわ.まる きわ.まり きわ.み,"hard up, destitute, suffer, perplexed, cornered",N1,2,4,5
+掌,ショウ,てのひら たなごころ,"manipulate, rule, administer, conduct, palm of hand",N1,1,2,5
+麗,レイ ウラ.ラ,うるわ.しい,"lovely, companion",N1,2,1,2
+綾,リン ア,,"design, figured cloth, twill",N1,2,0,3
+臭,シュウ,くさ.い -くさ.い にお.う にお.い,"stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright",N1,1,4,10
+悦,エツ ヨロコ.バ,よろこ.ぶ,"ecstasy, joy, rapture",N1,2,1,3
+刃,ジン ニン キ.,は やいば,"blade, sword, edge",N1,3,2,3
+縛,バク,しば.る,"truss, arrest, bind, tie, restrain",N1,1,1,5
+暦,レキ,こよみ,"calendar, almanac",N1,1,1,2
+宜,ギ ヨロ.シ,よろ.しい,"best regards, good",N1,2,1,2
+盲,モウ,めくら,"blind, blind man, ignoramus",N1,1,1,3
+粋,スイ,いき,"chic, style, purity, essence, pith, cream, elite, choice",N1,1,1,8
+辱,ジョク,はずかし.める,"embarrass, humiliate, shame",N1,1,1,3
+毅,キ ギ ツヨ.,,strong,N1,3,0,1
+轄,カツ,くさび,"control, wedge",N1,1,1,2
+猿,エン サ,,monkey,N1,2,0,1
+弦,ゲン,つる,"bowstring, chord, hypotenuse",N1,1,1,3
+稔,ネン ジン ニン ミノ,みの.る,"harvest, ripen",N1,4,1,2
+窒,チツ,,"plug up, obstruct",N1,1,0,2
+炊,スイ -ダ.,た.く,"cook, boil",N1,2,1,2
+洪,コ,,"deluge, flood, vast",N1,1,0,3
+摂,セツ ショウ ト.,おさ.める かね.る,"vicarious, surrogate, act in addition to",N1,3,2,3
+飽,ホウ ア.,あ.きる あ.かす,"sated, tired of, bored, satiate",N1,2,2,4
+冗,ジョウ,,"superfluous, uselessness",N1,1,0,2
+桃,トウ モ,,peach tree,N1,2,0,1
+狩,シュ -ガ.,か.る か.り,"hunt, raid, gather",N1,2,2,3
+朱,シュ ア,,"vermilion, cinnabar, scarlet, red, bloody",N1,2,0,5
+渦,カ,うず,"whirlpool, eddy, vortex",N1,1,1,3
+紳,シ,,"sire, good belt, gentleman",N1,1,0,3
+枢,スウ シュ,とぼそ からくり,"hinge, pivot, door",N1,2,2,3
+碑,ヒ,いしぶみ,"tombstone, monument",N1,1,1,2
+鍛,タン キタ.エ,,"forge, discipline, train",N1,2,0,3
+刀,トウ ソ,かたな,"sword, saber, knife",N1,2,1,3
+鼓,コ,つづみ,"drum, beat, rouse, muster",N1,1,1,4
+裸,ラ,はだか,"naked, nude, uncovered, partially clothed",N1,1,1,4
+猶,ユウ ユ,なお,"furthermore, still, yet",N1,2,1,3
+塊,カイ ケ,かたまり つちくれ,"clod, lump, chink, clot, mass",N1,2,2,5
+旋,セン,,"rotation, go around",N1,1,0,2
+弓,キュウ ユ,,"bow, bow (archery, violin)",N1,2,0,3
+幣,ヘイ ヌ,,"cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper",N1,2,0,7
+膜,マク,,membrane,N1,1,0,1
+扇,セン オウ,,"fan, folding fan",N1,2,0,2
+腸,チョウ,はらわた,"intestines, guts, bowels, viscera",N1,1,1,4
+槽,ソウ,ふね,"vat, tub, tank",N1,1,1,3
+慈,ジ イツク.シ,,mercy,N1,2,0,1
+楊,ヨウ ヤナ,かわ,willow,N1,2,1,1
+伐,バツ ハツ カ ボチ,き.る そむ.く う.つ,"fell, strike, attack, punish",N1,4,3,4
+駿,シュン スン スグ.レ,,"a good horse, speed, a fast person",N1,3,0,3
+漬,シ,つ.ける つ.かる -づ.け -づけ,"pickling, soak, moisten, steep",N1,1,4,4
+糾,キュウ,ただ.す,"twist, ask, investigate, verify",N1,1,1,4
+亮,リョウ アキラ,,"clear, help",N1,2,0,2
+墳,フン,,"tomb, mound",N1,1,0,2
+坪,ヘイ,つぼ,"two-mat area, ~36 sq ft",N1,1,1,2
+紺,コン,,"dark blue, navy",N1,1,0,2
+娯,ゴ,,"recreation, pleasure",N1,1,0,2
+椿,チン チュン ツバ,,camellia,N1,3,0,1
+舌,ゼツ,した,"tongue, reed, clapper",N1,1,1,3
+羅,ラ,,"gauze, thin silk, Rome",N1,1,0,3
+峡,キョウ コウ ハザ,,"gorge, ravine",N1,3,0,2
+俸,ホウ,,"stipend, salary",N1,1,0,2
+厘,リン,,"rin, 1, 10sen, 1, 10bu",N1,1,0,5
+峰,ホウ,みね,"summit, peak",N1,1,1,2
+圭,ケイ,,"square jewel, corner, angle, edge",N1,1,0,4
+醸,ジョウ,かも.す,"brew, cause",N1,1,1,2
+蓮,レン,はす はちす,lotus,N1,1,2,1
+弔,チョウ,とむら.う とぶら.う,"condolences, mourning, funeral",N1,1,2,3
+乙,オツ イツ,おと- きのと,"the latter, duplicate, strange, witty",N1,2,2,4
+汁,ジュウ,しる -しる つゆ,"soup, juice, broth, sap, gravy, pus",N1,1,3,6
+尼,ニ,あま,nun,N1,1,1,1
+遍,ヘン,あまね.く,"everywhere, times, widely, generally",N1,1,1,4
+衡,コ,,"equilibrium, measuring rod, scale",N1,1,0,3
+薫,クン カオ.,,"send forth fragrance, fragrant, be scented, smoke (tobacco)",N1,2,0,4
+猟,リョウ レフ,かり か.る,"game-hunting, shooting, game, bag",N1,2,2,4
+羊,ヨウ ヒツ,,sheep,N1,2,0,1
+款,カ,,"goodwill, article, section, friendship, collusion",N1,1,0,5
+閲,エツ,けみ.する,"review, inspection, revision",N1,1,1,3
+偵,テイ,,spy,N1,1,0,1
+喝,カツ,,"hoarse, scold",N1,1,0,2
+敢,カン,あ.えて あ.えない あ.えず,"daring, sad, tragic, pitiful, frail, feeble",N1,1,3,6
+胎,タイ,,"womb, uterus",N1,1,0,2
+酵,コウ,,fermentation,N1,1,0,1
+憤,フン,いきどお.る,"aroused, resent, be indignant, anger",N1,1,1,4
+豚,トン,ぶた,"pork, pig",N1,1,1,2
+遮,シャ,さえぎ.る,"intercept, interrupt, obstruct",N1,1,1,3
+扉,ヒ,とびら,"front door, title page, front page",N1,1,1,3
+硫,リュウ,,sulphur,N1,1,0,1
+赦,シャ,,"pardon, forgiveness",N1,1,0,2
+窃,セツ,ぬす.む ひそ.か,"stealth, steal, secret, private, hushed",N1,1,2,5
+泡,ホウ,あわ,"bubbles, foam, suds, froth",N1,1,1,4
+瑞,ズイ スイ シル,みず-,congratulations,N1,3,1,1
+又,ユウ,また また- また.の,"or again, furthermore, on the other hand",N1,1,3,3
+慨,ガイ,,"rue, be sad, sigh, lament",N1,1,0,4
+紡,ボウ,つむ.ぐ,spinning,N1,1,1,1
+恨,コン,うら.む うら.めしい,"regret, bear a grudge, resentment, malice, hatred",N1,1,2,5
+肪,ボウ,,"obese, fat",N1,1,0,2
+扶,フ,たす.ける,"aid, help, assist",N1,1,1,3
+戯,ギ ゲ,たわむ.れる ざ.れる じゃ.れる,"frolic, play, sport",N1,2,3,3
+伍,ゴ イツ,,"5, 5-man squad, file, line",N1,2,0,4
+忌,キ イ.マワシ,い.む い.み,"mourning, abhor, detestable, death anniversary",N1,2,2,4
+濁,ダク ジョク ニゴ.,にご.る,"voiced, uncleanness, wrong, nigori, impurity",N1,3,1,5
+奔,ホン,,"bustle, run",N1,1,0,2
+斗,ト ト,,"Big Dipper, 10 sho (vol), sake dipper",N1,2,0,3
+蘭,ラン,,"orchid, Holland",N1,1,0,2
+迅,ジン,,"swift, fast",N1,1,0,2
+肖,ショウ,あやか.る,resemblance,N1,1,1,1
+鉢,ハチ ハツ,,"bowl, rice tub, pot, crown",N1,2,0,4
+朽,キュウ ク.チ,,"decay, rot, remain in seclusion",N1,2,0,3
+殻,カク コク バイ,から がら,"husk, nut shell",N1,3,2,2
+享,キョウ コウ ウ.ケ,,"receive, undergo, answer (phone), take, get, catch",N1,3,0,6
+秦,シン ハ,,"Manchu dynasty, name given to naturalized foreigners",N1,2,0,2
+茅,ボウ ミョウ チガ,かや,miscanthus reed,N1,3,1,1
+藩,ハン,,"clan, enclosure",N1,1,0,2
+沙,サ シャ,すな よなげる,sand,N1,2,2,1
+輔,ホ フ タス.ケ,,help,N1,3,0,1
+媒,バイ,,"mediator, go-between",N1,1,0,2
+鶏,ケイ,にわとり とり,chicken,N1,1,2,1
+禅,ゼン セン,しずか ゆず.る,"Zen, silent meditation",N1,2,2,2
+嘱,ショク,しょく.する たの.む,"entrust, request, send a message",N1,1,2,3
+胴,ドウ,,"trunk, torso, hull (ship), hub of wheel",N1,1,0,4
+迭,テツ,,"transfer, alternation",N1,1,0,2
+挿,ソウ,さ.す はさ.む,"insert, put in, graft, wear (sword)",N1,1,2,4
+嵐,ラン アラ,,"storm, tempest",N1,2,0,2
+椎,ツイ スイ ウ.,つち,"oak, mallet",N1,3,1,2
+絹,ケン,きぬ,silk,N1,1,1,1
+陪,バイ,,"obeisance, follow, accompany, attend on",N1,1,0,4
+剖,ボウ,,divide,N1,1,0,1
+譜,フ,,"musical score, music, note, staff, table, genealogy",N1,1,0,6
+郁,イ,,"cultural progress, perfume",N1,1,0,2
+悠,ユ,,"permanence, distant, long time, leisure",N1,1,0,4
+淑,シュク シト.ヤ,,"graceful, gentle, pure",N1,2,0,3
+帆,ハン,ほ,sail,N1,1,1,1
+暁,ギョウ キョウ サト.,あかつき,"daybreak, dawn, in the event",N1,3,1,3
+傑,ケ,,"greatness, excellence",N1,1,0,2
+楠,ナン ダン ゼン ネン クスノ,くす,camphor tree,N1,5,1,1
+笛,テキ フ,,"flute, clarinet, pipe, whistle, bagpipe, piccolo",N1,2,0,6
+玲,レ,,sound of jewels,N1,1,0,1
+奴,ド ヤッ,やつ,"guy, slave, manservant, fellow",N1,2,1,4
+錠,ジョウ,,"lock, fetters, shackles",N1,1,0,3
+拳,ケン ゲン,こぶし,fist,N1,2,1,1
+翔,ショウ ト.,かけ.る,"soar, fly",N1,2,1,2
+遷,セン,うつ.る うつ.す みやこがえ,"transition, move, change",N1,1,3,3
+拙,セツ,つたな.い,"bungling, clumsy, unskillful",N1,1,1,3
+侍,ジ シ ハベ.,さむらい,"waiter, samurai, wait upon, serve",N1,3,1,4
+尺,シャ,,"shaku, Japanese foot, measure, scale, rule",N1,1,0,5
+峠,,とうげ,"mountain peak, mountain pass, climax, crest, (kokuji)",N1,0,1,5
+篤,トク,あつ.い,"fervent, kind, cordial, serious, deliberate",N1,1,1,5
+肇,チョウ ジョウ トウ ハジ,はじ.める,beginning,N1,4,1,1
+渇,カツ,かわ.く,"thirst, dry up, parch",N1,1,1,3
+叔,シュ,,"uncle, youth",N1,1,0,2
+雌,シ,め- めす めん,"feminine, female",N1,1,3,2
+亨,コウ キョウ ホウ タテマツ.,,"undergo, answer (phone), take, get, catch",N1,4,0,5
+堪,カン タン,た.える たま.る こ.らえる こた.える,"withstand, endure, support, resist",N1,2,4,4
+叙,ジョ,つい.ず ついで,"confer, relate, narrate, describe",N1,1,2,4
+酢,サク,す,"vinegar, sour, acid, tart",N1,1,1,4
+吟,ギン,,"versify, singing, recital",N1,1,0,3
+逓,テイ,かわ.る たがいに,"relay, in turn, sending",N1,1,2,3
+嶺,レイ リョ,,"peak, summit",N1,2,0,2
+甚,ジン ハナハ.ダシ,はなは.だ,"tremendously, very, great, exceedingly",N1,2,1,4
+喬,キョウ タカ.,,"high, boasting",N1,2,0,2
+崇,スウ アガ.メ,,"adore, respect, revere, worship",N1,2,0,4
+漆,シツ ウル,,"lacquer, varnish, seven",N1,2,0,3
+岬,コウ ミサ,,"headland, cape, spit, promontory",N1,2,0,4
+癖,ヘキ,くせ くせ.に,"mannerism, habit, vice, trait, fault, kink",N1,1,2,6
+愉,ユ タノ.シ,たの.しい,"pleasure, happy, rejoice",N1,2,1,3
+寅,イン ト,,"sign of the tiger, 3-5AM, third sign of Chinese zodiac",N1,2,0,3
+礁,ショウ,,"reef, sunken rock",N1,1,0,2
+乃,ナイ ダイ ノ アイ ナン,の すなわ.ち,"from, possessive particle, whereupon, accordingly",N1,5,2,4
+洲,シュウ ス,しま,"continent, sandbar, island, country",N1,2,1,4
+屯,トン,,"barracks, police station, camp",N1,1,0,3
+樺,カ カン,かば,birch,N1,2,1,1
+槙,テン シン,まき こずえ,"twig, ornamental evergreen",N1,2,2,2
+姻,イン,,"matrimony, marry",N1,1,0,2
+巌,ガン ケワ.シ,いわ いわお,"rock, crag, boulder",N1,2,2,3
+擬,ギ,まが.い もど.き,"mimic, aim (a gun) at, nominate, imitate",N1,1,2,4
+塀,ヘイ ベイ,,"fence, wall, (kokuji)",N1,2,0,3
+唇,シン,くちびる,lips,N1,1,1,1
+睦,ボク モク ムツ.,むつ.まじい むつ.む,"intimate, friendly, harmonious",N1,3,2,3
+閑,カ,,leisure,N1,1,0,1
+胡,ウ コ ゴ ナン,,"barbarian, foreign",N1,4,0,2
+幽,ユウ,,"seclude, confine to a room",N1,1,0,2
+峻,シュン タカ.,けわ.しい,"high, steep",N1,2,1,2
+曹,ソウ ゾウ,つかさ ともがら へや,"cadet, friend",N1,2,3,2
+詠,エイ ウタ.,よ.む,"recitation, poem, song, composing",N1,2,1,4
+卑,ヒ,いや.しい いや.しむ いや.しめる,"lowly, base, vile, vulgar",N1,1,3,4
+侮,ブ,あなど.る あなず.る,"scorn, despise, make light of, contempt",N1,1,2,4
+鋳,チュウ イ シュ シュウ,い.る,"casting, mint",N1,4,1,2
+抹,マツ,,"rub, paint, erase",N1,1,0,3
+尉,イ ジョウ,,"military officer, jailer, old man, rank",N1,2,0,4
+槻,キ,つき,Zelkova tree,N1,1,1,1
+隷,レイ,したが.う しもべ,"slave, servant, prisoner, criminal, follower",N1,1,2,5
+禍,カ,わざわい,"calamity, misfortune, evil, curse",N1,1,1,4
+蝶,チョウ,,butterfly,N1,1,0,1
+酪,ラク,,"dairy products, whey, broth, fruit juice",N1,1,0,4
+茎,ケイ キョウ,くき,"stalk, stem",N1,2,1,2
+帥,スイ,,"commander, leading troops, governor",N1,1,0,3
+逝,セイ,ゆ.く,"departed, die",N1,1,1,2
+汽,キ,,"vapor, steam",N1,1,0,2
+琢,タク ミガ.,,polish,N1,2,0,1
+匿,トク,かくま.う,"hide, shelter, shield",N1,1,1,3
+襟,キン,えり,"collar, neck, lapel",N1,1,1,3
+蛍,ケイ,ほたる,"lightning-bug, firefly",N1,1,1,2
+蕉,ショウ,,banana,N1,1,0,1
+寡,カ,,"widow, minority, few",N1,1,0,3
+琉,リュウ ル,,lapis lazuli,N1,2,0,1
+痢,リ,,diarrhea,N1,1,0,1
+庸,ヨ,,"commonplace, ordinary, employment",N1,1,0,3
+朋,ホウ,とも,"companion, friend",N1,1,1,2
+坑,コウ,,"pit, hole",N1,1,0,2
+藍,ラン,あい,indigo,N1,1,1,1
+賊,ゾク,,"burglar, rebel, traitor, robber",N1,1,0,4
+搾,サク,しぼ.る,squeeze,N1,1,1,1
+畔,ハン ア,,"paddy ridge, levee",N1,2,0,2
+遼,リョ,,distant,N1,1,0,1
+唄,バイ,うた うた.う,songs with samisen,N1,1,2,1
+孔,コウ ア,,"cavity, hole, slit, very, great, exceedingly",N1,2,0,6
+橘,キツ タチバ,,mandarin orange,N1,2,0,1
+漱,ソウ シュウ ス,くちすす.ぐ くちそそ.ぐ うがい すす.ぐ,"gargle, rinse mouth",N1,3,4,2
+呂,ロ リョ セボ,,"spine, backbone",N1,3,0,2
+拷,ゴウ,,"torture, beat",N1,1,0,2
+嬢,ジョウ,むすめ,"lass, girl, Miss, daughter",N1,1,1,4
+苑,エン オン ウ.,その,"garden, farm, park",N1,3,1,3
+巽,ソン,たつみ,southeast,N1,1,1,1
+杜,ト トウ ズ,もり ふさ.ぐ やまなし,"woods, grove",N1,3,3,2
+渓,ケイ,たに たにがわ,"mountain stream, valley",N1,1,2,2
+翁,オウ オキ,,venerable old man,N1,2,0,1
+廉,レ,,"bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peacef",N1,1,0,13
+謹,キン,つつし.む,"discreet, reverently, humbly",N1,1,1,3
+瞳,ドウ トウ ヒト,,pupil,N1,3,0,1
+湧,ユウ ヨウ ユ ワ.,,"boil, ferment, seethe, uproar, breed",N1,4,0,5
+欣,キン ゴン コン ヨロコ.,よろこ.ぶ,"take pleasure in, rejoice",N1,4,1,2
+窯,ヨウ,かま,"kiln, oven, furnace",N1,1,1,3
+褒,ホウ,ほ.める,"praise, extol",N1,1,1,2
+醜,シュウ,みにく.い しこ,"ugly, unclean, shame, bad looking",N1,1,2,4
+升,ショウ マ,,"measuring box, 1.8 liter",N1,2,0,2
+殉,ジュン,,"martyrdom, follow by resigning",N1,1,0,2
+煩,ハン ボン,わずら.う わずら.わす,"anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome",N1,2,2,8
+巴,ハ ウズマ,ともえ,comma-design,N1,2,1,1
+禎,テイ タダ.シ,さいわ.い,happiness,N1,2,1,1
+劾,ガイ,,"censure, criminal investigation",N1,1,0,2
+堕,ダ,お.ちる くず.す くず.れる,"degenerate, descend to, lapse into",N1,1,3,3
+租,ソ,,"tariff, crop tax, borrowing",N1,1,0,3
+稜,リョウ ロウ,いつ かど,"angle, edge, corner, power, majesty",N1,2,2,5
+桟,サン セン カケハ,,"scaffold, cleat, frame, jetty, bolt (door)",N1,3,0,5
+倭,ワ イ シタガ.,,"Yamato, ancient Japan",N1,3,0,2
+婿,セイ,むこ,"bridegroom, son-in-law",N1,1,1,2
+慕,ボ,した.う,"pining, yearn for, love dearly, adore",N1,1,1,4
+斐,ヒ,,"beautiful, patterned",N1,1,0,2
+罷,ヒ,まか.り- や.める,"quit, stop, leave, withdraw, go",N1,1,2,5
+矯,キョウ,た.める,"rectify, straighten, correct, reform, cure, control, pretend, falsify",N1,1,1,8
+某,ボウ,それがし なにがし,"so-and-so, one, a certain, that person",N1,1,2,4
+囚,シュウ,とら.われる,"captured, criminal, arrest, catch",N1,1,1,4
+魁,カイ,さきがけ かしら,charging ahead of others,N1,1,2,1
+虹,コウ,にじ,rainbow,N1,1,1,1
+鴻,コウ,おおとり ひしくい,"large bird, wild goose",N1,1,2,2
+泌,ヒツ ヒ,,"ooze, flow, soak in, penetrate, secrete",N1,2,0,5
+於,オ ヨ,おい.て お.ける ああ より,"at, in, on, as for",N1,2,4,4
+赳,キュ,,strong and brave,N1,1,0,1
+漸,ゼン,,"steadily, gradually advancing, finally, barely",N1,1,0,4
+蚊,ブン,か,mosquito,N1,1,1,1
+葵,キ アオ,,hollyhock,N1,2,0,1
+厄,ヤク,,"unlucky, misfortune, bad luck, disaster",N1,1,0,4
+藻,ソウ,も,"seaweed, duckweed",N1,1,1,2
+禄,ロク フ,さいわ.い,"fief, allowance, pension, grant, happiness",N1,2,1,5
+孟,モウ ボウ ミョウ カシ,,"chief, beginning",N1,4,0,2
+嫡,チャク テキ,,"legitimate wife, direct descent (non-bastard)",N1,2,0,2
+尭,ギョウ タカ.,,"high, far",N1,2,0,2
+嚇,カク,おど.かす,"menacing, dignity, majesty, threaten",N1,1,1,4
+巳,シ,み,"sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac",N1,1,1,3
+凸,トツ,でこ,"convex, beetle brow, uneven",N1,1,1,3
+暢,チョウ ノビ.,,stretch,N1,2,0,1
+韻,イン,,"rhyme, elegance, tone",N1,1,0,3
+霜,ソウ,しも,frost,N1,1,1,1
+硝,ショウ,,"nitrate, saltpeter",N1,1,0,2
+勅,チョク ミコトノ,いまし.める,imperial order,N1,2,1,1
+芹,キン セ,,parsley,N1,2,0,1
+杏,キョウ アン コウ アン,,apricot,N1,4,0,1
+棺,カン,,"coffin, casket",N1,1,0,2
+儒,ジュ,,Confucian,N1,1,0,1
+鳳,ホウ フ,,male mythical bird,N1,2,0,1
+馨,ケイ キョウ カオ,かお.る,"fragrant, balmy, favourable",N1,3,1,3
+慧,ケイ エ サト,,wise,N1,3,0,1
+愁,シュウ,うれ.える うれ.い,"distress, grieve, lament, be anxious",N1,1,2,4
+楼,ロウ,たかどの,"watchtower, lookout, high building",N1,1,1,3
+彬,ヒン フン アキ.ラ,うるわ.しい,"refined, gentle",N1,3,1,2
+匡,キョウ オウ スク.,,"correct, save, assist",N1,3,0,3
+眉,ビ ミ,まゆ,eyebrow,N1,2,1,1
+欽,キン コン ツツシ.,,"respect, revere, long for",N1,3,0,3
+薪,シン,たきぎ まき,"fuel, firewood, kindling",N1,1,2,3
+褐,カツ,,"brown, woollen kimono",N1,1,0,2
+賜,シ,たまわ.る たま.う たも.う,"grant, gift, boon, results",N1,1,3,4
+嵯,サ シ,,"steep, craggy, rugged",N1,2,0,3
+綜,ソウ,おさ.める す.べる,rule,N1,1,2,1
+繕,ゼン,つくろ.う,"darning, repair, mend, trim, tidy up, adjust",N1,1,1,6
+栓,セン,,"plug, bolt, cork, bung, stopper",N1,1,0,5
+翠,スイ ミド,かわせみ,green,N1,2,1,1
+鮎,デン ネン ナマ,あゆ,"freshwater trout, smelt",N1,3,1,2
+榛,シン ハン ハ,はしばみ,"hazelnut, filbert",N1,3,1,2
+凹,オウ,くぼ.む へこ.む ぼこ,"concave, hollow, sunken",N1,1,3,3
+艶,エン ナマ.メ,つや なま.めかしい あで.やか つや.めく,"glossy, luster, glaze, polish, charm, colorful, captivating",N1,2,4,7
+惣,ソウ ソウジ,いそが.しい,all,N1,2,1,1
+蔦,チョウ ツ,,"vine, ivy",N1,2,0,2
+錬,レン,ね.る,"tempering, refine, drill, train, polish",N1,1,1,5
+隼,シュン ジュン ハヤブ,,falcon,N1,3,0,1
+渚,ショ ナギ,,"strand, beach, shore",N1,2,0,3
+衷,チュウ,,"inmost, heart, mind, inside",N1,1,0,4
+逐,チク,,"pursue, drive away, chase, accomplish, attain, commit",N1,1,0,6
+斥,セキ,しりぞ.ける,"reject, retreat, recede, withdraw, repel, repulse",N1,1,1,6
+稀,キ ケ,まれ まばら,"rare, phenomenal, dilute (acid)",N1,2,2,3
+芙,,,"lotus, Mt Fuji",N1,0,0,2
+詔,ショウ ミコトノ,,imperial edict,N1,2,0,1
+皐,コウ サツ,,"swamp, shore",N1,2,0,2
+雛,スウ ス ジュ,ひな ひよこ,"chick, squab, duckling, doll",N1,3,2,4
+惟,イ ユイ オモ.ウ,おも.んみる これ,"consider, reflect, think",N1,3,2,3
+佑,ユウ ウ タス.ケ,,"help, assist",N1,3,0,2
+耀,ヨウ ヒカ,かがや.く,"shine, sparkle, gleam, twinkle",N1,2,1,4
+黛,タイ,まゆずみ,blackened eyebrows,N1,1,1,1
+渥,アク ウルオ.,あつ.い,kindness,N1,2,1,1
+憧,ショウ トウ ドウ,あこが.れる,"yearn after, long for, aspire to, admire, adore",N1,3,1,5
+宵,ショウ,よい,"wee hours, evening, early night",N1,1,1,3
+妄,モウ ボウ,みだ.りに,"delusion, unnecessarily, without authority, reckless",N1,2,1,4
+惇,シュン ジュン トン アツ.,,"sincere, kind, considerate",N1,4,0,3
+脩,シュウ ホジ,おさ.める なが.い,dried meat,N1,2,2,1
+甫,ホ フ ハジ.メ,,"for the first time, not until",N1,3,0,2
+酌,シャク,く.む,"bar-tending, serving sake, the host, draw (water), ladle, scoop, pump",N1,1,1,7
+蚕,サン テン,かいこ こ,silkworm,N1,2,2,1
+嬉,キ タノ.シ,うれ.しい,"glad, pleased, rejoice",N1,2,1,3
+蒼,ソウ,あお.い,"blue, pale",N1,1,1,2
+暉,キ カガ.ヤ,,"shine, light",N1,2,0,2
+頒,ハン,わか.つ,"distribute, disseminate, partition, understand",N1,1,1,4
+只,シ,ただ,"only, free, in addition",N1,1,1,3
+肢,シ,,"limb, arms & legs",N1,1,0,2
+檀,ダン タン,まゆみ,"cedar, sandlewood, spindle tree",N1,2,1,3
+凱,ガイ カイ,かちどき やわらぐ,victory song,N1,2,2,1
+彗,スイ エ ケイ セイ ホウ,,comet,N1,5,0,1
+謄,トウ,,"mimeograph, copy",N1,1,0,2
+梓,シ,あずさ,catalpa tree,N1,1,1,1
+丑,チュウ ウ,,"sign of the ox or cow, 1-3AM, second sign of Chinese zodiac",N1,2,0,3
+嗣,,,"heir, succeed",N1,0,0,2
+叶,キョウ カナ.,かな.える,"grant, answer",N1,2,1,2
+汐,セキ セ,しお うしお,"eventide, tide, salt water, opportunity",N1,2,2,4
+絢,ケ,,kimono design,N1,1,0,1
+朔,サク ツイタ,,"conjunction (astronomy), first day of month",N1,2,0,2
+伽,カ ガ キャ ギャ,とぎ,"nursing, attending, entertainer",N1,4,1,3
+畝,ボウ ホ モ ム,せ うね,"furrow, 30 tsubo, ridge, rib",N1,4,2,4
+抄,ショ,,"extract, selection, summary, copy, spread thin",N1,1,0,5
+爽,ソウ,あき.らか さわ.やか たがう,"refreshing, bracing, resonant, sweet, clear",N1,1,3,5
+黎,レイ リ クロ.,,"dark, black, many",N1,3,0,3
+惰,ダ,,"lazy, laziness",N1,1,0,2
+蛮,バン,えびす,barbarian,N1,1,1,1
+冴,ゴ コ ヒ.エ,さ.える こお.る,"be clear, serene, cold, skilful",N1,3,2,4
+旺,オウ キョウ ゴウ,かがや.き うつくし.い さかん,"flourishing, successful, beautiful, vigorous",N1,3,3,4
+萌,ホウ キザ.,も.える きざ.す めばえ,"show symptoms of, sprout, bud, malt",N1,2,3,4
+偲,サイ シ,しの.ぶ,"recollect, remember",N1,2,1,2
+壱,イチ イツ ヒト,,"I, one",N1,3,0,2
+瑠,ル リュ,,lapis lazuli,N1,2,0,1
+允,イン ユル,じょう まこと.に,"license, sincerity, permit",N1,2,2,3
+侯,コウ,,"marquis, lord, daimyo",N1,1,0,3
+蒔,シ ジ マ,う.える,sow (seeds),N1,3,1,1
+鯉,リ,こい,carp,N1,1,1,1
+弧,コ,,"arc, arch, bow",N1,1,0,3
+遥,ヨウ,はる.か,"far off, distant, long ago",N1,1,1,3
+舜,シュ,,"type of morning glory, rose of Sharon, althea",N1,1,0,3
+瑛,エ,,"sparkle of jewelry, crystal",N1,1,0,2
+附,フ ツ.,つ.ける,"affixed, attach, refer to, append",N1,2,1,4
+彪,ヒョウ ヒュウ ア,,"spotted, mottled, patterned, small tiger",N1,3,0,4
+卯,ボウ モウ,,"sign of the hare or rabbit, 5-7AM, fourth sign of Chinese zodiac, east",N1,2,0,4
+但,タン タダ.,,"however, but",N1,2,0,2
+綺,キ,あや,"figured cloth, beautiful",N1,1,1,2
+芋,ウ,いも,potato,N1,1,1,1
+茜,セン,あかね,"madder, red dye, Turkey red",N1,1,1,3
+凌,リョウ,しの.ぐ,"endure, keep (rain)out, stave off, tide over, defy, slight, surpass",N1,1,1,7
+皓,コウ ヒカ.,しろ.い,"white, clear",N1,2,1,2
+洸,コ,,sparkling water,N1,1,0,1
+毬,キュウ,いが まり,"burr, ball",N1,1,2,2
+婆,バ,ばば ばあ,"old woman, grandma, wet nurse",N1,1,2,3
+緋,ヒ,あけ あか,"scarlet, cardinal",N1,1,2,2
+鯛,チョウ,たい,"sea bream, red snapper",N1,1,1,2
+怜,レイ レン リョウ サト.,あわ.れむ,wise,N1,4,1,1
+邑,ユウ ム,うれ.える くに,"village, rural community, right village radical (no. 163)",N1,2,2,3
+倣,ホウ,なら.う,"emulate, imitate",N1,1,1,2
+碧,ヘキ ヒャ,,"blue, green",N1,2,0,2
+啄,タク ツク トク ツツ.,ついば.む,"peck, pick up",N1,4,1,2
+穣,ジョウ ユタ,わら,"good crops, prosperity, 10**28",N1,2,1,3
+酉,ユウ ト,,"west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)",N1,2,0,6
+悌,テイ ダ,,serving our elders,N1,2,0,1
+倹,ケン,つま.しい つづまやか,"frugal, economy, thrifty",N1,1,2,3
+柚,ユ ユウ ジク,ゆず,citron,N1,3,1,1
+繭,ケン,まゆ きぬ,cocoon,N1,1,2,1
+亦,エキ ヤク,また,"also, again",N1,2,1,2
+詢,ジュン シュン,はか.る まこと,consult with,N1,2,2,1
+采,サイ,と.る いろどり,"dice, form, appearance, take, coloring",N1,1,2,5
+紗,サ シャ ウスギ,,"gauze, gossamer",N1,3,0,2
+賦,フ,,"levy, ode, prose, poem, tribute, installment",N1,1,0,6
+眸,ボウ ム,ひとみ,pupil of the eye,N1,2,1,1
+玖,キュウ,,"beautiful black jewel, nine",N1,1,0,2
+弐,ニ ジ,ふた.つ そえ,"II, two, second",N1,2,2,3
+錘,スイ,つむ おもり,"weight, plumb bob, sinker",N1,1,2,3
+諄,シュン,ひちくど.い くど.い くどくど ねんご.ろ,tedious,N1,1,4,1
+倖,コウ,しあわ.せ さいわ.い,"happiness, luck",N1,1,2,2
+痘,トウ,,"pox, smallpox",N1,1,0,2
+笙,ショウ ソウ,ふえ,a reed instrument,N1,2,1,1
+侃,カン ツヨ.,,"strong, just, righteous, peace-loving",N1,2,0,4
+裟,サ シャ,,Buddhist surplice,N1,2,0,1
+洵,ジュン シュン,の.ぶ まこと.に,"alike, truth",N1,2,2,2
+爾,ジ ニ ノ,なんじ しかり その,"you, thou, second person",N1,3,3,3
+耗,モウ コウ カウ,,decrease,N1,3,0,1
+昴,コウ ボウ,すばる,the Pleiades,N1,2,1,1
+銑,セン,,pig iron,N1,1,0,1
+莞,カン,い,reed used to cover tatami,N1,1,1,1
+伶,レイ リョウ ワザオ,,actor,N1,3,0,1
+碩,セキ,おお.きい,"large, great, eminent",N1,1,1,3
+宥,ユウ,なだ.める ゆる.す,"soothe, calm, pacify",N1,1,2,3
+滉,コウ,ひろ.い,deep and broad,N1,1,1,1
+晏,アン,おそ.い,"late, quiet, sets (sun)",N1,1,1,3
+伎,ギ キ,わざ わざおぎ,"deed, skill",N1,2,2,2
+朕,チン,,"majestic plural, imperial we",N1,1,0,2
+迪,テキ イタ.,みち みち.びく すす.む,"edify, way, path",N1,2,3,3
+綸,リン カン,いと,"thread, silk cloth",N1,2,1,2
+且,ショ ソ ショウ カ.,,"moreover, also, furthermore",N1,4,0,3
+竣,ドウ シュン,わらわ わらべ おわ.る,"end, finish",N1,2,3,2
+晨,シン,あした とき あさ,"morning, early",N1,1,3,2
+吏,,,"officer, an official",N1,0,0,2
+燦,サン,さん.たる あき.らか きらめ.く きら.めく,brilliant,N1,1,4,1
+麿,マ,,"I, you, (kokuji)",N1,1,0,3
+頌,ショウ ジュ ヨウ ホメ.,かたち たた.える,eulogy,N1,4,2,1
+箇,カ コ,,counters for things,N1,2,0,1
+楓,フウ,かえで,maple,N1,1,1,1
+琳,リン,,"jewel, tinkling of jewelry",N1,1,0,2
+梧,ゴ,あおぎり,"Chinese parasol tree, phoenix tree",N1,1,1,2
+哉,サイ,かな,"how, what, alas, (question mark)",N1,1,1,4
+澪,レイ,みお,"water route, shipping channel",N1,1,1,2
+匁,,もんめ め ひゃくめ,"monme, 3.75 grams, (kokuji)",N1,0,3,3
+晟,セイ ジョウ,あきらか,clear,N1,2,1,1
+衿,キン コン,えり,"neck, collar, lapel",N1,2,1,3
+凪,,なぎ な.ぐ,"lull, calm, (kokuji)",N1,0,2,3
+梢,ショウ,こずえ くすのき,"treetops, twig",N1,1,2,2
+丙,ヘイ,ひのえ,"third class, 3rd, 3rd calendar sign",N1,1,1,3
+颯,サツ ソウ,さっ.と,"suddenly, smoothly",N1,2,1,2
+茄,カ,,eggplant,N1,1,0,1
+勺,シャク,,"ladle, one tenth of a go, dip",N1,1,0,3
+恕,ジョ ショ,ゆる.す,"excuse, tolerate, forgive",N1,2,1,3
+蕗,ロ ル,ふき,"butterbur, bog rhubarb",N1,2,1,2
+瑚,コ ゴ,,ancestral offering receptacle,N1,2,0,1
+遵,ジュン,,"abide by, follow, obey, learn",N1,1,0,4
+瞭,リョウ,あきらか,clear,N1,1,1,1
+燎,リョウ,かがりび,"burn, bonfire",N1,1,1,2
+虞,グ,おそれ,"uneasiness, fear, anxiety, concern",N1,1,1,4
+柊,シュ シュウ,ひいらぎ,holly,N1,2,1,1
+侑,ユウ ウ タス.ケ,すす.める,urge to eat,N1,3,1,1
+謁,エツ,,"audience, audience (with king)",N1,1,0,2
+斤,,おの,"axe, 1.32 lb, catty, counter for loaves of bread",N1,0,1,4
+嵩,スウ シュウ タカ.,かさ かさ.む,"be aggravated, grow worse, grow bulky, swell",N1,3,2,4
+捺,ナツ ダツ,さ.す お.す,"press, print, affix a seal, stamp",N1,2,2,4
+蓉,ヨ,,lotus,N1,1,0,1
+茉,マツ バツ,,jasmine,N1,2,0,1
+袈,ケ カ,,a coarse camlet,N1,2,0,1
+燿,ヨウ,かがや.く ひかり,shine,N1,1,2,1
+誼,ギ,よしみ よい,"friendship, intimacy",N1,1,2,2
+冶,ヤ イ.,,"melting, smelting",N1,2,0,2
+栞,カン,しおり,"bookmark, guidebook",N1,1,1,2
+墾,コン,,"ground-breaking, open up farmland",N1,1,0,2
+勁,ケイ,つよ.い,strong,N1,1,1,1
+菖,ショウ,,iris,N1,1,0,1
+旦,タン ダン,あき.らか あきら ただし あさ あした,"nightbreak, dawn, morning",N1,2,5,3
+椋,リョウ ム,,"type of deciduous tree, grey starling",N1,2,0,2
+叡,エイ,あき.らか,"intelligence, imperial",N1,1,1,2
+紬,チュウ,つむぎ つむ.ぐ,pongee (a knotted silk cloth),N1,1,2,1
+胤,イン タ,,"descendent, issue, offspring",N1,2,0,3
+凜,リン,きびし.い,"cold, strict, severe",N1,1,1,3
+亥,ガイ カイ,,"sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",N1,2,0,3
+爵,シャク,,"baron, peerage, court rank",N1,1,0,3
+脹,チョウ,は.れる ふく.らむ ふく.れる,"dilate, distend, bulge, fill out, swell",N1,1,3,5
+麟,リン,,"Chinese unicorn, genius, giraffe, bright, shining",N1,1,0,5
+莉,リ ライ レイ,,jasmine,N1,3,0,1
+汰,タ タイ,おご.る にご.る よな.げる,"luxury, select",N1,2,3,2
+瑶,ヨウ,たま,beautiful as a jewel,N1,1,1,1
+瑳,サ,みが.く,polish,N1,1,1,1
+耶,ヤ ジャ,か,question mark,N1,2,1,1
+椰,ヤ,やし,coconut tree,N1,1,1,1
+絃,ゲン,いと,"string, cord, samisen music",N1,1,1,3
+丞,ジョウ ショウ タス.ケ,すく.う,help,N1,3,1,1
+璃,,,"glassy, lapis lazuli",N1,0,0,2
+奎,ケイ キ,,"star, god of literature",N1,2,0,2
+塑,ソ,でく,"model, molding",N1,1,1,2
+昂,コウ ゴウ タカ.ブ,あ.がる たか.い,rise,N1,3,2,1
+柾,,まさ まさめ まさき,"straight grain, spindle tree, (kokuji)",N1,0,3,3
+熙,キ,たのし.む ひか.る ひろ.い よろこ.ぶ かわ.く あきらか ひろ.める ひろ.まる,"bright, sunny, prosperous, merry",N1,1,8,4
+菫,キン,すみれ,the violet,N1,1,1,1
+諒,リョウ マコト,あきら.か,"fact, reality, understand, appreciate",N1,2,1,4
+鞠,キク キュウ マ,,ball,N1,3,0,1
+崚,リョウ,,towering in a row,N1,1,0,1
+濫,ラン,みだ.りに みだ.りがましい,"excessive, overflow, spread out",N1,1,2,3
+捷,ショウ ソウ ハヤ.,,"victory, fast",N1,3,0,2
