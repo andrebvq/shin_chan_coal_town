@@ -6,6 +6,10 @@ This project is a set of utils to **extract**, **process** and **analyze** the J
 <br /><br />Note that **this may not be a complete text dump of the game**. The extraction process relies on capturing text while playing the game, which means coverage is not systematic and the total percentage of extracted text cannot be determined. While most steps (screenshot capture, deduplication, and organization) have been automated, some data may have been lost during processing.
 <br /><br />Despite these limitations, the dataset should serve as a valuable reference for learners, containing over 2,000 text extractions and approximately 4,500 speaker-tagged sentences.
 
+Notes: 
+- Encoding: UTF-8
+- The speaker labeled as "Dialogue" refers to any generic dialogue boxes not associated with a character, e.g. interactions with backgroud objects or pop-up text
+
 All rights to the [developers](https://game.neoscorp.jp/shinchan_coaltown/index_en.html).
 <br /><br />![Screenshot 2025-01-18 222516](https://github.com/user-attachments/assets/53180745-574d-4ce1-a2e5-ed75a089483d)
 
@@ -88,5 +92,4 @@ The main output is a CSV file containing:
 - Original Japanese text
 - Speaker identification
 - English translations
-- JLPT level classifications
 - Additional translation notes
