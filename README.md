@@ -7,6 +7,7 @@ This project is a set of utils to **extract**, **process** and **analyze** the J
 <br /><br />Despite these limitations, the dataset should serve as a valuable reference for learners, containing over 2,000 text extractions and approximately 4,500 speaker-tagged sentences.
 
 All rights to the [developers](https://game.neoscorp.jp/shinchan_coaltown/index_en.html).
+<br /><br />![Screenshot 2025-01-18 222516](https://github.com/user-attachments/assets/53180745-574d-4ce1-a2e5-ed75a089483d)
 
 ## Project Structure
 ```
@@ -45,6 +46,9 @@ shin_chan_coal_town/
   - Screenshot organization and management
   - Character-specific template matching
   - Debug mode to fine tune screencapture (params setting)
+
+![Screenshot 2025-01-18 222729](https://github.com/user-attachments/assets/7788d39c-6352-4f9f-b47f-3b74bb747a6a)
+
 
 ### 2. Image to Text Utils
 - Located in `image_to_text_utils/`
