@@ -85,25 +85,25 @@ class JapaneseTextAnalyzer:
     
     def plot_kanji_maps(self, total_freq):
         """Create Kanji Maps divided by JLPT Level with frequency legend"""
+        plt.rcParams['font.family'] = ['Calibri', 'sans-serif']
+        plt.rcParams['font.size'] = 11
+        
         try:
             fp = FontProperties(family='MS Gothic')
         except:
-            fp = FontProperties(family='DFKai-SB')  # Fallback font
-            
-        # Group kanji by JLPT level
+            fp = FontProperties(family='DFKai-SB')
+        
         level_kanji = defaultdict(list)
         for kanji, freq in total_freq.items():
             level = self.kanji_dict.get(kanji, 'Unknown')
             level_kanji[level].append((kanji, freq))
         
-        # Sort levels in order
         level_order = ['N5', 'N4', 'N3', 'N2', 'N1', 'Unknown']
         
-        # Create subplot grid with space for legend
-        fig = plt.figure(figsize=(20, 14))
+        # Add extra space at top for title
+        fig = plt.figure(figsize=(20, 15))  # Increased height
         gs = gridspec.GridSpec(3, 3, height_ratios=[1, 1, 0.2])
         
-        # Define frequency bins for colors
         freq_bins = [1, 5, 10, 25, 50, 100]
         colors = plt.cm.Blues(np.linspace(0.2, 1, len(freq_bins)))
         
@@ -152,9 +152,9 @@ class JapaneseTextAnalyzer:
                         freq = freq_dict[kanji]
                         color = 'white' if color_grid[i, j] > 0.5 else 'black'
                         ax.text(j, i, kanji, ha='center', va='center', 
-                               color=color, fontproperties=fp, fontsize=10)
+                            color=color, fontproperties=fp, fontsize=10)
             
-            ax.set_title(f'JLPT {level}\n({len(kanji_list)} unique kanji)')
+            ax.set_title(f'JLPT N{level[1] if level != "Unknown" else "X"} : {len(kanji_list)} unique kanji')
             ax.axis('off')
         
         # Add color legend
@@ -174,7 +174,6 @@ class JapaneseTextAnalyzer:
         ax_legend.legend(patches, labels, loc='center', ncol=len(freq_bins)-1,
                         bbox_to_anchor=(0.5, 0.5))
         
-        plt.suptitle('Kanji Usage by JLPT Level', fontsize=16)
         plt.tight_layout()
         plt.show()
     
@@ -185,46 +184,42 @@ class JapaneseTextAnalyzer:
             
         # Calculate the metrics
         stats_df = self.text_data.groupby('speaker').agg({
-            'joined_japanese_text': 'count',  # Total number of sentences
-            'text_length': 'mean'  # Average length already in characters
+            'joined_japanese_text': 'count',
+            'text_length': 'mean'
         }).reset_index()
         
-        # Rename columns for clarity
         stats_df.columns = ['speaker', 'total_sentences', 'avg_length']
-        
-        # Sort by total sentences descending
         stats_df = stats_df.sort_values('total_sentences', ascending=False)
         
-        # Create figure with subplots
+        # Set font properties
+        plt.rcParams['font.family'] = ['Calibri', 'sans-serif']
+        plt.rcParams['font.size'] = 11
+        
         fig, axes = plt.subplots(1, 2, figsize=(12, 8), sharey=True)
         plt.subplots_adjust(wspace=0.1)
         
-        # Define the metrics to plot
         metrics = ['total_sentences', 'avg_length']
         titles = ['Tot # Sentences by Speaker', 'Avg Sentence Length by # Chars']
         
-        # Plot each metric
         for ax, metric, title in zip(axes, metrics, titles):
             sns.scatterplot(data=stats_df, 
-                          y='speaker',
-                          x=metric,
-                          ax=ax,
-                          alpha=0.8,
-                          color='#1f77b4',  # Darker blue
-                          s=75)  # Reduced dot size
+                        y='speaker',
+                        x=metric,
+                        ax=ax,
+                        alpha=0.8,
+                        color='#1f77b4',
+                        s=60)  # Reduced size by 20% from original 75
             
             ax.set_title(title)
             ax.grid(True, linestyle='--', alpha=0.7)
             ax.set_xlabel('Count')
             
-            # Only show y-axis labels on the first plot
             if ax != axes[0]:
                 ax.set_ylabel('')
             
         plt.tight_layout()
         plt.show()
         
-        # Print summary statistics
         print("\nSpeaker Statistics:")
         print(stats_df.round(2).to_string(index=False))
         
@@ -387,97 +382,112 @@ class JapaneseTextAnalyzer:
         if not hasattr(self, 'speaker_scores'):
             raise ValueError("No complexity scores found. Run compute_complexity first.")
             
-        # Sort speakers by total score and get component data
+        # Set font properties
+        plt.rcParams['font.family'] = ['Calibri', 'sans-serif']
+        plt.rcParams['font.size'] = 11
+        
         speaker_scores = self.speaker_scores.sort_values('total_score', ascending=True)
         component_data = speaker_scores.drop('total_score', axis=1)
         
-        # Create figure
         fig, ax = plt.subplots(figsize=(10, 8))
         
-        # Plot stacked bars
+        # Plot stacked bars with inverted colors (from dark to light)
+        colors = plt.cm.Blues(np.linspace(0.8, 0.2, len(component_data.columns)))
         component_data.plot(kind='barh', 
-                          stacked=True,
-                          ax=ax,
-                          width=0.8,
-                          cmap='Blues')
+                        stacked=True,
+                        ax=ax,
+                        width=0.8,
+                        color=colors)
         
-        # Customize plot
         ax.set_title('Sentence Complexity Components by Speaker')
         ax.set_xlabel('Score Contribution')
         ax.set_ylabel('Speaker')
         ax.legend(bbox_to_anchor=(1.05, 1), 
-                 loc='upper left',
-                 title='Components')
+                loc='upper left',
+                title='Components')
         
         plt.tight_layout()
         plt.show()
         
-        # Print scores
         print("\nComplexity Scores by Component:")
-        print(component_data.round(2).to_string())        
+        print(component_data.round(2).to_string())     
+            
+    def plot_jlpt_distribution(self, jlpt_dist, total_freq, title="JLPT Level Distribution"):
+        """Plot JLPT level distribution showing both unique and total kanji counts"""
+        plt.rcParams['font.family'] = ['Calibri', 'sans-serif']
+        plt.rcParams['font.size'] = 11
         
-    def plot_jlpt_distribution(self, jlpt_dist, title="JLPT Level Distribution"):
-        """Plot JLPT level distribution showing both total and unique counts"""
         level_order = ['N5', 'N4', 'N3', 'N2', 'N1', 'Unknown']
         
-        # Calculate total and unique counts
-        total_counts = []
+        # Calculate counts
         unique_counts = []
+        total_counts = []
         for level in level_order:
-            # Total occurrences
-            total_counts.append(jlpt_dist.get(level, 0))
-            # Unique kanji
-            unique_kanji = set(k for k, l in self.kanji_dict.items() 
-                             if l == level and k in self.speaker_frequency)
+            # Get unique kanji that appear in the text for this JLPT level
+            unique_kanji = set(k for k in total_freq.keys() 
+                            if self.kanji_dict.get(k, 'Unknown') == level)
             unique_counts.append(len(unique_kanji))
+            total_counts.append(jlpt_dist.get(level, 0))
         
-        # Create figure
-        fig, ax = plt.subplots(figsize=(12, 6))
+        # Create figure with two y-axes
+        fig, ax1 = plt.subplots(figsize=(12, 6))
+        ax2 = ax1.twinx()
         
-        # Plot bars
+        # Set bar positions
         x = np.arange(len(level_order))
         width = 0.35
         
-        rects1 = ax.bar(x - width/2, total_counts, width, label='Total Occurrences',
-                       color='steelblue')
-        rects2 = ax.bar(x + width/2, unique_counts, width, label='Unique Kanji',
-                       color='lightsteelblue')
+        # Plot bars
+        unique_bars = ax1.bar(x - width/2, unique_counts, width, label='Unique Kanji',
+                            color='steelblue', alpha=0.8)
+        total_bars = ax2.bar(x + width/2, total_counts, width, label='Total Occurrences',
+                            color='lightcoral', alpha=0.8)
         
-        # Add labels and titles
-        ax.set_ylabel('Count')
-        ax.set_title(title)
-        ax.set_xticks(x)
-        ax.set_xticklabels(level_order)
-        ax.legend()
+        # Customize axes
+        ax1.set_xlabel('JLPT Level')
+        ax1.set_ylabel('Number of Unique Kanji')
+        ax2.set_ylabel('Total Kanji Occurrences')
+        
+        ax1.set_xticks(x)
+        ax1.set_xticklabels(level_order)
         
         # Add value labels on bars
-        def autolabel(rects):
+        def autolabel(rects, ax):
             for rect in rects:
                 height = rect.get_height()
                 ax.annotate(f'{int(height)}',
-                          xy=(rect.get_x() + rect.get_width()/2, height),
-                          xytext=(0, 3),  # 3 points vertical offset
-                          textcoords="offset points",
-                          ha='center', va='bottom')
+                        xy=(rect.get_x() + rect.get_width()/2, height),
+                        xytext=(0, 3),  # 3 points vertical offset
+                        textcoords="offset points",
+                        ha='center', va='bottom')
         
-        autolabel(rects1)
-        autolabel(rects2)
+        autolabel(unique_bars, ax1)
+        autolabel(total_bars, ax2)
         
+        # Combine legends
+        lines1, labels1 = ax1.get_legend_handles_labels()
+        lines2, labels2 = ax2.get_legend_handles_labels()
+        ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper right')
+        
+        plt.title(title)
         plt.tight_layout()
         plt.show()
 
 
+
     def plot_speaker_jlpt_distribution(self, speaker_jlpt_dist):
-        """Plot JLPT distribution by speaker as percentages with unique count line"""
+        """Plot JLPT distribution by speaker in absolute values"""
+        plt.rcParams['font.family'] = ['Calibri', 'sans-serif']
+        plt.rcParams['font.size'] = 11
+        
         level_order = ['N5', 'N4', 'N3', 'N2', 'N1', 'Unknown']
         
-        # Calculate percentages and unique counts
+        # Calculate absolute values and unique counts
         data = []
         unique_counts = {}
         
         for speaker in speaker_jlpt_dist.keys():
             dist = speaker_jlpt_dist[speaker]
-            total = sum(dist.values())
             unique_count = len(set(kanji for kanji in self.speaker_frequency[speaker].keys()))
             unique_counts[speaker] = unique_count
             
@@ -485,21 +495,17 @@ class JapaneseTextAnalyzer:
                 data.append({
                     'Speaker': speaker,
                     'JLPT Level': level,
-                    'Percentage': (dist.get(level, 0) / total * 100) if total > 0 else 0
+                    'Count': dist.get(level, 0)
                 })
         
-        # Convert to DataFrame
         df = pd.DataFrame(data)
         
-        # Sort speakers by unique kanji count
         sorted_speakers = sorted(unique_counts.keys(), 
-                               key=lambda x: unique_counts[x],
-                               reverse=True)
+                            key=lambda x: unique_counts[x],
+                            reverse=True)
         
-        # Create plot with two y-axes
         fig, ax1 = plt.subplots(figsize=(15, 8))
         
-        # Plot stacked percentage bars
         bottom_vals = np.zeros(len(sorted_speakers))
         colors = plt.cm.Blues(np.linspace(0.2, 0.8, len(level_order)))
         
@@ -508,74 +514,30 @@ class JapaneseTextAnalyzer:
             values = []
             for speaker in sorted_speakers:
                 speaker_data = df[(df['Speaker'] == speaker) & (df['JLPT Level'] == level)]
-                values.append(speaker_data['Percentage'].iloc[0] if not speaker_data.empty else 0)
+                values.append(speaker_data['Count'].iloc[0] if not speaker_data.empty else 0)
             
             ax1.bar(sorted_speakers, values, bottom=bottom_vals, 
-                   label=level, color=colors[i])
+                label=level, color=colors[i])
             bottom_vals += values
         
-        # Add unique count line on secondary y-axis
         ax2 = ax1.twinx()
         unique_values = [unique_counts[speaker] for speaker in sorted_speakers]
         ax2.plot(range(len(sorted_speakers)), unique_values, 'r-', linewidth=2, 
-                 marker='o', label='Unique Kanji')
+                marker='o', label='Unique Kanji')
         
-        # Customize axes
         ax1.set_title("JLPT Level Distribution by Speaker")
         ax1.set_xlabel("Speaker")
-        ax1.set_ylabel("Percentage")
+        ax1.set_ylabel("Absolute Count")
         ax2.set_ylabel("Unique Kanji Count", color='r')
         
-        # Set tick labels
-        plt.xticks(range(len(sorted_speakers)), sorted_speakers, rotation=45, ha='right')
+        # Rotate labels vertically
+        ax1.set_xticks(range(len(sorted_speakers)))
+        ax1.set_xticklabels(sorted_speakers, rotation=90)
         
-        # Add legends
         lines1, labels1 = ax1.get_legend_handles_labels()
         lines2, labels2 = ax2.get_legend_handles_labels()
         ax1.legend(lines1 + lines2, labels1 + labels2, 
-                  bbox_to_anchor=(1.15, 1), loc='upper left')
+                bbox_to_anchor=(1.15, 1), loc='upper left')
         
         plt.tight_layout()
         plt.show()
-
-
-
-
-# Initialize analyzer
-analyzer = JapaneseTextAnalyzer()
-
-# Load data
-analyzer.load_data(
-    r"C:\Users\andre\Desktop\projects\shin_chan_coal_town\jpn_text_utils\shin_chan_coal_town_jp_text.csv",
-    r"C:\Users\andre\Desktop\projects\shin_chan_coal_town\jpn_text_utils\kanji_jltp_tagged.txt",
-    r"C:\Users\andre\Desktop\projects\shin_chan_coal_town\jpn_text_utils\vocab_jltp_tagged.txt"
-)
-
-# Perform analysis
-results = analyzer.analyze_text()
-
-analyzer.plot_sentence_statistics()
-
-
-analyzer.compute_complexity()
-analyzer.plot_complexity_analysis()
-
-# Plot Kanji Maps
-analyzer.plot_kanji_maps(results['total_frequency'])
-
-# Plot overall JLPT distribution
-analyzer.plot_jlpt_distribution(results['total_jlpt_distribution'])
-
-# Plot speaker-specific JLPT distribution
-analyzer.plot_speaker_jlpt_distribution(results['speaker_jlpt_distribution'])
-
-# Access raw frequency data
-print("\nMost common kanji overall:")
-for kanji, freq in results['total_frequency'].most_common(10):
-    print(f"{kanji}: {freq}")
-
-print("\nMost common kanji by speaker:")
-for speaker, freq in results['speaker_frequency'].items():
-    print(f"\n{speaker}:")
-    for kanji, count in freq.most_common(5):
-        print(f"{kanji}: {count}")
