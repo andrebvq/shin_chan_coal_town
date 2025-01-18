@@ -1,6 +1,3 @@
-# text utils (needs cleanup)
-# merge Jsons out of image_to_text.py
-
 import json
 from typing import List, Union
 from pathlib import Path
@@ -34,17 +31,17 @@ def merge_translation_jsons(file_paths: List[Union[str, Path]], output_path: str
 
 # Example usage:
 if __name__ == "__main__":
-    files = [r'C:\Users\andre\Desktop\OUTPUT_API\extracted_text_results_CHARA1.json',
-            r"C:\Users\andre\Desktop\OUTPUT_API\extracted_text_results_DIALOGUES.json",
-            r"C:\Users\andre\Desktop\OUTPUT_API\extracted_text_results_CHARA2.json",
-            r"C:\Users\andre\Desktop\OUTPUT_API\extracted_text_results_CHARA3.json"]
-    merged = merge_translation_jsons(files, r"C:\Users\andre\Desktop\OUTPUT_API\merged_translations.json")
+    files = [r"Json1.json",
+            r"Json2.json",
+            r"Json3.json",
+            r"Json4.json"]
+    merged = merge_translation_jsons(files, r"Merged.json")
 
 
 
 ## export to csv
 
-def load_dialogue_data(file_path=r"C:\Users\andre\Desktop\OUTPUT_API\merged_translations.json"):
+def load_dialogue_data(file_path=r"Merged.json"):
     # Read the JSON file
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -206,8 +203,8 @@ def main(input_file):
     unique_df, duplicates_df = find_duplicates(df)
     
     # Save results
-    unique_df.to_csv(r'C:\Users\andre\Desktop\unique_entries.csv', index=False)
-    duplicates_df.to_csv(r'C:\Users\andre\Desktop\duplicates.csv', index=False)
+    unique_df.to_csv(r'export_unique_sentences.csv', index=False)
+    duplicates_df.to_csv(r'export_duplicate_sentences.csv', index=False)
     
     print(f"\nProcessing complete:")
     print(f"Found {len(unique_df)} unique entries")
@@ -216,4 +213,4 @@ def main(input_file):
     return unique_df, duplicates_df
 
 if __name__ == "__main__":
-    main(r"C:\Users\andre\Desktop\asd.csv")
+    main(r'full_csv_sentences.csv') # create a csv from the merged csv then feed into main

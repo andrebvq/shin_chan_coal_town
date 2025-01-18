@@ -187,7 +187,7 @@ class ClaudeTextExtractor:
         return results
 
 async def main():
-    api_key = "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"
+    api_key = "Claude-API-Key"
     
     current_dir = os.path.dirname(os.path.abspath(__file__))
     input_directory = os.path.join(current_dir, "screenshots_to_text")
