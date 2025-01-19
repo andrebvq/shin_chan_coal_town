@@ -20,7 +20,6 @@ shin_chan_coal_town/
 │   ├── screenshots_to_text/            # Screenshots to be sent to Claude
 │   ├── image_to_text.py                # Code to perform API calls to Claude for OCR and translations from images
 │   └── text_utils.py                   # Utils to merge Json files and deduplicate text entries
-
 ├── jpn_text_utils/
 │   ├── ipynb_checkpoints/
 │   ├── __pycache__/
