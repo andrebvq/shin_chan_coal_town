@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a set of utils to **extract**, **process** and **analyze** the Japanese text from the game "**Shin Chan: Shiro and the Coal Town**". 
-<br /><br />The output is provided as a CSV file containing game dialogues with speaker identification, translations, and supplementary information for Japanese language learners. See the **release section of the right**.
+<br /><br />The output is provided as a CSV file containing game dialogues with speaker identification, translations, and supplementary information for Japanese language learners. See the **release section on the right**.
 <br /><br />Note that **this may not be a complete text dump of the game**. The extraction process relies on capturing text while playing the game, which means coverage is not systematic and the total percentage of extracted text cannot be determined. While most steps (screenshot capture, deduplication, and organization) have been automated, some data may have been lost during processing.
 <br /><br />Despite these limitations, the dataset should serve as a valuable reference for learners, containing over 2,000 text extractions and approximately 4,500 speaker-tagged sentences.
 
